@@ -1,8 +1,1 @@
-node_modules
-dist
-build
 site
-.npmrc
-local
-secret
-keys
