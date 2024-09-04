@@ -3,6 +3,7 @@ site_description: Documentation for VisionsTrust Application & API
 site_author: Visions
 docs_dir: docs
 site_dir: ./site
+use_directory_urls: false
 site_url: https://docs.visionstrust.com
 repo_url: https://github.com/VisionsOfficial/visionstrust-docs
 edit_uri: blob/main/docs/
