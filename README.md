@@ -15,3 +15,32 @@ To build the documentation, follow these steps:
 For more information on how to use `mkdocs`, refer to the official documentation.
 
 Feel free to explore the different sections of this repository to learn more about the documentation structure and how to contribute.
+
+## Plugins
+In order to build after updates, you need to have python and the following packages installed
+
+### MKDocs
+```bash
+pip install mkdocs
+```
+
+### Mermaid Support
+```bash
+pip install mkdocs-mermaid2-plugin
+```
+
+### Theme
+```bash
+pip install mkdocs-material
+```
+
+### Auto revision file updates
+```bash
+pip install mkdocs-git-revision-date-localized-plugin
+```
+
+### Install using requirements.txt
+You can also install everything at once by running
+```bash
+pip install -r requirements.txt
+```
