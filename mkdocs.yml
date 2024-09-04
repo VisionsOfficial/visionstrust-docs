@@ -3,6 +3,7 @@ site_description: Documentation for VisionsTrust Application & API
 site_author: Visions
 docs_dir: docs
 site_dir: ./site
+repo_url: https://github.com/VisionsOfficial/visionstrust-docs
 copyright: Visions 2024
 theme:
   name: material
@@ -10,33 +11,39 @@ theme:
     - content.action.edit
     - content.action.view
     - content.code.copy
+    - navigation.footer
+    - search.highlight
+    - search.share
 
 nav: 
   - Home: index.md
+  - Glossary: glossary.md
   - Application:
-    - Overview: application/overview.md
-    - Onboarding: application/onboarding.md
-    - Dashboard: application/dashboard.md
+    - Getting Started:
+      - Overview: application/overview.md
+      - Onboarding: application/onboarding.md
+      - Dashboard: application/dashboard.md
     - Discovery: 
+      - Browsing: application/discovery/index.md
       - Data: application/discovery/data.md
       - Services: application/discovery/services.md
       - Projects: application/discovery/projects.md
-    - Registering Resources:
-      - Data: application/registering-resources/data.md
-      - Services: application/registering-resources/services.md
-      - Service Offerings: application/registering-resources/service-offerings.md
+    - Offers:
+      - Overview: application/registering-resources/overview.md
+      - Creating an offer: application/registering-resources/creating-an-offer.md
+      - Data Resource: application/registering-resources/data-resources.md
+      - Service Resource: application/registering-resources/service-resources.md
     - Projects:
       - Overview: application/projects/overview.md
       - Creating a Project: application/projects/creating-a-project.md
       - Managing a Project:
+        - Project Settings: application/projects/project-settings.md
         - Invitations: application/projects/invitations.md
         - Join Requests: application/projects/join-requests.md
-        - Contributions: application/projects/contributions.md
-      - Project Settings: application/projects/project-settings.md
     - Negotiation & Contracts:
       - Peer-to-Peer Negotiation: application/negotiation/peer-to-peer.md
       - Project Negotiation: application/negotiation/project-negotiation.md
-  - Guide - Your first data exchange:
+  - Developers:
     - Requirements: guide/requirements.md
     - Setting up a connector: guide/setting-up-a-connector.md
     - Setting up a contract: guide/setting-up-a-contract.md
