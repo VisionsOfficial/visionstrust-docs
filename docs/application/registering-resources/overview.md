@@ -4,13 +4,13 @@ Offers are made available from providers registering Data or Services on the cat
 
 ## What is an offer ?
 
-An offer is a set of [data](./data.md) and/or [service](./services.md) resources provided by a participant of the data space, bundled together to form a business & technical product that can be discovered on the catalogue and used by other participants and projects (after negotiating its usage).
+An offer is a set of [data](./data-resources.md) and/or [service](./service-resources.md) resources provided by a participant of the data space, bundled together to form a business & technical product that can be discovered on the catalogue and used by other participants and projects (after negotiating its usage).
 
 ### Differences with a resource
 
 A resource is the metadata that defines a single unit of data or a single service. Resources are not directly present in the catalogue and form your own _catalogue_ of assets that you can then bundle up into offers for the catalogue.
 
-You can find more information on both in looking at how to create [data](./data.md) resources or how to create [service](./services.md) resources.
+You can find more information on both in looking at how to create [data](./data-resources.md) resources or how to create [service](./service-resources.md) resources.
 
 ## Composition of an Offer
 

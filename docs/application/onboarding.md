@@ -49,6 +49,5 @@ If you want to discover at your own pace, you can also skip this onboarding scre
 Whether you followed the onboarding or decided to go at your own pace, it is likely that you will be wanting to do one of three possible actions:
 
 - [Browsing the catalogue](./discovery/index.md)
-- [Register data](./registering-resources/data.md)
-- [Register services](./registering-resources/services.md)
+- [Create Offers](./registering-resources/creating-an-offer.md)
 - [Create a project](./projects/overview.md)

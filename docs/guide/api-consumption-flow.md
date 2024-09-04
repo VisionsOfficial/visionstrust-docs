@@ -1,12 +1,12 @@
 # Configuring Resources for API Consumption
 
-The API Consumption protocol is a process in which PDCs (Prometheus-X Dataspace Connector) are used in a way to allow Data Provider to **consume** a service from a Service Provider just like it would consume an API to receive data. To enable this, resources from both parties need to have metadata allowing the data or service to be used by this protocol.
+The API Consumption protocol is a process in which PDCs (Prometheus-X Dataspace Connector) are used in a way to allow a Data Provider to **consume** a service from a Service Provider just like it would consume an API to receive data. To enable this, resources from both parties need to have metadata allowing the data or service to be used by this protocol.
 
 ## Configuring a Data Resource for API Consumption
 
 From the **Data Provider**'s side, the data resource informed in the catalogue should be marked as **aimed to be an API payload**. This can be done through your data resource creation or edit page as shown in the image below.
 
-![Payload Representation](./images/payload_representation.png)
+![Payload Representation](../images/data_representation.png)
 
 As for a regular data representation for the resource, it is essential to inform what type of source the data is retrieved from, what endpoint the PDC should call to get the data and if protected, the [credential identifier](https://github.com/Prometheus-X-association/dataspace-connector/blob/main/docs/CREDENTIALS.md) associated to this resource.
 
@@ -22,6 +22,6 @@ This is exactly the same process as defining a non-payload data resource.
 
 From the **Service Provider**'s side, marking a service as an API is as simple as checking a box in the Service Resource's creation or edit page (as shown in the image below).
 
-![Service as API](./images/service_api.png)
+![Service as API](../images/software_representation.png)
 
 Marking a service resource as being an API allows the PDC to automatically adjust the data exchange protocol and send the API response back to the Data Provider.

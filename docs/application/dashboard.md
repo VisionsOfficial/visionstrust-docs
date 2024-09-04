@@ -25,7 +25,6 @@ The dashboard allows you to quickly access the [catalogue](../application/discov
 
 ## Where to go from here
 
-- [Create a data offer](./registering-resources/data.md)
-- [Create a service offer](./registering-resources/services.md)
+- [Create an offer](./registering-resources/creating-an-offer.md)
 - [Create a project](./projects/creating-a-project.md)
-- [Join a project](./projects/join-requests.md)
+- [Join a project](./negotiation/join-requests.md)
