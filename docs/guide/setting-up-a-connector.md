@@ -20,11 +20,14 @@ To install the PDC, please follow the README file defined in the [Prometheus-X D
 
 When you reach the configuration phase of your connector and need to setup some config variables regarding the services to use, this is where you will need to configure your connector to point to the VisionsTrust services. The configuration should be set as followed:
 
-| Var | URI |
+| Key | Value |
 | --- | --- |
+| endpoint | The endpoint at which your connector is available, should be a proper domain
 | catalogUri | [https://api.visionstrust.com/v1/](https://api.visionstrust.com/v1/) |
 | contractUri | [https://contract.visionstrust.com/](https://contract.visionstrust.com/) |
 | consentUri | [https://consent.visionstrust.com/v1](https://consent.visionstrust.com/v1) |
+| serviceKey | Your service key found at: https://visionstrust.com/dashboard/profile/settings
+| secretKey | Your secret key found at: https://visionstrust.com/dashboard/profile/settings
 
 If your `config.json` file is properly configured to communicate with VisionsTrust, it should have automatically registered your connector for your account on VisionsTrust.
 
