@@ -5,8 +5,8 @@ docs_dir: docs
 site_dir: ./site
 use_directory_urls: false
 site_url: https://docs.visionstrust.com
-repo_url: https://github.com/VisionsOfficial/visionstrust-docs
-edit_uri: blob/main/docs/
+# repo_url: https://github.com/VisionsOfficial/visionstrust-docs
+# edit_uri: blob/main/docs/
 copyright: Visions 2024
 plugins:
   - search
@@ -44,6 +44,7 @@ nav:
       - Overview: application/projects/overview.md
       - Creating a Project: application/projects/creating-a-project.md
       - Project Settings: application/projects/project-settings.md
+      - Contributions: application/projects/contributions.md
     - Negotiation:
       - Peer-to-Peer: application/negotiation/peer-to-peer.md
       - Project:

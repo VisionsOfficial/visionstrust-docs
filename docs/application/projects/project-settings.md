@@ -35,7 +35,7 @@ When creating the project, you defined a series of information to create the fir
 Additionnal information is required before reaching the completion step for your project such as:
 
 - **Defining Tech requirements**: Tech components that your project will use for regulating data exchanges in the project. Some are mandatory and will be set for you by default.
-- **Contributions**: Contributions that you **can** add to the project, as in data or services that you would like to the contribute to the project for them to be used by the other participants in the project.
+- **Contributions**: [Contributions](./contributions.md) that you **can** add to the project, as in data or services that you would like to the contribute to the project for them to be used by the other participants in the project.
 
 ## Project Contract
 
