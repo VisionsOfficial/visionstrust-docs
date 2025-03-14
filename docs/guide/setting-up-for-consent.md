@@ -26,6 +26,8 @@ When an exchange of personal data is needed, the initiator of this data exchange
 
 For security reasons, the authentication of the individual in VisionsTrust's PDI service is mandatory to properly authorize consent grant. This means that VisionsTrust needs to be made aware of your users in order to link the individual's VisionsTrust PDI identity with the identity of that same individual in your user database.
 
+## Registering Users to the Consent Service
+
 > User registration in consent services is documented in the [Prometheus-X Dataspace Connector wiki](https://github.com/Prometheus-X-association/dataspace-connector/wiki/User-Management), as the connector is probably what you will use to register users.
 
 ## Getting Privacy Notices for your users

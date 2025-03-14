@@ -53,6 +53,7 @@ nav:
         - Join Requests: application/negotiation/join-requests.md
         - Negotiation Process: application/negotiation/negotiation.md
   - Developers:
+    - Guide: guide/guide.md
     - Requirements: guide/requirements.md
     - Setting up a connector: guide/setting-up-a-connector.md
     - Setting up resources: guide/setting-up-technical-resources.md

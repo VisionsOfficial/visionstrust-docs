@@ -31,4 +31,4 @@ If you are a developer, you will likely be jumping around between the catalogue 
 
 To simplify this for you, we have setup a guide that will lead you from the creation of the organization to installing the connector to realizing your first data exchange using VisionsTrust.
 
-Get started by [clicking here](./guide/requirements.md).
+Get started by [clicking here for the full guide](./guide/requirements.md) or [here if you only need to check the requirements](./guide/requirements.md).

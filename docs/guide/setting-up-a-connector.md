@@ -31,6 +31,8 @@ When you reach the configuration phase of your connector and need to setup some 
 
 If your `config.json` file is properly configured to communicate with VisionsTrust, it should have automatically registered your connector for your account on VisionsTrust.
 
+### Checking for valid configuration
+
 To check this, you can go into your VisionsTrust profile settings and click on the Endpoints tab to see if it has been correctly setup with your connector. Endpoints should point towards the https:// domain where your connector is currently running.
 
 ## Optional: Credentials
