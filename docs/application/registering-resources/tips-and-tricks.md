@@ -1,16 +1,3 @@
-# **How to write a description of data / service / infrastructure offers: a guide**
-
-VisionsTrust is a platform that includes catalogue and marketplace services. As such, the marketplace and catalogue have two main objectives: 
-
-* **For project leaders**: to search and find relevant, secured providers of data / services / infrastructures according to their needs.  
-* **For providers of data / services / infrastructures**: to gain visibility and sell their products and services to major public and private players in key sectors. 
-
-In this context, communicating clearly the value of your offerings on the platform is key to help convince project leaders to choose you compared to a provider of similar services. For this, we strongly encourage you to use the descriptions on VisionsTrust to appeal to potential customers' interests and needs. This document provides a series of steps and tips to help you write more effective descriptions of data / service / infrastructure offers in the VisionsTrust platform. 
-
-## **What is a data / service / infrastructure offer description?**
-
-You need to consider the description of your offers on VisionsTrust as a form of marketing copy that describes a business's offering to your potential customers. Beyond explaining what the data product or service is, these descriptions also typically demonstrate **why they are worth buying**. Providing specific details, such as the benefits or features, can help differentiate the offerings from others in the VisionsTrust marketplace and attract project leaders' attention.
-
 ## **How to describe products and services on VisionsTrust: tips and tricks**
 
 ### **1\. Define your audience**
@@ -25,7 +12,7 @@ Once you understand the precise objectives the project leaders want to achieve, 
 
 Now that you have identified your target project leaders and the information about your offerings that you want to convey, you must fill in the form to describe your offer. Keep in mind that when scanning the catalogue, project leaders will see first the offer picture, the offer name and the offer caption. If these elements caught their attention, they will click on “Discover” to display the detailed offer description \- do not neglect these three elements, they are essential\! 
 
-![](../images/user-guide/image-1.png)
+![](../../images/user-guide/image-1.png)
 *View from the VisionsTrust catalogue: the project leaders will see first the offer category, the offer image, title and caption.* 
 
 The form to register your offer in the VisionsTrust catalogue consists in the following elements (all three are **mandatory**):
@@ -35,7 +22,7 @@ The form to register your offer in the VisionsTrust catalogue consists in the fo
 ***Example:***   
 *Don’t: “Supportsquare NV (participating in MAIA-X)”*  
 *The title does not clearly reflect what this offer is about.*  
-*![](../images/user-guide/image-2.png)*  
+*![](../../images/user-guide/image-2.png)*  
 *Do: “VR/AR Training”*   
 *This title allows one to immediately grasp what the offer consists in.*
 
@@ -43,16 +30,16 @@ The form to register your offer in the VisionsTrust catalogue consists in the fo
 
 **Example:**   
 *Don’t: repeat the offer title in the offer caption:*  
-![](../images/user-guide/image-3.png)
+![](../../images/user-guide/image-3.png)
 
 *Do: Catchy, short sentence that illustrates simply the value and uniqueness of the offer: “Transform a PDF document into an insightful Digital Twin.”*  
-![](../images/user-guide/image-4.png)
+![](../../images/user-guide/image-4.png)
 
 * **Detailed offer description**: You have 2000 characters to provide an effective description. We encourage you to combine both bullet points and plain paragraphs. Using paragraphs allows you to craft a narrative around your offer, highlighting the reasons why it’s a worthwhile purchase. This approach also provides an opportunity to showcase your brand’s unique voice, whether through a lighthearted, conversational style or a more formal tone. To complement these descriptions, adding bullet-point lists with concise phrases will outline key features or specifications. 
 
 **Example:**   
 *Do: use the detailed description to give context, and details to the potential customer.*   
-**![](../images/user-guide/image-5.png)**
+**![](../../images/user-guide/image-5.png)**
 
 You have the opportunity to also add **an image** to your offer, even if this is non-mandatory, we strongly recommend that you do it. Images are an effective method of garnering customers' attention and helping them understand your offers. This will increase your visibility and make your offer more appealing to prospective customers. Please upload only high quality images: 
 
@@ -60,7 +47,7 @@ You have the opportunity to also add **an image** to your offer, even if this is
 * Maximum resolution: 1200x800 pixels  
 * Recommended formats: JPEG or PNG.
 
-Do not neglect or forget to fill out the **Offer settings tab**, this is where you can indicate  the policy, pricing and add resources to your offer. Without these elements, you will not be able to publish the offer on the catalogue. ![](../images/user-guide/image-6.png)
+Do not neglect or forget to fill out the **Offer settings tab**, this is where you can indicate  the policy, pricing and add resources to your offer. Without these elements, you will not be able to publish the offer on the catalogue. ![](../../images/user-guide/image-6.png)
 
 ### **4\. Be as specific and concise as possible**
 
