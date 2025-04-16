@@ -52,6 +52,7 @@ nav:
         - Invitations: application/negotiation/invitations.md
         - Join Requests: application/negotiation/join-requests.md
         - Negotiation Process: application/negotiation/negotiation.md
+    - User Guide: application/user-guide.md
   - Developers:
     - Guide: guide/guide.md
     - Requirements: guide/requirements.md
