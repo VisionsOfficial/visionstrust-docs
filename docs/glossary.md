@@ -10,6 +10,7 @@ The dataspace vocabulary can be combursome to deal with as there are many terms 
 | Offer | A package of one or more resources of a provider containing some additionnal information in order to be proposed to the marketplace. Unlike resources, Service Offerings are meant for display and discovery in the marketplace. |
 | Data Provider | A participant that proposes Service Offerings based of data resources on the marketplace |
 | Service Provider | A participant that proposes Service Offerings based of services (AI service, API...) on the marketplace |
-| Infrastructure Service | (upcoming) A service implementing a Prometheus-X Building Block that can be used in data processing chains within data space use cases. |
-| Infrastructure Provider | (upcoming) A participant that proposes an infrastructure service on the marketplace |
+| Infrastructure Service Offer | A service implementing a Prometheus-X Building Block that can be used in service chains within data space use cases. |
+| Infrastructure Provider | A participant that proposes an infrastructure service on the marketplace |
+| Service Chain | A representation of a complex workflow of data sequences between offers of multiple members of a single project |
 | Contract | The object representing the data sharing agreement either between multiple members in the case of a Data Space Use Case contract or between 2 participants in the case of a bilateral contract |

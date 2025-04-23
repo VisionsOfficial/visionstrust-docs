@@ -1,12 +1,16 @@
 # Service Resources
 
-> _Check the definition for a Resource in the [glossary](../../glossary.md)_
+!!! tip "Glossary"
+
+    _Check the definition for a Resource in the [glossary](../../glossary.md)_
 
 A service resource is the metadata referencing a single service, API, data processing service that a provider can own and propose as a service to the catalogue.
 
 Resources are the elements that are used in order to compose an offer, which can be then presented in the catalogue.
 
-> A Service Resource alone will never show up in the catalogue. Only the provider of the resource will be able to visualize it unless it is bundled up into an Offer.
+!!! info
+
+    A Service Resource alone will never show up in the catalogue. Only the provider of the resource will be able to visualize it unless it is bundled up into an Offer.
 
 ## Creating a Service Resource
 

@@ -23,7 +23,9 @@ The information requested from you is defined in the [offers overview](./overvie
 | Location | yes | The location in which your offer operates / is stored. |
 | Image | no | If set, will be displayed in the catalogue, otherwise, your organization logo will be displayed |
 
-> Setting this initial information will create your offer as draft and will enable you to go in and fine tune the details of that offer in its dedicated page.
+!!! info 
+
+    Setting this initial information will create your offer as draft and will enable you to go in and fine tune the details of that offer in its dedicated page.
 
 ## Fine-tuning the settings of the offer
 
@@ -31,7 +33,9 @@ Now that your offer is created, you can fine-tune the settings of your offer and
 
 ![Offer settings](../../images/offer_settings.png)
 
-> All the detailed fields that you can edit on this page are defined in the [offer overview](./overview.md) section, feel free to check this out if you're having trouble understanding what a property is for.
+!!! info
+
+    All the detailed fields that you can edit on this page are defined in the [offer overview](./overview.md) section, feel free to check this out if you're having trouble understanding what a property is for.
 
 ### Adding resources to your offer
 

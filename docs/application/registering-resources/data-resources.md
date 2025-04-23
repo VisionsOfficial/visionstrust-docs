@@ -1,12 +1,16 @@
 # Data Resources
 
-> _Check the definition for a Resource in the [glossary](../../glossary.md)_
+!!! tip Glossary
+
+    _Check the definition for a Resource in the [glossary](../../glossary.md)_
 
 A data resource is the metadata referencing a single unit of data that a provider can own and propose as a service to the catalogue. This can be metadata about a dataset, database or anything that is technically available for others to access.
 
 Resources are the elements that are used in order to compose an offer, which can be then presented in the catalogue.
 
-> A Data Resource alone will never show up in the catalogue. Only the provider of the resource will be able to visualize it unless it is bundled up into an Offer.
+!!! info
+
+    A Data Resource alone will never show up in the catalogue. Only the provider of the resource will be able to visualize it unless it is bundled up into an Offer.
 
 ## Creating a Data Resource
 
@@ -36,7 +40,9 @@ If your data concerns personal data, the Personal Data tab will prompt you to ma
 
 The last section of your resource configuration concerns technical configurations for linkage with the [Dataspace Connectors](https://github.com/Prometheus-X-association/dataspace-connector) and for accessing the resources during data exchanges.
 
-> If you are a developer, this is defined more extensively in the [Developer documentation](../../guide/setting-up-a-connector.md)
+!!! note "For developers"
+
+    If you are a developer, this is defined more extensively in the [Developer documentation](../../guide/setting-up-a-connector.md)
 
 And that's it, once you're done filling it the mandatory & optional information you can add, save the resource and it will be created.
 

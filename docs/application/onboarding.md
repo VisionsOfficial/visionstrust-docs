@@ -1,6 +1,8 @@
 # Onboarding
 
-> Throughout this guide, keep in mind that you can access the [glossary](../glossary.md) at any time if you are unsure of a dataspace related term.
+!!! tip
+
+    Throughout this guide, keep in mind that you can access the [glossary](../glossary.md) at any time if you are unsure of a dataspace related term.
 
 The first step to being able to represent your organisation in the dataspace is by becoming a **Participant** of said dataspace.
 

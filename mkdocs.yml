@@ -13,6 +13,9 @@ plugins:
   - mermaid2
 markdown_extensions:
   - attr_list
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
 theme:
   logo: assets/logo.svg
   favicon: assets/favicon.ico
@@ -37,17 +40,20 @@ nav:
       - Browsing: application/discovery/index.md
       - Offers: application/discovery/offers.md
       - Projects: application/discovery/projects.md
+      - Infrastructure Offers: application/discovery/infrastructure.md
     - Offers:
       - Overview: application/registering-resources/overview.md
       - Creating an offer: application/registering-resources/creating-an-offer.md
       - Data Resource: application/registering-resources/data-resources.md
       - Service Resource: application/registering-resources/service-resources.md
+      - Infrastructure Offers: application/registering-resources/infrastructure-offers.md
       - Tips and Tricks: application/registering-resources/tips-and-tricks.md
     - Projects:
       - Overview: application/projects/overview.md
       - Creating a Project: application/projects/creating-a-project.md
       - Project Settings: application/projects/project-settings.md
       - Contributions: application/projects/contributions.md
+      - Service Chains: application/projects/service-chains.md
     - Negotiation:
       - Peer-to-Peer: application/negotiation/peer-to-peer.md
       - Project:

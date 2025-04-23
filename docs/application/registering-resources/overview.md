@@ -16,7 +16,9 @@ You can find more information on both in looking at how to create [data](./data-
 
 Let's go over what is comrpised in an offer, as well as what information is mandatory or optional.
 
-> For technical profiles, the schema for Offers are based on Gaia-X defined [Service Offerings](https://docs.gaia-x.eu/policy-rules-committee/trust-framework/22.10/service/) and extended to fit the needs of VisionsTrust.
+!!! note
+    
+    For technical profiles, the schema for Offers are based on Gaia-X defined [Service Offerings](https://docs.gaia-x.eu/policy-rules-committee/trust-framework/22.10/service/) and extended to fit the needs of VisionsTrust.
 
 ### General Information
 
@@ -53,4 +55,6 @@ Regarding access & usage control, policies should be defined on your offer for t
 
 Setting anything other than **No Restriction** will require you to configure it when your offer is being negotiated either between you and another participant or for its usage in a project.
 
-> For more information about policies and what it actually means in the system, please visit the [Prometheus-X Dataspace Connector documentation](https://github.com/Prometheus-X-association/dataspace-connector)
+!!! info
+    
+    For more information about policies and what it actually means in the system, please visit the [Prometheus-X Dataspace Connector documentation](https://github.com/Prometheus-X-association/dataspace-connector)
