@@ -173,6 +173,8 @@ You are allowed to connect one service offer to another service offer and add ex
 
 Once your chain is built and activated, its time for implementation. You can hop over to the technical documentation on the subject inside the [PDC's wiki directly](https://github.com/Prometheus-X-association/dataspace-connector/wiki/Service-Chains).
 
+Please also refer to how to [setup your PDC](../../guide/setting-up-a-connector.md) and connect it to VisionsTrust services if you haven't done so yet.
+
 !!! warning "PDC Version"
 
     Service chain functionnality is only available for connectors that are aligned with v1.9.0 or later of the PDC. Please make sure your connector is up to date before attempting to use a chain.
