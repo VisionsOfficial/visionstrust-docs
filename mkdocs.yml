@@ -68,3 +68,6 @@ nav:
     - Integrating consent: guide/setting-up-for-consent.md
     - API Consumption: guide/api-consumption-flow.md
     - Testing: guide/testing.md
+  - Settings:
+    - Admin Access: application/settings/admin-access.md
+  - Tutorial Videos: tutorial-videos.md
