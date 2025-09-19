@@ -1,5 +1,7 @@
 # Onboarding
 
+<iframe src="https://drive.google.com/file/d/1LMmlgYFAexFWd9xWK7JvlQddOmCeSIwj/preview" width="640" height="380" allow="autoplay"></iframe>
+
 !!! tip
 
     Throughout this guide, keep in mind that you can access the [glossary](../glossary.md) at any time if you are unsure of a dataspace related term.

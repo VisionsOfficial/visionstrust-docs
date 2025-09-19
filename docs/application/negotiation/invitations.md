@@ -1,5 +1,7 @@
 # Project Invitations
 
+<iframe src="https://drive.google.com/file/d/15YSsOktzX9UZJMUJH3uFV6PJ7QLmAbhh/preview" width="640" height="380" allow="autoplay"></iframe>
+
 Project invitations are the way for project orchestrators to express their interest in having a participant join their project.
 
 > Please note it is not possible to formulate an invitation if the project is not published or if the contract is not generated.

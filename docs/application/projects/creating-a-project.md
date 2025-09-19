@@ -1,5 +1,7 @@
 # Creating a Project
 
+<iframe src="https://drive.google.com/file/d/1cFo5cUDDg6LyVkxU-Dposkk8Ib9kRPNB/preview" width="640" height="380" allow="autoplay"></iframe>
+
 There are multiple ways to start creating a project, the easiest of which being by going to "My Projects" available in the navigation sidebar, which will take you to the page displaying all your existing projects and the necessary action buttons to start creating a new project.
 
 ## Starting the creation of your project

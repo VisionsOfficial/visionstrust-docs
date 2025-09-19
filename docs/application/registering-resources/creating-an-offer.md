@@ -1,5 +1,7 @@
 # Creating an offer
 
+<iframe src="https://drive.google.com/file/d/15AzzOkpF6tv3dsuMH9zNDt8VYyXgDFkn/preview" width="640" height="380" allow="autoplay"></iframe>
+
 ## Creating the draft offer
 
 Accessing the environment to create an offer can be done in multiple places. The easies is by clicking on "My Offers" in the sidebar navigation menu which will take you to the list of all your existing, draft and published offers.

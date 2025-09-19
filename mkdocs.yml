@@ -55,12 +55,11 @@ nav:
       - Contributions: application/projects/contributions.md
       - Service Chains: application/projects/service-chains.md
     - Negotiation:
-      - Peer-to-Peer: application/negotiation/peer-to-peer.md
-      - Project:
-        - Project Negotiation: application/negotiation/project-negotiation.md
-        - Invitations: application/negotiation/invitations.md
-        - Join Requests: application/negotiation/join-requests.md
-        - Negotiation Process: application/negotiation/negotiation.md
+      # - Peer-to-Peer: application/negotiation/peer-to-peer.md
+      - Project Negotiation: application/negotiation/project-negotiation.md
+      - Invitations: application/negotiation/invitations.md
+      - Join Requests: application/negotiation/join-requests.md
+      - Negotiation Process: application/negotiation/negotiation.md
   - Developers:
     - Guide: guide/guide.md
     - Requirements: guide/requirements.md
