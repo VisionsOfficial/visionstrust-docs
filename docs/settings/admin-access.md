@@ -1,13 +1,14 @@
 # Admin Access Management
 
-Your account can hold multiple admins that will each be able to log in to the organization with their own email & password. This can be useful if you need to provide credentials to other team members, such as developers for them to input the technical information required in your offer configurations.
+!!! info
 
-To access your settings, click on the logo of your organization in the top right corner of the application.
-![Settings Access](../../images/access-settings.png)
+    If you're unsure how to access this page, see [how to access your settings](./settings-access.md).
+
+Your account can hold multiple admins that will each be able to log in to the organization with their own email & password. This can be useful if you need to provide credentials to other team members, such as developers for them to input the technical information required in your offer configurations.
 
 Once in your settings, head over to the Authentication tab and you will find a section with a field prompting you to invite admins to your account by providing an email.
 
-![Invite Admins](../../images/invite-admins.png)
+![Invite Admins](../images/invite-admins.png)
 
 Enter the email of your admin and click the "Invite" button. This will automatically generate a password for this user and send it to the provided email. Your admin will be able to handle the rest of the process themselves by following instructions received by email.
 

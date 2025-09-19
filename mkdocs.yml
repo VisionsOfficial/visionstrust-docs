@@ -69,5 +69,7 @@ nav:
     - API Consumption: guide/api-consumption-flow.md
     - Testing: guide/testing.md
   - Settings:
-    - Admin Access: application/settings/admin-access.md
+    - Settings Access: settings/settings-access.md
+    - Admin Management: settings/admin-access.md
+    - API Keys: settings/api-keys.md
   - Tutorial Videos: tutorial-videos.md
