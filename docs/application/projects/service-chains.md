@@ -2,7 +2,7 @@
 
 Service chains are sequences of data transfers between participants, made possible through the use of multi-party ecosystem contracts and the integration of Prometheus-X's [Data Processing Chain Protocol library](https://github.com/prometheus-x-association/data-processing-chain-protocol) directly within the PDC.
 
-VisionsTrust provides the UI that helps you create these service chains within your project through a visual editor that makes it quick and easy to prototype and build sequences of data flows between the available offers in your project.
+{{ app_name }} provides the UI that helps you create these service chains within your project through a visual editor that makes it quick and easy to prototype and build sequences of data flows between the available offers in your project.
 
 ## Prerequisites
 
@@ -131,7 +131,7 @@ An active chain is a validated chain that has been activated by the project orch
 
 !!! tip "Quick tip for developers"
 
-    When attempting to start a service chain based data exchange, you will need the service chain ID. Although this is possible to get through various API calls, the VisionsTrust interface allows you to copy the ID of a chain directly from the list of service chains in the project.
+    When attempting to start a service chain based data exchange, you will need the service chain ID. Although this is possible to get through various API calls, the {{ app_name }} interface allows you to copy the ID of a chain directly from the list of service chains in the project.
 
 ## Special Cases
 
@@ -173,7 +173,7 @@ You are allowed to connect one service offer to another service offer and add ex
 
 Once your chain is built and activated, its time for implementation. You can hop over to the technical documentation on the subject inside the [PDC's wiki directly](https://github.com/Prometheus-X-association/dataspace-connector/wiki/Service-Chains).
 
-Please also refer to how to [setup your PDC](../../guide/setting-up-a-connector.md) and connect it to VisionsTrust services if you haven't done so yet.
+Please also refer to how to [setup your PDC](../../guide/setting-up-a-connector.md) and connect it to {{ app_name }} services if you haven't done so yet.
 
 !!! warning "PDC Version"
 
@@ -181,4 +181,4 @@ Please also refer to how to [setup your PDC](../../guide/setting-up-a-connector.
 
 !!! info "Reminder"
 
-    As a reminder, when reading the technical documentation, you will need to obtain the ID of a service chain, this is easier to do by copying the ID from the project's service chain list on VisionsTrust.
+    As a reminder, when reading the technical documentation, you will need to obtain the ID of a service chain, this is easier to do by copying the ID from the project's service chain list on {{ app_name }}.

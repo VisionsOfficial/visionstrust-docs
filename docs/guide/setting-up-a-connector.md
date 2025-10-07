@@ -2,11 +2,11 @@
 
 The Prometheus-X Dataspace Connector (PDC) is an important service that each participant in the dataspace must have in order to run secure and controlled data exchanges regulated by the contracts signed within the Prometheus-X ecosystem.
 
-As VisionsTrust is an implementation of Prometheus-X services, it is designed to work with any other Prometheus-X implementation, thus making the PDC a must have for all participants using VisionsTrust.
+As {{ app_name }} is an implementation of Prometheus-X services, it is designed to work with any other Prometheus-X implementation, thus making the PDC a must have for all participants using {{ app_name }}.
 
 ## Why it is needed
 
-The PDC regulates data exchanges in the Prometheus-X ecosystem. It has many features to verify validity of contracts, enforce policies on the access of resources, manage end-user consent authorizations and provide a large set of methods to ease the communication with Prometheus-X services (and thus VisionsTrust services as well).
+The PDC regulates data exchanges in the Prometheus-X ecosystem. It has many features to verify validity of contracts, enforce policies on the access of resources, manage end-user consent authorizations and provide a large set of methods to ease the communication with Prometheus-X services (and thus {{ app_name }} services as well).
 
 Although an implementation without the PDC can be done, it would require a participant to implement themselves everything from webhooks for the data exchange protocol to contract verification solutions, policy enforcement points, consent management, data processing chain support and more in order to have the full capabilities of any other participant that communicates with the Prometheus-X Dataspace.
 
@@ -18,25 +18,25 @@ To install the PDC, please follow the README file defined in the [Prometheus-X D
 
 ## Configuration
 
-When you reach the configuration phase of your connector and need to setup some config variables regarding the services to use, this is where you will need to configure your connector to point to the VisionsTrust services. The configuration should be set as followed:
+When you reach the configuration phase of your connector and need to setup some config variables regarding the services to use, this is where you will need to configure your connector to point to the {{ app_name }} services. The configuration should be set as followed:
 
 | Key | Value |
 | --- | --- |
-| endpoint | The endpoint at which your connector is available, should be a proper domain
-| catalogUri | [https://api.visionstrust.com/v1/](https://api.visionstrust.com/v1/) |
-| contractUri | [https://contract.visionstrust.com/](https://contract.visionstrust.com/) |
-| consentUri | [https://consent.visionstrust.com/v1](https://consent.visionstrust.com/v1) |
-| serviceKey | Your service key found at: https://visionstrust.com/dashboard/profile/settings
-| secretKey | Your secret key found at: https://visionstrust.com/dashboard/profile/settings
+| endpoint | The endpoint at which your connector is available, should be a proper domain |
+| catalogUri | {{ pdc_config_catalog_uri }} |
+| contractUri | {{ pdc_config_contract_uri }} |
+| consentUri | {{ pdc_config_consent_uri }} |
+| serviceKey | Your service key found at {{ settings_url }} |
+| secretKey | Your secret key found at {{ settings_url }} |
 
-If your `config.json` file is properly configured to communicate with VisionsTrust, it should have automatically registered your connector for your account on VisionsTrust.
+If your `config.json` file is properly configured to communicate with {{ app_name }}, it should have automatically registered your connector for your account on {{ app_name }}.
 
 ### Checking for valid configuration
 
-To check this, you can go into your VisionsTrust profile settings and click on the Endpoints tab to see if it has been correctly setup with your connector. Endpoints should point towards the https:// domain where your connector is currently running.
+To check this, you can go into your {{ app_name }} profile settings and click on the Endpoints tab to see if it has been correctly setup with your connector. Endpoints should point towards the https:// domain where your connector is currently running.
 
 ## Optional: Credentials
 
-As defined in this section of the GitHub documentation for the PDC, you can optionnally setup credentials per resource that you define in the VisionsTrust Catalogue. Each credential you generate will provide you with an identifier that you can then setup in the metadata of your resource.
+As defined in this section of the GitHub documentation for the PDC, you can optionnally setup credentials per resource that you define in the {{ app_name }} Catalogue. Each credential you generate will provide you with an identifier that you can then setup in the metadata of your resource.
 
 > Please ensure you setup the credential identifier and not the credential value itself. The system is set to work with credential identifiers so only your connector knows how to handle them and nobody else than you has access to the value of your credential used to communicate with your resource.

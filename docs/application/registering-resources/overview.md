@@ -18,7 +18,7 @@ Let's go over what is comrpised in an offer, as well as what information is mand
 
 !!! note
     
-    For technical profiles, the schema for Offers are based on Gaia-X defined [Service Offerings](https://docs.gaia-x.eu/policy-rules-committee/trust-framework/22.10/service/) and extended to fit the needs of VisionsTrust.
+    For technical profiles, the schema for Offers are based on Gaia-X defined [Service Offerings](https://docs.gaia-x.eu/policy-rules-committee/trust-framework/22.10/service/) and extended to fit the needs of {{ app_name }}.
 
 ### General Information
 

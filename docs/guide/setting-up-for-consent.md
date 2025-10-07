@@ -4,11 +4,11 @@ In the data space, if you are a **data provider** or **service provider** runnin
 
 The Prometheus-X Dataspace Connector helps you achieve this by providing endpoints that allow you to easily retrieve urls for consent grant that you can either use to redirect the user directly to his PDI, or integrate into your platform as an iframe.
 
-> ⚠ Before attempting any of the operations below, you will need to have configured your Prometheus-X Dataspace Connector and linked it to the VisionsTrust catalog.
+> ⚠ Before attempting any of the operations below, you will need to have configured your Prometheus-X Dataspace Connector and linked it to the {{ app_name }} catalog.
 
 ## Registering to the Consent Service
 
-For any interaction with the VisionsTrust Consent Service, it needs to be let aware that you are a participant in the dataspace. VisionsTrust allows you to opt-in to the consent service by registering to it through your `endpoints` settings page. 
+For any interaction with the {{ app_name }} Consent Service, it needs to be let aware that you are a participant in the dataspace. {{ app_name }} allows you to opt-in to the consent service by registering to it through your `endpoints` settings page. 
 
 Assuming you have setup and configured your PDC, the endpoints page will display two elements, the endpoints related to your connector which the catalog will have automatically picked up, and a button to Register to the consent service, as depicted in the image below
 
@@ -24,7 +24,7 @@ When an exchange of personal data is needed, the initiator of this data exchange
 >
 > As a reminder, any kind of consent can only be generated on top of an existing contract between parties of the dataspace. These contracts serve as legal basis for the consent and are tightly coupled with the consents generated.
 
-For security reasons, the authentication of the individual in VisionsTrust's PDI service is mandatory to properly authorize consent grant. This means that VisionsTrust needs to be made aware of your users in order to link the individual's VisionsTrust PDI identity with the identity of that same individual in your user database.
+For security reasons, the authentication of the individual in {{ app_name }}'s PDI service is mandatory to properly authorize consent grant. This means that {{ app_name }} needs to be made aware of your users in order to link the individual's {{ app_name }} PDI identity with the identity of that same individual in your user database.
 
 ## Registering Users to the Consent Service
 

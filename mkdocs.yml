@@ -7,15 +7,26 @@ use_directory_urls: false
 site_url: https://docs.visionstrust.com
 # repo_url: https://github.com/VisionsOfficial/visionstrust-docs
 # edit_uri: blob/main/docs/
-copyright: Visions 2024
+copyright: Visions 2025
 plugins:
   - search
   - mermaid2
+  - macros
+extra:
+  app_name: VisionsTrust
+  pdc_config_catalog_uri: https://api.visionstrust.com/v1/
+  pdc_config_contract_uri: https://contract.visionstrust.com/
+  pdc_config_consent_uri: https://consent.visionstrust.com/v1
+  settings_url: https://visionstrust.com/dashboard/profile/settings
 markdown_extensions:
   - attr_list
   - admonition
   - pymdownx.details
-  - pymdownx.superfences
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
 theme:
   logo: assets/logo.svg
   favicon: assets/favicon.ico
@@ -72,4 +83,5 @@ nav:
     - Settings Access: settings/settings-access.md
     - Admin Management: settings/admin-access.md
     - API Keys: settings/api-keys.md
+    - Visibility: settings/visibility.md
   - Tutorial Videos: tutorial-videos.md

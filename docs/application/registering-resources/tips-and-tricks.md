@@ -1,8 +1,8 @@
-## **How to describe products and services on VisionsTrust: tips and tricks**
+## **How to describe products and services on {{ app_name }}: tips and tricks**
 
 ### **1\. Define your audience**
 
-Prior to writing your product descriptions, it’s important to identify the audience you want to reach. Gaining insight into your target market enables you to customise your messaging, making sure it resonates with the specific interests and needs of your audience. In order to do this, we encourage you to explore the [**Project**](https://visionstrust.com/catalog/projects) page of the VisionsTrust catalogue, where you will be able to see all the current projects on the platform. Target those which are marked as ‘In search of partners’ as they are the most likely to be interested in your offers. For more information on the project leaders who initiated the project you are interested in, check out the [**Organisations**](https://visionstrust.com/catalog/organisations) page of the catalogue.
+Prior to writing your product descriptions, it’s important to identify the audience you want to reach. Gaining insight into your target market enables you to customise your messaging, making sure it resonates with the specific interests and needs of your audience. In order to do this, we encourage you to explore the [**Project**](https://{{ app_name }}.com/catalog/projects) page of the {{ app_name }} catalogue, where you will be able to see all the current projects on the platform. Target those which are marked as ‘In search of partners’ as they are the most likely to be interested in your offers. For more information on the project leaders who initiated the project you are interested in, check out the [**Organisations**](https://{{ app_name }}.com/catalog/organisations) page of the catalogue.
 
 ### **2\. Relate to your audience**
 
@@ -13,9 +13,9 @@ Once you understand the precise objectives the project leaders want to achieve, 
 Now that you have identified your target project leaders and the information about your offerings that you want to convey, you must fill in the form to describe your offer. Keep in mind that when scanning the catalogue, project leaders will see first the offer picture, the offer name and the offer caption. If these elements caught their attention, they will click on “Discover” to display the detailed offer description \- do not neglect these three elements, they are essential\! 
 
 ![](../../images/user-guide/image-1.png)
-*View from the VisionsTrust catalogue: the project leaders will see first the offer category, the offer image, title and caption.* 
+*View from the {{ app_name }} catalogue: the project leaders will see first the offer category, the offer image, title and caption.* 
 
-The form to register your offer in the VisionsTrust catalogue consists in the following elements (all three are **mandatory**):
+The form to register your offer in the {{ app_name }} catalogue consists in the following elements (all three are **mandatory**):
 
 * **Offer name**: the name needs to be short, clear and to the point. Make sure the naming of your offer is understandable to the general public, do not get technical, avoid internal lexicon or jargon. Try to keep the name of your offer below 22 characters. 
 

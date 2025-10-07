@@ -4,13 +4,13 @@
 
     If you're unsure how to access this page, see [how to access your settings](./settings-access.md).
 
-To communicate with VisionsTrust via API or *to allow your PDC to interact with VisionsTrust services*, you will need to grab the API Keys from your settings.
+To communicate with {{ app_name }} via API or *to allow your PDC to interact with {{ app_name }} services*, you will need to grab the API Keys from your settings.
 
 ![api keys](../images/api-keys.png)
 
 These API Keys are generated when your account is created and can be regenerated at any time.
 
-For configuration in your PDC, you will need to provide these API Keys in the configuration file to ensure your PDC is capable of interacting with VisionsTrust services and authorize data exchanges.
+For configuration in your PDC, you will need to provide these API Keys in the configuration file to ensure your PDC is capable of interacting with {{ app_name }} services and authorize data exchanges.
 
 !!! warning
 

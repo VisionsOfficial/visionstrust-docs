@@ -16,5 +16,5 @@ Enter the email of your admin and click the "Invite" button. This will automatic
 
     If you are encountering an issue regarding the addition of another admin, please verify that:
 
-    * The admin you wish to add does not already have an organization registered on VisionsTrust
-    * The email you wish to add is not already used by another admin on VisionsTrust
+    * The admin you wish to add does not already have an organization registered on {{ app_name }}
+    * The email you wish to add is not already used by another admin on {{ app_name }}

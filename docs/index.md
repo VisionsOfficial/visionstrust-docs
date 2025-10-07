@@ -1,12 +1,12 @@
-# Welcome to VisionsTrust Documentation
+# Welcome to {{ app_name }} Documentation
 
-This site references everything you need to know about the usage of VisionsTrust's application and APIs.
+This site references everything you need to know about the usage of {{ app_name }}'s application and APIs.
 
-## What is VisionsTrust ?
+## What is {{ app_name }} ?
 
-VisionsTrust is a product that implements multiple **Prometheus-X Building Blocks** in order to provide a centralized marketplace and data exchange infrastructure.
+{{ app_name }} is a product that implements multiple **Prometheus-X Building Blocks** in order to provide a centralized marketplace and data exchange infrastructure.
 
-VisionsTrust is a SaaS comprised of **3 services** :
+{{ app_name }} is a SaaS comprised of **3 services** :
 
 - **A catalogue**: A UI which enables participant onboarding, asset and project discoveries through a centralized marketplace and configuration dashboards for use case orchestrators.
 - **A contract management service**: An API plugged into the catalogue UI to enable contract negotiation and signature.
@@ -14,8 +14,8 @@ VisionsTrust is a SaaS comprised of **3 services** :
 
 This documentation covers guides for technical **and** non-technical actions that can be taken on the **catalogue** as well as technical configuration steps for developers in order to get a data exchange going.
 
-## VisionsTrust catalogue
-If you are an administrator of an organization and want to learn the ins and outs of the VisionsTrust catalogue, get started by [clicking here.](./application/overview.md)
+## {{ app_name }} catalogue
+If you are an administrator of an organization and want to learn the ins and outs of the {{ app_name }} catalogue, get started by [clicking here.](./application/overview.md)
 
 This will walk you through everything you need to know including
 
@@ -29,6 +29,6 @@ This will walk you through everything you need to know including
 ## Developer Guide
 If you are a developer, you will likely be jumping around between the catalogue application documentation and the more technical documentation.
 
-To simplify this for you, we have setup a guide that will lead you from the creation of the organization to installing the connector to realizing your first data exchange using VisionsTrust.
+To simplify this for you, we have setup a guide that will lead you from the creation of the organization to installing the connector to realizing your first data exchange using {{ app_name }}.
 
 Get started by [clicking here for the full guide](./guide/requirements.md) or [here if you only need to check the requirements](./guide/requirements.md).

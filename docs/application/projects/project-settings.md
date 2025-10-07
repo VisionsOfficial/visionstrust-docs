@@ -24,7 +24,7 @@ Configuring your project fully allows you to publish it and make it available to
 
 ### Project Subscription
 
-VisionsTrust operates under a pricing model in which you manage a paid subscription per project. This section will not go too much in these details as when you attempt to publish a project, the platform will guide you through understanding how to activate a subscription in order to make your project published.
+{{ app_name }} operates under a pricing model in which you manage a paid subscription per project. This section will not go too much in these details as when you attempt to publish a project, the platform will guide you through understanding how to activate a subscription in order to make your project published.
 
 ## Updating information set during creation
 

@@ -1,8 +1,8 @@
-# VisionsTrust Documentation
+# {{ app_name }} Documentation
 
-VisionsTrust is a product that implements multiple **Prometheus-X Building Blocks** in order to provide a centralized marketplace and data exchange infrastructure.
+{{ app_name }} is a product that implements multiple **Prometheus-X Building Blocks** in order to provide a centralized marketplace and data exchange infrastructure.
 
-VisionsTrust is a SaaS comprised of **3 services** :
+{{ app_name }} is a SaaS comprised of **3 services** :
 
 - **A catalogue**: A UI which enables participant onboarding, asset and project discoveries through a centralized marketplace and configuration dashboards for use case orchestrators.
 - **A contract management service**: An API plugged into the catalogue UI to enable contract negotiation and signature.
@@ -10,4 +10,4 @@ VisionsTrust is a SaaS comprised of **3 services** :
 
 This documentation covers guides for technical **and** non-technical actions that can be taken on the **catalogue** as well as technical configuration steps for developers in order to get a data exchange going.
 
-If you haven't done so yet, get started by onboarding yourself to the VisionsTrust catalogue. The guide can be found [here](./onboarding.md).
+If you haven't done so yet, get started by onboarding yourself to the {{ app_name }} catalogue. The guide can be found [here](./onboarding.md).

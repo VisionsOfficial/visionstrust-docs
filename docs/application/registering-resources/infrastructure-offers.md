@@ -18,7 +18,7 @@ flowchart LR
 
 ## Creating the offer
 
-Just like any other regular offer, VisionsTrust provides you with a form to easily register and publish new infrastructure offers.
+Just like any other regular offer, {{ app_name }} provides you with a form to easily register and publish new infrastructure offers.
 
 The workflow is however a little bit simpler, since you do not have to worry about individual resources, which streamlines the process by providing a single interface to create every piece of information representing the infrastructure offer.
 

@@ -8,11 +8,11 @@
 
 The first step to being able to represent your organisation in the dataspace is by becoming a **Participant** of said dataspace.
 
-VisionsTrust enables you to onboard your organization as a **dataspace participant** through signing up on the VisionsTrust catalogue.
+{{ app_name }} enables you to onboard your organization as a **dataspace participant** through signing up on the {{ app_name }} catalogue.
 
-## Signing up on VisionsTrust
+## Signing up on {{ app_name }}
 
-Through the sign up button available from VisionsTrust's landing page, you will be prompted to enter your organization's information in order to become a **participant**.
+Through the sign up button available from {{ app_name }}'s landing page, you will be prompted to enter your organization's information in order to become a **participant**.
 
 Here are the different steps for signing up and what they represent.
 

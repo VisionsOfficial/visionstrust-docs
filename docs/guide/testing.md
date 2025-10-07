@@ -1,6 +1,6 @@
 # Testing
 
-The VisionsTrust application provides you with a [Tech Space](https://visionstrust.com/dashboard/tech) that allows you to do several verifications and tests on your setup.
+The {{ app_name }} application provides you with a [Tech Space](https://{{ app_name }}.com/dashboard/tech) that allows you to do several verifications and tests on your setup.
 
 ## Verifying the connector setup
 
@@ -37,4 +37,4 @@ Once the contract is created, you will be able to trigger the test data exchange
 
 ### Notes
 
-We strongly encourage you to use **Test Data** when running this test. Although none of the VisionsTrust ecosystem usually has access to shared data through the protocol, the test service will have brief access to it before deleting it simply to be able to notify you of the success or failure of the test. This is because to properly simulate the full scope of the test, Visions deploys a Test connector which will receive the test data.
+We strongly encourage you to use **Test Data** when running this test. Although none of the {{ app_name }} ecosystem usually has access to shared data through the protocol, the test service will have brief access to it before deleting it simply to be able to notify you of the success or failure of the test. This is because to properly simulate the full scope of the test, Visions deploys a Test connector which will receive the test data.

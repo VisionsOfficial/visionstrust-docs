@@ -1,6 +1,6 @@
 # Developer Guide
 
-Participants of the dataspace that use VisionsTrust services need to integrate their solution and configure their assets in order for the dataspace to know how to interact with these during data exchange processes. 
+Participants of the dataspace that use {{ app_name }} services need to integrate their solution and configure their assets in order for the dataspace to know how to interact with these during data exchange processes. 
 
 This guide will go over the different requirements and steps to do in order to get your first successful data exchange up and running.
 
@@ -10,7 +10,7 @@ Let's go over the different things you need to make sure are done before even co
 
 | Requirement | Why it's needed |
 | --- | --- |
-| [Onboarding to VisionsTrust](../application/onboarding.md) | Creating an account on VisionsTrust is essential to be registered as a participant of the data space. Without this, your organization will not be recognized in the dataspace and no other participant will be enable to interact with you. |
+| [Onboarding to {{ app_name }}](../application/onboarding.md) | Creating an account on {{ app_name }} is essential to be registered as a participant of the data space. Without this, your organization will not be recognized in the dataspace and no other participant will be enable to interact with you. |
 | [Registering Offers](../application/registering-resources/overview.md) | If you are a data provider, you will need to ensure you have at least one offer available that contains a data resource. If you are a service provider, you will need to ensure you have at least one offer available that contains a service resource. |
 | [Creating or joining a project](../application/negotiation/project-negotiation.md) | Data exchanges cannot take place if you are not present in any contract existing in the dataspace. In order to trigger data exchanges with participants that exist in the same contract, you should join or create a project, go through the negotiation processes and then sign that contract (and make sure the other party has signed as well). |
 
@@ -18,7 +18,7 @@ If you or anyone in your organization has already completed these steps, you can
 
 ## Technical Requirements
 
-Let's now go over the technical requirements in order for a participant to communicate with a dataspace and more specifically with the VisionsTrust services.
+Let's now go over the technical requirements in order for a participant to communicate with a dataspace and more specifically with the {{ app_name }} services.
 
 | Requirement | Why it's needed |
 | --- | --- |
@@ -40,8 +40,9 @@ You can get started by going to the full Prometheus-X connector documentation th
 ![Non personal data exchange](../images/data-exchange-protocol.drawio.png)
 
 The actors involved in the non personal B2B data exchange are the following:
+
 |Actor|Description|
-|-|-|
+| --- | --- |
 |Data Provider|A participant of the data space providing data. In this flow, we consider the data provider as both the entity responsible for the participant organisation and the participant application, which can be an API, a data source, or any kind of application.|
 |Data Space Connector|Both participants have a data space connector in order to communicate with the infrastructure services and the other party's connector|
 |Contract Service|An infrastructure service of the data space managing contracts and policies on data exchanges. It is used in this flow to verify the status and content of the contract to allow or block data exchange requests.|
@@ -53,6 +54,7 @@ The actors involved in the non personal B2B data exchange are the following:
 ![consent driven data exchange](../images/consent-driven-data-exchange-protocol.drawio.png)
 
 In addition to the actors from the previous data exchange flow, the consent-driven data exchange is triggered by an individual giving his consent for data sharing and thus, this adds a couple of actors to the flow.
+
 |Actor|Description|
 |-|-|
 |Individual|The individual (user) who's data is being shared|

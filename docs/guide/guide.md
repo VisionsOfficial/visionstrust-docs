@@ -6,7 +6,7 @@ In an attempt to make this easier to adopt, this page is a step by step guide to
 
 ## Non Technical Steps
 
-1. [Register to VisionsTrust](../application/onboarding.md)
+1. [Register to {{ app_name }}](../application/onboarding.md)
 
 If you are a Data or Service Provider
 
@@ -27,8 +27,8 @@ If you are a Project Leader
 > *You can also check the [requirements here](../guide/requirements.md) as additionnal information.*
 
 7. [Install a PDC](../guide/setting-up-a-connector.md)
-8. [Configure a PDC to connect to VisionsTrust services](../guide/setting-up-a-connector.md#configuration)
-9. [Ensure your PDC is connected to VisionsTrust](../guide/setting-up-a-connector.md#checking-for-valid-configuration)
+8. [Configure a PDC to connect to {{ app_name }} services](../guide/setting-up-a-connector.md#configuration)
+9. [Ensure your PDC is connected to {{ app_name }}](../guide/setting-up-a-connector.md#checking-for-valid-configuration)
 10. [Adjust the technical metadata of your offers](../guide/setting-up-technical-resources.md)
 11. [Test your integration](../guide/testing.md)
 
