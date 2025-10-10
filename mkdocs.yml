@@ -12,6 +12,10 @@ plugins:
   - search
   - mermaid2
   - macros
+  - git-revision-date-localized:
+      fallback_to_build_date: true
+      locale: en
+      timezone: Europe/Paris
 extra:
   app_name: VisionsTrust
   pdc_config_catalog_uri: https://api.visionstrust.com/v1/
