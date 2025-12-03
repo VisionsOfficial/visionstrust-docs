@@ -18,6 +18,7 @@ plugins:
       timezone: Europe/Paris
 extra:
   app_name: VisionsTrust
+  app_url: https://visionstrust.com
   pdc_config_catalog_uri: https://api.visionstrust.com/v1/
   pdc_config_contract_uri: https://contract.visionstrust.com/
   pdc_config_consent_uri: https://consent.visionstrust.com/v1
@@ -83,6 +84,7 @@ nav:
     - Integrating consent: guide/setting-up-for-consent.md
     - API Consumption: guide/api-consumption-flow.md
     - Testing: guide/testing.md
+    - Exchange Triggers: guide/exchange-triggers.md
   - Settings:
     - Settings Access: settings/settings-access.md
     - Admin Management: settings/admin-access.md
