@@ -70,12 +70,18 @@ nav:
       - Project Settings: application/projects/project-settings.md
       - Contributions: application/projects/contributions.md
       - Service Chains: application/projects/service-chains.md
+    - Basket:
+      - Overview: application/basket/overview.md
+      - Basket steps: application/basket/basket-steps.md
+      - Adjusting the baseline: application/basket/adjusting-the-baseline.md  
     - Negotiation:
       # - Peer-to-Peer: application/negotiation/peer-to-peer.md
       - Project Negotiation: application/negotiation/project-negotiation.md
       - Invitations: application/negotiation/invitations.md
       - Join Requests: application/negotiation/join-requests.md
       - Negotiation Process: application/negotiation/negotiation.md
+    - Templates:
+      - Overview: application/templates/overview.md
   - Developers:
     - Guide: guide/guide.md
     - Requirements: guide/requirements.md
