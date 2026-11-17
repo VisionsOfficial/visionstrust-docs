@@ -18,11 +18,12 @@ The basket enables you to gather offers, assign each of them to a project and de
 3. Click the **Add to basket** button under the package you want. You can also use the **Choose a package** button at the bottom of the panel: the **Save for later** and **Add to basket** buttons stay disabled until a package is chosen.
 4. The message "Offer added to basket" appears and the button becomes "Already in basket".
 
+<p>
+<img src="../../images/basket-add-offer.png" alt="Add to basket" width="47%">
+<img src="../../images/basket-packages-table.png" alt="Packages table" width="47%">
+</p>
+
 If you prefer to keep an offer aside, click the **Save for later** button instead.
-
-![Add to basket](../../images/basket-add-offer.png)
-
-![Packages table](../../images/basket-packages-table.png)
 
 The basket icon at the top of the page shows how many offers are in your basket. Click on it to open the basket.
 
