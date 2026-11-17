@@ -26,7 +26,7 @@ Let's start with the essentials:
 
 ### Creating your first chain
 
-Assuming you have completed and ensured all previous steps, go to your project settings page and follow these instructions
+Assuming you have completed and ensured all previous steps, go to your project page and follow these instructions
 
 1. Go to the service chain tab and click on the Create service chain button
 
@@ -107,6 +107,7 @@ From here, you can do a couple of things:
 * Edit your chain, which will take you back to the chain builder
 * Activate your chain if it is validated
 * Disable an active chain
+* Visualise an active chain, to see it in a read-only view
 * Delete your service chain
 
 ![](../../images/service-chains-4.png)
