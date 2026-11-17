@@ -1,8 +1,8 @@
-# Dashboard
+# Home
 
-![Dashboard Image](../images/dashboard.png)
+![Home Image](../images/dashboard.png)
 
-Your dashboard is the center of operations for most actions you can do in the catalogue. It provides you with quick access to many different actions including:
+Your Home page is the center of operations for most actions you can do in the catalogue. It provides you with quick access to many different actions including:
 
 - Configuring your existing projects
 - Discovering offers & projects that match with your existing resources
@@ -11,7 +11,7 @@ Your dashboard is the center of operations for most actions you can do in the ca
 
 ## Pending Requests
 
-The pending requests section will display incoming requests that you received in order to join a specific project. Usually, you'll also receive a mail and be able to view this request in the notifications, but to make things simpler, it will also be displayed in a very visual way as soon as you open your dashboard if you have any.
+The pending requests section will display incoming requests that you received in order to join a specific project. Usually, you'll also receive a mail and be able to view this request in the notifications, but to make things simpler, it will also be displayed in a very visual way as soon as you open your Home page if you have any.
 
 ## Matching recommendations
 
@@ -21,7 +21,7 @@ The way the cards work is the same as in the [catalogue](../application/discover
 
 ## Quick Access to the catalogue
 
-The dashboard allows you to quickly access the [catalogue](../application/discovery/index.md) in a pre-defined filtered view. By clicking on one of the categories available, it will open up the [catalogue](../application/discovery/index.md) to match all resources that fit with the selected category.
+The Home page allows you to quickly access the [catalogue](../application/discovery/index.md) in a pre-defined filtered view. By clicking on one of the categories available, it will open up the [catalogue](../application/discovery/index.md) to match all resources that fit with the selected category.
 
 ## Where to go from here
 

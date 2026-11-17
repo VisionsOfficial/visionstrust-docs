@@ -15,4 +15,4 @@ You can get started with a new project by reading on [how to create a project](.
 As a provider of data or services, you might be interested in joining projects that could fit the usage of your services and provide you with interesting value.
 
 ### Recommendations
-After registering resources and offers as a Provider in the catalogue, project recommendations will start appearing on your [dashboard](../dashboard.md) on which you will be able to easily discover details about these projects and make join requests to them if they are indeed interesting for you.
+After registering resources and offers as a Provider in the catalogue, project recommendations will start appearing on your [Home Page](../dashboard.md) on which you will be able to easily discover details about these projects and make join requests to them if they are indeed interesting for you.
