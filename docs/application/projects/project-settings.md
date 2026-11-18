@@ -1,20 +1,43 @@
 # Project Settings
 
-After successfully [creating a project](./creating-a-project.md), it can be managed and configured in more detail than just the initial required elements.
+After successfully creating a project, it can be managed and configured in more detail than just the initial required elements. To open it, go to "My projects" and click your project.
 
 ![Project Settings](../../images/project_settings.png)
+
+At the top of the project page, you find the status of the project (Draft or Published) and its completion percentage. The buttons next to it let you:
+
+- **Archive** (box icon): archive the project
+- **Copy project id** (fingerprint icon): copy the identifier of the project
+- **Share link** (share icon): share the project with a link
+- **Copy**: create a duplicate of the project
+- **Publish**: publish the project. Once the project is published, this button becomes **Unpublish**.
+
+## Completing your project
+
+The **Overview** of the project gives a recap of every setting and shows what is left to complete: a section that is still incomplete shows a **Complete** button.
+
+**Governance** and **Additional clauses** are required to publish your project and count in its completion percentage: a warning triangle in the menu shows when one of them is incomplete, and each field has an "i" icon that explains what to enter.
+
+The other settings are optional and can be completed at any time:
+
+- Defining Tech requirements: Tech components that your project will use for regulating data exchanges in the project. Some are mandatory and will be set for you by default.
+- Contributions: Contributions that you can add to the project, as in data or services that you would like to the contribute to the project for them to be used by the other participants in the project. See [Contributions](./contributions.md).
+- Resources you need: the categories of data and services your project looks for, which improves the recommendations in "Matching offers".
+
+!!! info "Projects created before November 20, 2026"
+    Governance and Additional clauses did not exist when these projects were created. Their values have been filled in with the dataspace default values, and you can modify them at any time.
 
 ## Understanding project publication
 
 Configuring your project fully allows you to publish it and make it available to the catalogue. While in draft, even though you will be able to receive recommendations for offers, you will not be able to invite them to your project nor will them be able to find your project in the catalogue or in their recommendations.
 
-**A draft project:**
+A draft project:
 
 - Is not available to the catalogue
 - Is not recommended to other participants
-- Cannot invite offers or participants to join it
+<!-- - Cannot invite offers or participants to join it à vérifier -->
 
-**A published project:**
+A published project:
 
 - Is available on the catalogue
 - Can be searched in the catalogue
@@ -22,25 +45,14 @@ Configuring your project fully allows you to publish it and make it available to
 - Can invite offers / participants to join it
 - Can receive join requests from participants that want to join
 
-### Project Subscription
-
-{{ app_name }} operates under a pricing model in which you manage a paid subscription per project. This section will not go too much in these details as when you attempt to publish a project, the platform will guide you through understanding how to activate a subscription in order to make your project published.
-
-## Updating information set during creation
-
-When creating the project, you defined a series of information to create the first draft version of the project. All of this information is editable from the Project Settings tab.
-
-## Completing new information
-
-Additionnal information is required before reaching the completion step for your project such as:
-
-- **Defining Tech requirements**: Tech components that your project will use for regulating data exchanges in the project. Some are mandatory and will be set for you by default.
-- **Contributions**: [Contributions](./contributions.md) that you **can** add to the project, as in data or services that you would like to the contribute to the project for them to be used by the other participants in the project.
+Once your project is published, participants can join it, either because you invited their offers or because they sent a join request. They are then listed in the "Participants" page of the project, with their role and their contributions.
 
 ## Project Contract
 
-Upon creating a project, whether it is in a draft or published state, a contract for the project will be generated in a unsigned state.
+Upon creating a project, whether it is in a draft or published state, a contract for the project is generated in an unsigned state. The Contract page displays the terms of the project, its participants and their contributions.
 
-On the contract tab, the information displayed will be all of the formatted relevant information that concerns your project and what the project provides.
+To invite participants and ensure data exchanges are authorized, all participants, including you as the orchestrator, must sign this contract with the **Agree / Sign** button. The contract can only be signed once the project is published.
 
-In order to invite participants and ensure data exchanges are authorized, all participants, including you as the orchestrator, should sign this contract by clicking on the Agree / Sign button on this contract tab.
+## Project Subscription
+
+VisionsTrust operates under a pricing model in which you manage a paid subscription per project. This section will not go too much in these details as when you attempt to publish a project, the platform will guide you through understanding how to activate a subscription in order to make your project published.
