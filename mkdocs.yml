@@ -60,6 +60,7 @@ nav:
     - Offers:
       - Overview: application/registering-resources/overview.md
       - Creating an offer: application/registering-resources/creating-an-offer.md
+      - Offer page: application/registering-resources/offer-settings.md
       - Data Resource: application/registering-resources/data-resources.md
       - Service Resource: application/registering-resources/service-resources.md
       - Infrastructure Offers: application/registering-resources/infrastructure-offers.md
@@ -67,7 +68,7 @@ nav:
     - Projects:
       - Overview: application/projects/overview.md
       - Creating a Project: application/projects/creating-a-project.md
-      - Project Settings: application/projects/project-settings.md
+      - Project page: application/projects/project-settings.md
       - Contributions: application/projects/contributions.md
       - Service Chains: application/projects/service-chains.md
     - Basket:
@@ -80,8 +81,11 @@ nav:
       - Invitations: application/negotiation/invitations.md
       - Join Requests: application/negotiation/join-requests.md
       - Negotiation Process: application/negotiation/negotiation.md
-    - Templates:
-      - Overview: application/templates/overview.md
+    - My Contracts:
+      - Overview: application/my-contracts/overview.md
+      - All contracts: application/my-contracts/all-contracts.md
+      - Signing a contract: application/my-contracts/signing-a-contract.md
+    - Templates: application/templates/overview.md
   - Developers:
     - Guide: guide/guide.md
     - Requirements: guide/requirements.md
