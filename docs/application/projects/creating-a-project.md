@@ -13,17 +13,17 @@ On the My Projects page, there is a "Create a new project" button at the top rig
 
 ## General Information registration
 
+![Creating a project, step 1](../../images/creating-a-project-step1.png)
+
 In the first step, you enter the basic information for your project, such as its title, caption for the catalogue, description, location and an optional image for display in the catalogue. You also choose the category of your project, which makes it easy to find in the catalogue when filtering by category and enables recommendations of offers and participants based on this category.
 
 If you don't set an image for your project, your logo will be used instead.
-
-![Creating a project, step 1](../../images/creating-a-project-step1.png)
 
 Click the **Continue** button to go to the second step, or the **Create as draft** button to save the project and finish it later.
 
 ## Searched data & services
 
-Selecting what kind of data and/or services your project is in need for is no longer part of the creation. You can do it at any time in the project settings, under "Resources you need". As for the category of the project, this is essential for the same reasons:
+Selecting what kind of data and/or services your project is in need for is no longer part of the creation. You can do it at any time on the project page, under "Resources you need". As for the category of the project, this is essential for the same reasons:
 
 - Categorizing your project in the right filters
 - Making sure you get recommended offers that are of the searched data / service categories
@@ -31,22 +31,22 @@ Selecting what kind of data and/or services your project is in need for is no lo
 
 ## Governance and clauses
 
+![Creating a project, step 2](../../images/creating-a-project-step2.png)
+
 The second step defines why the project processes data, and the contract clauses that every participant accepts when joining the project. Each field has an "i" icon: hover over it to read an explanation of what to enter. To complete it:
 
 1. Fill in the "Governance" section: the project purpose, the project benefit and the project treatment.
 2. Fill in the "Additional clauses" section. It has 9 clauses (reversibility / exit, subcontracting / third-party transfer, security incident notification, intellectual property on outputs, governing law & jurisdiction, force majeure, audit right, confidentiality and amendment / modification). For most of them, you choose a value in a drop-down list.
 3. Click the **Continue** button to create the project.
 
-![Creating a project, step 2](../../images/creating-a-project-step2.png)
-
 ## Using a template
 
 You don't have to fill in every field yourself. Each section has a **Fill default template** button, which opens a window to fill the section from a ready-made set of values. Every value stays editable afterwards.
 
+<p style="text-align: center;"><img src="../../images/creating-a-project-template.png" alt="Adopt a default template" width="60%"></p>
+
 - **Dataspace template**: the values the data space recommends, aligned with what other participants expect.
 - **My template**: your own saved preferences, which you set in "My Contracts", in the "Project template" tab.
-
-<p style="text-align: center;"><img src="../../images/creating-a-project-template.png" alt="Adopt a default template" width="60%"></p>
 
 ## Required fields and drafts
 

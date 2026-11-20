@@ -6,7 +6,7 @@ Adding an offer to your own project is called a **contribution**.
 
 ## Adding contributions
 
-From your project settings, open the **Contributions** page.
+On your project page, open the **Contributions** page.
 
 ![Project Contributions](../../images/project-contributions.png)
 

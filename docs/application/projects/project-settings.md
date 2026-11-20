@@ -1,4 +1,4 @@
-# Project Settings
+# Project page
 
 After successfully creating a project, it can be managed and configured in more detail than just the initial required elements. To open it, go to "My projects" and click your project.
 
@@ -47,12 +47,12 @@ A published project:
 
 Once your project is published, participants can join it, either because you invited their offers or because they sent a join request. They are then listed in the "Participants" page of the project, with their role and their contributions.
 
+## Project Subscription
+
+VisionsTrust operates under a pricing model in which you manage a paid subscription per project. This section will not go too much in these details as when you attempt to publish a project, the platform will guide you through understanding how to activate a subscription in order to make your project published.
+
 ## Project Contract
 
 Upon creating a project, whether it is in a draft or published state, a contract for the project is generated in an unsigned state. The Contract page displays the terms of the project, its participants and their contributions.
 
-To invite participants and ensure data exchanges are authorized, all participants, including you as the orchestrator, must sign this contract with the **Agree / Sign** button. The contract can only be signed once the project is published.
-
-## Project Subscription
-
-VisionsTrust operates under a pricing model in which you manage a paid subscription per project. This section will not go too much in these details as when you attempt to publish a project, the platform will guide you through understanding how to activate a subscription in order to make your project published.
+To invite participants and ensure data exchanges are authorized, all participants, including you as the orchestrator, should validate this contract with the **Validate** button on this page. The contract can only be signed once the project is published. See [Contracts](../my-contracts/signing-a-contract.md).
