@@ -21,4 +21,4 @@ Every new project inherits the values of your project template. It contains the 
 
 Every new offer inherits the values of your offer template. It contains the sections of an offer: pricing, usage policies (count and time period), service levels (SLA), commitments & penalties, and termination.
 
-![Offer template](../../images/templates-offer.png)
+![Offer template](../../images/offer-template.png)
