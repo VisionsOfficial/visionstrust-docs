@@ -14,13 +14,15 @@ Resources are the elements that are used in order to compose an offer, which can
 
 ## Creating a Data Resource
 
-There are 2 ways to start creating a resource, either from the "My Offers" page in the _Data_ tab or on the fly when creating an offering. The creation flow remains the same in both cases.
+There are 3 ways to start creating a resource: from the "My Resources" page in the Data tab, on the fly from the "Offer content" page of an offer, or automatically when you create a data offer. The creation flow remains the same in the first two cases.
 
 In our example, we will be showing the flow when you come from an offering creation and want to create a resource on the fly.
 
 ### Defining the base information
 
 The first step is to define the base information for your resource. The following is a recap of what should be defined.
+
+![Data resource creation](../../images/create_data_resource.png)
 
 | Property | Mandatory | Description |
 | --- | --- | --- |
@@ -30,13 +32,15 @@ The first step is to define the base information for your resource. The followin
 | Data location | yes | Where the data is located geographically |
 | Anonymised extract | yes | A JSON anonymized extract of your data for users to understand the structure of the data they will be receiving |
 
-![Data resource creation](../../images/create_data_resource.png)
-
 ### Personal Data Information
+
+![Personal data of a data resource](../../images/data_resource_personal_data.png)
 
 If your data concerns personal data, the Personal Data tab will prompt you to mark this resource as Personal Data and you will optionnally be able to provide a list of descriptions in multiple languages defining your resource to potential end-users that will be giving their consent to share this specific data later down the line.
 
 ### Tech Information
+
+![Configuration of a data resource](../../images/data_resource_configuration.png)
 
 The last section of your resource configuration concerns technical configurations for linkage with the [Dataspace Connectors](https://github.com/Prometheus-X-association/dataspace-connector) and for accessing the resources during data exchanges.
 

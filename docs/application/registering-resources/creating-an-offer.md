@@ -1,70 +1,53 @@
 # Creating an offer
-
-<iframe src="https://drive.google.com/file/d/15AzzOkpF6tv3dsuMH9zNDt8VYyXgDFkn/preview" width="640" height="380" allow="autoplay"></iframe>
+<!-- <iframe src="https://drive.google.com/file/d/15AzzOkpF6tv3dsuMH9zNDt8VYyXgDFkn/preview" width="640" height="380" allow="autoplay"></iframe>  to be replaced when new video is available -->
 
 ## Creating the draft offer
 
-Accessing the environment to create an offer can be done in multiple places. The easies is by clicking on "My Offers" in the sidebar navigation menu which will take you to the list of all your existing, draft and published offers.
+You can access the environment to create an offer in multiple places. The easiest is to click "My Offers" in the sidebar navigation menu, which takes you to the list of all your existing, draft and published offers.
 
-![Offers](../../images/offers.png)
+<p><img src="../../images/offers.png" alt="Offers" style="width:100%; height:300px; object-fit:cover; object-position:top;"></p>
 
-By clicking on the _Create new offer_ button, you will enter the offer negotiation flow and a dialog modal should be presented to you to enter the basic information in order to create a draft offer.
+Click the **Create a new offer** button to open the creation page. It guides you through 2 steps to define your offer: "Your offering", then "Governance and clauses". The guide on the left explains each step.
 
-![Create offer modal](../../images/create_offer_modal.png)
+### Step 1: Your offering
 
-The information requested from you is defined in the [offers overview](./overview.md) but here's a quick reminder for this specific step.
+Choose the type of your offer: a data offer if you expose a dataset, or a service offer if you provide a service that processes data. Then enter its general information.
 
-### General Information
+![Creating an offer, step 1](../../images/create_offer_step_1.png)
 
-| Property | Mandatory | Description |
-| --- | --- | --- |
-| Name | yes | The name of your offer |
-| Caption | yes | A short caption to describe your offer for it to be quickly understood when displayed on the catalogue |
-| Description | no | A longer description, with rich text support to fully define your offer |
-| Category | yes | A list of categories that your offer fits into. This is essential for matching it with projects and providing recommendations. |
-| Location | yes | The location in which your offer operates / is stored. |
-| Image | no | If set, will be displayed in the catalogue, otherwise, your organization logo will be displayed |
+The mandatory fields are the type, the name, the caption, the description, the category and the country or region. The picture is optional. Each field is described in the [Offer page](./offer-settings.md#offer-information).
 
-!!! info 
+Click the **Continue** button to go to the second step once the mandatory fields are filled in. To finish later, click the **Create as draft** button, in either step: the offer name and its caption are enough to save a draft.
 
-    Setting this initial information will create your offer as draft and will enable you to go in and fine tune the details of that offer in its dedicated page.
+### Step 2: Governance and clauses
+
+The second step defines your commercial terms and the clauses that every participant accepts. It has five sections, all marked "Required to create": pricing, usage policies, service levels (SLA), commitments & penalties, and termination. The pricing and the usage policies you set here are created as a package of your offer.
+
+![Creating an offer, step 2](../../images/create_offer_step_2.png)
+
+In the pricing section, the "Price is negotiable" toggle lets you decide if the price can be negotiated. When it is switched on, orchestrators can propose their own price for your offer during the negotiation. Otherwise, the price is fixed.
+
+#### Usage policies
+
+In the usage policies section, you choose the policies that apply to your offer: "Time period" (the data must be used for a specified time period) and "Count" (the data must not be used more than a given number of times). If you do not select any policy, your offer has no restriction on the period or the number of times it can be used. In the catalogue, the package concerned then displays "No time or count restrictions".
+
+Each term of a policy has an **Auto-accept** toggle. When you switch it on, you set the range of values you accept for this term, and the proposals you receive during a negotiation are compared with this range. For now, nothing is accepted automatically: you still have to respond to each negotiation.
+
+!!! info "Coming soon"
+
+    Proposals that fall within your range will be accepted automatically.
+
+#### Filling the sections with a template
+
+You don't have to fill in every field yourself. Each section has a **Fill default template** button, which opens a window to fill the section from a ready-made set of values. Every value stays editable afterwards.
+
+- **Dataspace template**: the values the data space recommends, aligned with what other participants expect.
+- **My template**: your own saved preferences, which you set in your offer template (see [Templates](../templates/overview.md#offer-template)).
+
+Pricing and usage policies are not available in the Dataspace template.
+
+Click the **Continue** button to create the offer. In all cases, the offer is created as a draft.
 
 ## Fine-tuning the settings of the offer
 
-Now that your offer is created, you can fine-tune the settings of your offer and complete whatever is missing in order to [publish](#publishing-the-offer) it.
-
-![Offer settings](../../images/offer_settings.png)
-
-!!! info
-
-    All the detailed fields that you can edit on this page are defined in the [offer overview](./overview.md) section, feel free to check this out if you're having trouble understanding what a property is for.
-
-### Adding resources to your offer
-
-Part of the mandatory steps for configuring your offer before publication is to add data and/or service resources to your offer.
-
-An offer **needs** to have at least one resource attached to it to be published.
-
-Clicking on the Edit button of the Offers content section will open a dialog inside of which you can either assign resources you already created or allow you to create resources on the fly which will be automatically assigned to your offer.
-
-![Offer contents](../../images/offer_contents.png)
-
-Two major actions are possible here and described in their own dedicated documentation section.
-
-- [Creating a data resource](./data-resources.md)
-- [Creating a service resource](./service-resources.md)
-
-## Publishing the offer
-
-After completing the mandatory information of your offer, you are able to publish it. The publication status of your offer defines how it can be referenced throughout the catalogue as well as if it will be presented and recommended to other participants.
-
-**A draft offer:**
-
-- Is not available to the catalogue
-- Is not recommended to other participants
-
-**A published offer:**
-
-- Is available on the catalogue
-- Can be searched in the catalogue
-- Is recommended to projects that search the category of offers matching yours
+Now that your offer is created, you can complete it on its own page: add resources, define your pricing packages, and set the service levels, the commitments & penalties and the termination conditions. All of this is described in the [Offer page](./offer-settings.md). Once the mandatory information is complete, you can publish your offer: see [Publishing the offer](./offer-settings.md#publishing-the-offer).
