@@ -1,4 +1,4 @@
-# Adjusting the baseline
+# Adjust the baseline
 
 This is step 3 of the [basket steps](./basket-steps.md).
 

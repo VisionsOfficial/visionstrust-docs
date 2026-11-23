@@ -34,7 +34,7 @@ An offer without a project shows "No project yet".
 
 ## Step 3: Adjust the baseline
 
-Define the terms you want to propose to the providers. This step is described in [Adjusting the baseline](./adjusting-the-baseline.md).
+Define the terms you want to propose to the providers. This step is described in [Adjust the baseline](./adjusting-the-baseline.md).
 
 ## Step 4: Confirm & send
 
@@ -43,4 +43,4 @@ Check all your decisions before sending them to the providers.
 1. Check each offer. Click the **View full terms** button to see all its terms, or the **Edit** button to change your choices: "Edit project" takes you back to step 2 and "Edit terms" takes you back to step 3.
 2. When everything is correct, click the **Start negotiation** button. The message "Invitation sent, the provider will receive a notification to review the negotiation." appears and the basket is emptied.
 
-Each provider can then accept your proposal, refuse it or make a counter-proposal. Learn more in the [negotiation process](../negotiation/negotiation.md).
+Each provider can then accept your proposal, refuse it or make a counter-proposal. Learn more in the [review a negotiation](../negotiation/negotiation.md).

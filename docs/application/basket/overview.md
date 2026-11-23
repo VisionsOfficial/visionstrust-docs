@@ -35,4 +35,4 @@ Once your basket is ready, read on the [basket steps](./basket-steps.md).
 
 ## For Providers
 
-When an orchestrator sends your offer from their basket, you receive a notification inviting you to review the proposal. You can then accept it, refuse it or make a counter-proposal. Learn more in the [negotiation process](../negotiation/negotiation.md).
+When an orchestrator sends your offer from their basket, you receive a notification inviting you to review the proposal. You can then accept it, refuse it or make a counter-proposal. Learn more in the [review a negotiation](../negotiation/negotiation.md).
