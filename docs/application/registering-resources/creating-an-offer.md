@@ -1,4 +1,4 @@
-# Creating an offer
+# Create an offer
 <!-- <iframe src="https://drive.google.com/file/d/15AzzOkpF6tv3dsuMH9zNDt8VYyXgDFkn/preview" width="640" height="380" allow="autoplay"></iframe>  to be replaced when new video is available -->
 
 ## Creating the draft offer

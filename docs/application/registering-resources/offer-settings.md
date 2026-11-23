@@ -78,7 +78,7 @@ To add other resources:
 2. Click the **Create a new resource** button to create a resource, or the **Browse existing resource** button to add one you already have.
 3. Click the **Save changes** button.
 
-The creation of a resource is described in [Creating a data resource](./data-resources.md) and [Creating a service resource](./service-resources.md). The packages of your offer draw from this list: each package can include all the resources, or only some of them.
+The creation of a resource is described in [Create a data resource](./data-resources.md) and [Create a service resource](./service-resources.md). The packages of your offer draw from this list: each package can include all the resources, or only some of them.
 
 ## Pricing and policies
 
@@ -110,7 +110,7 @@ For each package, you can edit:
 | Resources included | yes | The resources of the offer that the package includes. Click **Reset to offer values** to include all of them again |
 | Usage policies | yes | The policies that apply to the package: "Time period" and "Count". By default, a package uses the policies of the offer |
 
-The usage policies are described in [Creating an offer](./creating-an-offer.md#usage-policies), including the **Auto-accept** toggle.
+The usage policies are described in [Create an offer](./creating-an-offer.md#usage-policies), including the **Auto-accept** toggle.
 
 ## Terms & conditions
 
