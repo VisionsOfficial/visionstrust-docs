@@ -1,4 +1,4 @@
-# Creating a Project
+# Create a project
 
 https://drive.google.com/file/d/1cFo5cUDDg6LyVkxU-Dposkk8Ib9kRPNB/preview
 

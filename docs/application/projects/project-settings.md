@@ -45,7 +45,7 @@ A published project:
 - Can invite offers / participants to join it
 - Can receive join requests from participants that want to join
 
-Once your project is published, participants can join it, either because you invited their offers or because they sent a join request. They are then listed in the "Participants" page of the project, with their role and their contributions.
+Once your project is published, participants can join it, either because you invited their offers or because they sent a join request. They are then listed in the "Participants" page of the project, with their role and their contributions. To follow the negotiations of your project, open the "Negotiations" page: see [Follow your negotiations](../negotiation/following-negotiations.md).
 
 ## Project Subscription
 
