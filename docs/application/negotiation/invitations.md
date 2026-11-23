@@ -1,37 +1,17 @@
-# Project Invitations
+# Invite offers
 
-<iframe src="https://drive.google.com/file/d/15YSsOktzX9UZJMUJH3uFV6PJ7QLmAbhh/preview" width="640" height="380" allow="autoplay"></iframe>
+To invite an offer to your project, you start a negotiation with its provider, from your basket.
 
-Project invitations are the way for project orchestrators to express their interest in having a participant join their project.
+## Inviting an offer from the basket
 
-> Please note it is not possible to formulate an invitation if the project is not published or if the contract is not generated.
+1. Add the offers you want to the basket, from the catalogue (see [Basket steps](../basket/basket-steps.md)).
+2. Assign each offer to a project and adjust the baseline.
+3. Click the **Start negotiation** button.
 
-## Formulating an invitation
+The message "Invitation sent, the provider will receive a notification to review the negotiation." is displayed, and the basket is emptied. The provider receives a notification and an email, and can then review the proposal (see [Review a negotiation](./negotiation.md)).
 
-When an orchestrator finds a participant or offer he deems interesting for his project, he can invite the participant to join his project.
+## Finding offers from your project
 
-### Inviting the participant
+The "Matching offers" page of your project lists the offers of the catalogue that match what your project is looking for. Use the **Data** and **Service** tabs to switch between data and service offers. Click the **Discover** button of an offer to open it, then add it to your basket (see [Basket](../basket/overview.md)).
 
-If the orchestrator invites a participant directly (meaning not from the page of an offer from that participant), a dialog modal will be displayed to him in order for him to setup his invitation with the following info
-
-| Info | Description |
-| --- | --- |
-| Project | For which project the participant is being invited |
-| Roles | What roles the participant will have in the project |
-| Offers | Which offers from that participant should be included in the project |
-| Policies | If relevant for the selected offers, how the policies should be configured for the specific project they should be included in |
-| Pricing | The pricing information for the different offers selected |
-
-### Inviting the offer
-
-When inviting through an offer, the process is simplified a little bit as the offer will be pre-selected. The rest should still be informed.
-
-### Inviting through the recommendations of a project
-
-If inviting an offer from the project's recommendations, the project will be already loaded and the process will be even simpler, as the offer & the project will be pre-selected and the tabs for selecting those will not be displayed in the invitation dialog modal.
-
-## Sending the invitation
-
-Once the invitation has been configured, it can be sent to the provider.
-
-The provider will receive notifications in-app and by email of the project invitation and will review the proposal. If he agrees to what the orchestrator has proposed, then he will be added to the project participants and will be able to sign the contract. If he decides to make a counter-offer, then the [Negotiation Process](../negotiation/negotiation.md) is enabled.
+Once an invitation is sent, you can follow it in the "Negotiations" page of the project: see [Follow your negotiations](./following-negotiations.md).
