@@ -1,4 +1,4 @@
-# Signing a contract
+# Sign a contract
 
 1. Click the **Sign** button of the contract. In "All contracts", the button is called **View and sign**. You can also use **Details**, then **View and sign**. The contract page of the project opens.
 2. Review the contract: the project terms and, for each participant, its offers with their negotiated terms.

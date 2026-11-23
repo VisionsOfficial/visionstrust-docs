@@ -25,4 +25,4 @@ The overview shows your contracts at a glance, with four counters:
 
 Under the counters, the "To sign" list shows the contracts that need your signature, followed by your recent contracts.
 
-To see the full list of your contracts, go to [All contracts](./all-contracts.md). To sign a contract, see [Signing a contract](./signing-a-contract.md).
+To see the full list of your contracts, go to [All contracts](./all-contracts.md). To sign a contract, see [Sign a contract](./signing-a-contract.md).

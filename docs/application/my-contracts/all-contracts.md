@@ -17,4 +17,4 @@ Click the **Details** button of a contract to open a side panel with a summary: 
 
 ![Contract details](../../images/contracts-details.png)
 
-To sign a contract, see [Signing a contract](./signing-a-contract.md).
+To sign a contract, see [Sign a contract](./signing-a-contract.md).
