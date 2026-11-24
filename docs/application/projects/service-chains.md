@@ -28,13 +28,11 @@ Let's start with the essentials:
 
 Assuming you have completed and ensured all previous steps, go to your project page and follow these instructions
 
-1. Go to the service chain tab and click on the Create service chain button
+1. Go to the service chain tab and click on the "+ service chain" button
 
 ![](../../images/service-chains-1.png)
 
 2. Give a name to your service chain to be able to identify it later and validate
-
-![](../../images/service-chains-2.png)
 
 3. This will open up the visual editor, you're ready to hop on to the next step. 
 
