@@ -6,6 +6,8 @@ When an orchestrator invites your offer, you receive a notification: open it to 
 
 ## Reviewing a proposal
 
+<p><img src="../../images/negotiation-review.png" alt="The review page of a proposal" width="80%"></p>
+
 The review page shows the project, then the offers of the negotiation, one by one. For each offer, you see the package selected by the orchestrator, and the terms that can be negotiated. Each negotiable term shows what the other side proposes ("THEY PROPOSE") and a field to answer ("COUNTER WITH").
 
 The terms that cannot be negotiated are marked "FIXED - NOT NEGOTIABLE". A package with the "PRICE FIXED" tag cannot be negotiated on its price. Some conditions always remain fixed to ensure data compliance and security, such as the usage restrictions and the breach notification policies.
@@ -21,6 +23,8 @@ At the top of the review page, the "Your decision" box shows how many fields nee
 You can add a comment in the "Your comment" field. It is optional, and it is sent with your decision.
 
 ## Sending a counter-offer
+
+<p><img src="../../images/negotiation-counter-offer.png" alt="The Your decision box after a change" width="80%"></p>
 
 1. Change a negotiable value in a "COUNTER WITH" field. The **Send counter-offer** and **Discard changes** buttons appear, and **Accept all** and **Decline** are disabled until you send or discard your changes.
 2. Add a comment if you want to explain your counter-offer.
