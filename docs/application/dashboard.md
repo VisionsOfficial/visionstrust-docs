@@ -1,6 +1,6 @@
 # Home
 
-![Home Image](../images/dashboard.png)
+<p><img src="../images/home.png" alt="The Home page" width="85%"></p>
 
 Your Home page is the center of operations for most actions you can do in the catalogue. It provides you with quick access to many different actions including:
 
@@ -9,17 +9,21 @@ Your Home page is the center of operations for most actions you can do in the ca
 - Discovering projects that match with your existing offers
 - Easy access to managing your projects & offers
 
+## Search the catalogue
+
+The search bar at the top of the page lets you search the catalogue: type a keyword or describe your need.
+
 ## Your activity
 
 At the top of the page, four numbers sum up your activity: the total revenue generated from your offers, your number of offers, the total number of requests on your offers, and the total number of connected source systems. Click the **See dashboard** button to see more details in [My Dashboard](./my-dashboard.md).
 
 ## Incomplete projects and offerings
 
-This section lists your projects and offers that are not 100% complete, with their completion percentage, so that you know what is left to finish.
+This section lists your projects and offers that are not 100% complete, with their completion percentage, so that you know what is left to finish. This section only appears when you have at least one incomplete project or offer.
 
 ## Pending Requests
 
-The pending requests section will display incoming requests that you received in order to join a specific project. Usually, you'll also receive a mail and be able to view this request in the notifications, but to make things simpler, it will also be displayed in a very visual way as soon as you open your Home page if you have any.
+The "Pending request" section shows the requests that wait for your answer, as cards with the name of the project and a **Reply** button. Use the arrows to go through the cards. Click the **Reply** button to open the request: see [Review a negotiation](./negotiation/negotiation.md). Usually, you also receive a notification, and this section shows the request as soon as you open your Home page.
 
 ## Matching recommendations
 
