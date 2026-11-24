@@ -15,3 +15,13 @@ The message "Invitation sent, the provider will receive a notification to review
 The "Matching offers" page of your project lists the offers of the catalogue that match what your project is looking for. Use the **Data** and **Service** tabs to switch between data and service offers. Click the **Discover** button of an offer to open it, then add it to your basket (see [Basket](../basket/overview.md)).
 
 Once an invitation is sent, you can follow it in the "Negotiations" page of the project: see [Follow your negotiations](./following-negotiations.md).
+
+## Inviting an organisation
+
+You can also invite an organisation without choosing one of its offers first.
+
+1. In the catalogue, open the "Organisations" tab.
+2. Click the **Discover** button of the organisation you want to invite.
+3. Click the **View this organisation's offers** button. The catalogue shows only the offers of this organisation.
+4. Choose a package for each offer you want, and click **Add to basket**.
+5. Follow the steps of the basket, as for any other invitation: see [Basket steps](../basket/basket-steps.md).
