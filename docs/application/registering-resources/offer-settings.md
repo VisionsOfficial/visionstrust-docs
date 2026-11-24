@@ -8,10 +8,10 @@ After you create an offer, its own page lets you complete it, publish it and fol
 
 At the top of the page, you find the status of the offer (Draft or Published) and its completion percentage. The buttons next to it let you:
 
-- **Archive** (box icon): archive the offer
+- **Archive** (box icon): archive the offer, see [Copy, archive and restore an offer](#copy-archive-and-restore-an-offer)
 - **Copy offer id** (fingerprint icon): copy the identifier of the offer
 - **Share link** (share icon): share the offer with a link
-- **Copy**: create a duplicate of the offer
+- **Copy offer**: create a copy of the offer as a draft, see [Copy, archive and restore an offer](#copy-archive-and-restore-an-offer)
 - **Publish**: publish the offer. Once the offer is published, this button becomes **Unpublish**.
 
 ## Completing your offer
@@ -180,3 +180,27 @@ The business indicators give you the key business metrics of your offer: the tot
 ### Technical indicators
 
 The technical indicators give you the key technical metrics of your offer: the exchanges (successful, total and success rate for each offer) and a table of the errors, with their date, status, offer, ecosystem, participant, error and location.
+
+## Copy, archive and restore an offer
+
+### Copy an offer
+
+Click the **Copy offer** button to create a draft copy of your offer. A window opens:
+
+<p><img src="../../images/offer-copy.png" alt="The Copy offer window" width="60%"></p>
+
+1. Change the name of the copy if you want. By default, it is "Copy of" followed by the name of the offer.
+2. Choose what to copy: **Copy the resources** duplicates the data and service resources and names them "Copy of ...", so that the copy can be edited without affecting the original offer. **Offer without resources** keeps the information of the offer without any resource: you can add some afterwards.
+3. Click the **Create copy** button. The message "Offer copied" appears, and the page of the copy opens.
+
+### Archive an offer
+
+Click the **Archive** button, then **Confirm** to archive the offer. Its status becomes "Archived" and the **Publish** button is replaced by **Unarchive**.
+
+An offer can only be archived if it is not part of a project. If it is, the **Archive** button is not displayed: the offer must first leave the project (see [Exit an offer](../projects/exit-requests.md)).
+
+### Find and restore an archived offer
+
+<p><img src="../../images/archived-offers.png" alt="The Archived tab of My Offers" width="80%"></p>
+
+Archived offers are listed in the "Archived" tab of "My Offers". Each card shows the status "Archived" and a **See offer** button. On the page of the offer, click **Unarchive** to restore it: the offer comes back as a draft, and you can publish it again.
