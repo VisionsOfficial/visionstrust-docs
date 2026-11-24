@@ -72,7 +72,7 @@ nav:
       - Project page: application/projects/project-settings.md
       - Contributions: application/projects/contributions.md
       - Service Chains: application/projects/service-chains.md
-      - Exit an offer: application/projects/exit-requests.md
+      - Exit requests: application/projects/exit-requests.md
     - Basket:
       - Overview: application/basket/overview.md
       - Basket steps: application/basket/basket-steps.md
