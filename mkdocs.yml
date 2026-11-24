@@ -51,7 +51,8 @@ nav:
     - Getting Started:
       - Overview: application/overview.md
       - Onboarding: application/onboarding.md
-      - Dashboard: application/dashboard.md
+      - Home page: application/dashboard.md
+      - My Dashboard: application/my-dashboard.md
     - Discovery: 
       - Browsing: application/discovery/index.md
       - Offers: application/discovery/offers.md
@@ -59,7 +60,7 @@ nav:
       - Infrastructure Offers: application/discovery/infrastructure.md
     - Offers:
       - Overview: application/registering-resources/overview.md
-      - Creating an offer: application/registering-resources/creating-an-offer.md
+      - Create an offer: application/registering-resources/creating-an-offer.md
       - Offer page: application/registering-resources/offer-settings.md
       - Data Resource: application/registering-resources/data-resources.md
       - Service Resource: application/registering-resources/service-resources.md
@@ -67,24 +68,26 @@ nav:
       - Tips and Tricks: application/registering-resources/tips-and-tricks.md
     - Projects:
       - Overview: application/projects/overview.md
-      - Creating a Project: application/projects/creating-a-project.md
+      - Create a project: application/projects/creating-a-project.md
       - Project page: application/projects/project-settings.md
       - Contributions: application/projects/contributions.md
       - Service Chains: application/projects/service-chains.md
+      - Exit an offer: application/projects/exit-requests.md
     - Basket:
       - Overview: application/basket/overview.md
       - Basket steps: application/basket/basket-steps.md
-      - Adjusting the baseline: application/basket/adjusting-the-baseline.md  
+      - Adjust the baseline: application/basket/adjusting-the-baseline.md  
     - Negotiation:
-      # - Peer-to-Peer: application/negotiation/peer-to-peer.md
-      - Project Negotiation: application/negotiation/project-negotiation.md
-      - Invitations: application/negotiation/invitations.md
-      - Join Requests: application/negotiation/join-requests.md
-      - Negotiation Process: application/negotiation/negotiation.md
+      - Overview: application/negotiation/project-negotiation.md
+      - Invite offers: application/negotiation/invitations.md
+      - Join a project: application/negotiation/join-requests.md
+      - Review a negotiation: application/negotiation/negotiation.md
+      - Follow your negotiations: application/negotiation/following-negotiations.md
+      - Restart a negotiation: application/negotiation/restarting-a-negotiation.md
     - My Contracts:
       - Overview: application/my-contracts/overview.md
       - All contracts: application/my-contracts/all-contracts.md
-      - Signing a contract: application/my-contracts/signing-a-contract.md
+      - Sign a contract: application/my-contracts/signing-a-contract.md
     - Templates: application/templates/overview.md
   - Developers:
     - Guide: guide/guide.md
