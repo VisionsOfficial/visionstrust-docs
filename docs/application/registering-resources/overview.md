@@ -27,3 +27,26 @@ An offer is composed of:
 !!! info
 
     For more information about policies and what it actually means in the system, please visit the [Prometheus-X Dataspace Connector documentation](https://github.com/Prometheus-X-association/dataspace-connector)
+
+## Find your offers
+
+Click "My Offers" in the sidebar navigation menu. Its submenu has these entries:
+
+- "Home": a summary of your offers
+- "All", "Data", "Services" and "Infrastructure": your offers, by type
+- "Archived": your archived offers, see [Copy, archive and restore an offer](./offer-settings.md#copy-archive-and-restore-an-offer)
+- "My Resources": your data and service resources, see [Data Resources](./data-resources.md)
+- "Offer template": your offer template, see [Templates](../templates/overview.md#offer-template)
+
+### Home of "My Offers"
+
+<p><img src="../../images/my-offers-home.png" alt="The Home page of My Offers" width="85%"></p>
+
+The "Home" page summarises your offers:
+
+- **Number of offers**, **Total access requests** and **Total revenue generated from offers**
+- **Contract status of offers**: the number of signed contracts and of contracts pending validation
+- **Request by offers**: a ranking of your data assets by number of requests over the last 30 days. Switch between **Top 10** and **Top 50**
+- **Catalog evolution**: the number of new assets added each month, with a list to choose the period
+
+The screenshot shows sample data. The figures about requests only appear if you have a connector and if exchanges have taken place on your offers. For more figures, see [My Dashboard](../my-dashboard.md).

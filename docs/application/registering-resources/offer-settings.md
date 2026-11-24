@@ -31,9 +31,9 @@ A warning triangle in the menu marks a section that is still incomplete.
 
 The "Pricing and policies" section and the three sections of "Terms & Conditions" each have an **Adopt a default template** button, which fills it from the Dataspace template or from your offer template (see [Templates](../templates/overview.md#offer-template)).
 
-!!! info "Offers created before November 25, 2026"
+!!! info "Offers created before November 26, 2026"
 
-    The new fields did not exist when these offers were created. Their values have been filled in with the dataspace default values, and you can modify them at any time.
+    The new fields did not exist when these offers were created. Their values have been filled in with the dataspace default values, and you can modify them at any time. A banner "Terms completed with the data space defaults" on the page of the offer reminds you to review them. You received a notification and an email about this change.
 
 ## Publishing the offer
 
@@ -197,7 +197,7 @@ Click the **Copy offer** button to create a draft copy of your offer. A window o
 
 Click the **Archive** button, then **Confirm** to archive the offer. Its status becomes "Archived" and the **Publish** button is replaced by **Unarchive**.
 
-An offer can only be archived if it is not part of a project. If it is, the **Archive** button is not displayed: the offer must first leave the project (see [Exit an offer](../projects/exit-requests.md)).
+An offer can only be archived if it is not part of a project. If it is, the **Archive** button is not displayed: the offer must first leave the project (see [Exit requests](../projects/exit-requests.md)).
 
 ### Find and restore an archived offer
 
