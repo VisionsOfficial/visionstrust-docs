@@ -26,7 +26,7 @@ You can add a comment in the "Your comment" field. It is optional, and it is sen
 
 ## Sending a counter-offer
 
-<p><img src="../../images/negotiation-counter-offer.png" alt="The Your decision box after a change" width="80%"></p>
+<p><img src="../../images/negotiation-counter-offer.png" alt="The Your decision box after a change" width="40%"></p>
 
 1. Change a negotiable value in a "COUNTER WITH" field. The **Send counter-offer** and **Discard changes** buttons appear, and **Accept all** and **Decline** are disabled until you send or discard your changes.
 2. Add a comment if you want to explain your counter-offer.
