@@ -6,10 +6,10 @@ After successfully creating a project, it can be managed and configured in more 
 
 At the top of the project page, you find the status of the project (Draft or Published) and its completion percentage. The buttons next to it let you:
 
-- **Archive** (box icon): archive the project
+- **Archive** (box icon): archive the project. A project can only be archived if it contains no offer other than the orchestrator's own offers
 - **Copy project id** (fingerprint icon): copy the identifier of the project
 - **Share link** (share icon): share the project with a link
-- **Copy**: create a duplicate of the project
+- **Copy**: create a copy of the project as a draft, see [Copy a project](#copy-a-project)
 - **Publish**: publish the project. Once the project is published, this button becomes **Unpublish**.
 
 ## Completing your project
@@ -45,7 +45,7 @@ A published project:
 - Can invite offers / participants to join it
 - Can receive join requests from participants that want to join
 
-Once your project is published, participants can join it, either because you invited their offers or because they sent a join request. They are then listed in the "Participants" page of the project, with their role and their contributions. To follow the negotiations of your project, open the "Negotiations" page: see [Follow your negotiations](../negotiation/following-negotiations.md).
+Once your project is published, participants can join it, either because you invited their offers or because they sent a join request. They are then listed in the "Participants" page of the project, with their role and their contributions. To follow the negotiations of your project, open the "Negotiations" page: see [Follow your negotiations](../negotiation/following-negotiations.md). A participant can also withdraw one of its offers: see [Exit an offer](./exit-requests.md).
 
 ## Project Subscription
 
@@ -56,3 +56,14 @@ VisionsTrust operates under a pricing model in which you manage a paid subscript
 Upon creating a project, whether it is in a draft or published state, a contract for the project is generated in an unsigned state. The Contract page displays the terms of the project, its participants and their contributions.
 
 To invite participants and ensure data exchanges are authorized, all participants, including you as the orchestrator, should validate this contract with the **Validate** button on this page. The contract can only be signed once the project is published. See [Contracts](../my-contracts/signing-a-contract.md).
+
+## Copy a project
+
+Click the **Copy** button to create a draft copy of your project. A window opens:
+
+<p><img src="../../images/project-copy.png" alt="The Copy project window" width="60%"></p>
+
+1. Change the name of the copy if you want. By default, it is "Copy of" followed by the name of the project.
+2. Click the **Create copy** button.
+
+The copy is created as a draft with a new contract. Only you, as orchestrator, and your offers are carried over. The other participants, the invitations, the join requests, the infrastructure services and the service chains are not copied: you can invite the participants again, and create the chains again.

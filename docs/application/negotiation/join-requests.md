@@ -11,8 +11,8 @@ To send a join request, you must have at least one published offer that can be u
 
 <p><img src="../../images/join-this-project.png" alt="The Join this project button" width="70%"></p>
 
-Your join request is sent to the orchestrator of the project, who is notified.
+The message "Join request sent" confirms that your request is sent to the orchestrator of the project.
 
 ## After the join request
 
-The orchestrator receives an in-app notification and an email to review your request. The orchestrator then decides whether to accept it. If the request is accepted, a negotiation starts, to decide which of your offers will be added to the project. See [Review a negotiation](./negotiation.md).
+The orchestrator receives a notification and an email. When the orchestrator clicks the notification, the catalogue opens with only the offers of your organisation. It is then the orchestrator who chooses which of your offers to add to the project: the orchestrator adds them to the basket, which opens directly on the step "Adjust the baseline" because the project is already assigned, then starts a negotiation (see [Invite offers](./invitations.md)). You then review the proposal: see [Review a negotiation](./negotiation.md).

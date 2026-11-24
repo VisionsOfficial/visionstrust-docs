@@ -1,9 +1,13 @@
-# Offers discovery
+# Projects discovery
 On the catalogue, clicking on the "Projects" tab will display a dedicated view for all projects available on the catalogue, may they be projects related to data or projects related to services.
 
 ## Project cards
 
 The cards displayed here work exactly the same way as for the main catalogue tab. Clicking on the discover button will open the side drawer in which there will be some extended information on the project and access to additionnal actions, such as getting a full page detail of that specific project and its provider.
+
+## Joining a project
+
+To join a project, click the **Discover** button of its card, then click the **Join this project** button at the bottom of the side drawer. See [Join a project](../negotiation/join-requests.md).
 
 ## Browsing
 
