@@ -17,6 +17,8 @@ Each negotiation is shown as a card with:
 - the decision, for example "Accepted by you on 10 nov. 2026"
 - the number of rounds, and the date of the last update
 
+<p><img src="../../images/current-negotiations.png" alt="The Current tab" width="47%"> <img src="../../images/finished-negotiations.png" alt="The Finished tab" width="47%"></p>
+
 A card in the "Current" tab shows "NEGOTIATION IN PROGRESS". When a participant has not answered yet, the **Resend notification to join** button sends them the notification again.
 
 ## Opening a negotiation

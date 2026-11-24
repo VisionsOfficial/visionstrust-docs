@@ -30,6 +30,10 @@ Each offer must be assigned to a project:
 
 An offer without a project shows "No project yet".
 
+!!! info "Coming from a join request"
+
+    When you add offers from a join request notification, they are already assigned to the project of the request. The basket then opens directly on step 3, "Adjust the baseline".
+
 ![Assign to project](../../images/basket-assign-project.png)
 
 ## Step 3: Adjust the baseline
@@ -44,3 +48,9 @@ Check all your decisions before sending them to the providers.
 2. When everything is correct, click the **Start negotiation** button. The message "Invitation sent, the provider will receive a notification to review the negotiation." appears and the basket is emptied.
 
 Each provider can then accept your proposal, refuse it or make a counter-proposal. Learn more in the [review a negotiation](../negotiation/negotiation.md).
+
+## Saving an offer for later
+
+In the first step, click the **Save for later** button of an offer to put it aside without removing it. It moves to the "Saved for later" list, under your basket. Click the **Move to basket** button to put it back in the basket.
+
+When your basket is empty, the page also offers to add your saved offers to it.
