@@ -75,5 +75,3 @@ Click the **Archive** button of the project, then **Confirm** to archive it. Its
 A project can only be archived if it contains no offer other than the orchestrator's own offers.
 
 Archived projects are listed in the "Archived" tab of "My Projects". Each card shows the name of the project, its creation date, its status "Archived" and a **See project** button.
-
-<p><img src="../../images/archived-projects.png" alt="The Archived tab of My Projects" width="85%"></p>
