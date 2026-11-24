@@ -14,6 +14,8 @@ The terms that cannot be negotiated are marked "FIXED - NOT NEGOTIABLE". A packa
 
 ## Making a decision
 
+<p><img src="../../images/negotiation-decision.png" alt="The Your decision box" width="40%"></p>
+
 At the top of the review page, the "Your decision" box shows how many fields need your decision and lists them, for example the contract duration, the renewal mode, the time period and the count. It gives you three choices:
 
 - **Accept all**: accept the proposal as it is. For 4 seconds, an **Undo** button lets you cancel your decision. The negotiation is then completed with the status **ACCEPTED**, and you are added to the contract of the project, which then appears in your "To sign" list (see [My Contracts](../my-contracts/overview.md)).
