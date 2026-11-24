@@ -102,5 +102,7 @@ nav:
     - Settings Access: settings/settings-access.md
     - Admin Management: settings/admin-access.md
     - API Keys: settings/api-keys.md
+    - Connector & Endpoints: settings/connector-endpoints.md
     - Visibility: settings/visibility.md
+    - Configuration: settings/configuration.md
   - Tutorial Videos: tutorial-videos.md
