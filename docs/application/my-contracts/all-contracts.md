@@ -1,7 +1,5 @@
 # All contracts
 
-![All contracts](../../images/contracts-all.png)
-
 "All contracts" lists every contract of the overview. Use the tabs at the top to filter the list: "All", "As orchestrator" (the projects you orchestrate) and "As participant" (the projects you joined). Each tab shows its number of contracts. To filter by status instead, use the "STATUS" entries of the menu.
 
 Each contract is shown as a card with:

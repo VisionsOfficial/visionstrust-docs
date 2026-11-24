@@ -1,4 +1,4 @@
-# Exit an offer
+# Exit requests
 
 A participant stays in a project, but can withdraw one of its offers. This is called an exit request. An exit is made offer by offer: the other offers of the participant stay in the project.
 
@@ -13,7 +13,7 @@ The other side then approves or rejects it.
 
 <p><img src="../../images/exit-membership.png" alt="The Membership page" width="85%"></p>
 
-If you are a participant, the "Membership" page of the project lists your roles and your offers in this project.
+If you are a participant, use the "Membership" page of the project to request the exit of one of your offers and to follow your requests.
 
 1. Open the project and click "Membership" in the menu.
 2. Click the **Request exit** button next to the offer you want to withdraw.
@@ -23,7 +23,9 @@ If you are a participant, the "Membership" page of the project lists your roles 
 
 ## Propose the exit of an offer
 
-If you are the orchestrator, you can propose the exit of an offer of a participant.
+<p><img src="../../images/exit-participants.png" alt="The Participants page" width="85%"></p>
+
+If you are the orchestrator, use the "Participants" page of the project to propose the exit of an offer of a participant.
 
 1. Open the project and click "Participants" in the menu.
 2. Find the participant and click the **Propose exit** button next to the offer.
@@ -48,7 +50,7 @@ The exit is effective immediately:
 
 - The offer leaves the project and its contract. It no longer appears in the contract.
 - The service chains that used the offer go back to draft, without the offer. They show "Impacted by an exit request": edit them before activating them again.
-- The participant stays in the project, with its other offers. The "Participants" page shows how many offers have exited.
+- The participant stays in the project, even if it has no offer left. The offers that left can be added back through a renegotiation, not through the basket: see [Restart a negotiation](../negotiation/restarting-a-negotiation.md).
 
 If the exit is rejected, nothing changes: the offer stays in the project.
 

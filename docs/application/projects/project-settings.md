@@ -24,8 +24,8 @@ The other settings are optional and can be completed at any time:
 - Contributions: Contributions that you can add to the project, as in data or services that you would like to the contribute to the project for them to be used by the other participants in the project. See [Contributions](./contributions.md).
 - Resources you need: the categories of data and services your project looks for, which improves the recommendations in "Matching offers".
 
-!!! info "Projects created before November 20, 2026"
-    Governance and Additional clauses did not exist when these projects were created. Their values have been filled in with the dataspace default values, and you can modify them at any time.
+!!! info "Projects created before November 26, 2026"
+    Governance and Additional clauses did not exist when these projects were created. Their values have been filled in with the dataspace default values, and you can modify them at any time. You received a notification and an email about this change.
 
 ## Understanding project publication
 
@@ -45,7 +45,7 @@ A published project:
 - Can invite offers / participants to join it
 - Can receive join requests from participants that want to join
 
-Once your project is published, participants can join it, either because you invited their offers or because they sent a join request. They are then listed in the "Participants" page of the project, with their role and their contributions. To follow the negotiations of your project, open the "Negotiations" page: see [Follow your negotiations](../negotiation/following-negotiations.md). A participant can also withdraw one of its offers: see [Exit an offer](./exit-requests.md).
+Once your project is published, participants can join it, either because you invited their offers or because they sent a join request. They are then listed in the "Participants" page of the project, with their role and their contributions. To follow the negotiations of your project, open the "Negotiations" page: see [Follow your negotiations](../negotiation/following-negotiations.md). A participant can also withdraw one of its offers: see [Exit requests](./exit-requests.md).
 
 ## Project Subscription
 
@@ -67,3 +67,13 @@ Click the **Copy** button to create a draft copy of your project. A window opens
 2. Click the **Create copy** button.
 
 The copy is created as a draft with a new contract. Only you, as orchestrator, and your offers are carried over. The other participants, the invitations, the join requests, the infrastructure services and the service chains are not copied: you can invite the participants again, and create the chains again.
+
+## Archive a project
+
+Click the **Archive** button of the project, then **Confirm** to archive it. Its status becomes "Archived".
+
+A project can only be archived if it contains no offer other than the orchestrator's own offers.
+
+Archived projects are listed in the "Archived" tab of "My Projects". Each card shows the name of the project, its creation date, its status "Archived" and a **See project** button.
+
+<p><img src="../../images/archived-projects.png" alt="The Archived tab of My Projects" width="85%"></p>

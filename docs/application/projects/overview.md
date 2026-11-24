@@ -23,7 +23,7 @@ Click "My Projects" in the sidebar navigation menu. Its submenu has these entrie
 
 - "Home": a summary of your projects and a guide
 - "All", "Initiated" and "Joined": your projects, with the ones you launched and the ones you joined
-- "Archived": your archived projects, see [Project page](./project-settings.md)
+- "Archived": your archived projects, see [Archive a project](./project-settings.md#archive-a-project)
 - "Project template": your project template, see [Templates](../templates/overview.md)
 
 ### Home of "My Projects"
