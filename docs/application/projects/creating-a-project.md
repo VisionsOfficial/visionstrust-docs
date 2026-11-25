@@ -37,7 +37,7 @@ The second step defines why the project processes data, and the contract clauses
 
 You don't have to fill in every field yourself. Each section has a **Adopt dataspace template** button, which opens a window to fill the section from a ready-made set of values. Every value stays editable afterwards.
 
-<p style="text-align: center;"><img src="../../images/creating-a-project-template.png" alt="Adopt a default template" width="60%"></p>
+<p><img src="../../images/creating-a-project-template.png" alt="Adopt a default template" width="60%"></p>
 
 - **Dataspace template**: the values the data space recommends, aligned with what other participants expect.
 - **My template**: your own saved preferences, which you set in "My Contracts", in the "Project template" tab.

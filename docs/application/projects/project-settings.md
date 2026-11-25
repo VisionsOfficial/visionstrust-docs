@@ -59,6 +59,10 @@ To invite participants and ensure data exchanges are authorized, all participant
 
 The "Participants" page lists every participant of the project, with its roles and its contributions. Your own card is marked "You": its "Your contributions" block lists your offers, each with a **Modify** button (see [Contributions](./contributions.md)). The card of another participant lists its offers, with the number of service chains that use each one. Click the **Read more** button to open the page of the organisation in the catalogue, or **Propose exit** to propose the exit of one of its offers (see [Exit requests](./exit-requests.md)). When offers have left the project, the page tells you how many. The **Resend notification to sign** button sends the participant a new notification to sign the contract. It is displayed only while the participant has at least one offer in the project and has not signed yet.
 
+## Matching offers
+
+The "Matching offers" page of your project lists the offers of the catalogue that match what your project is looking for. See [Finding offers from your project](../negotiation/invitations.md#finding-offers-from-your-project).
+
 ## Copy a project
 
 Click the **Copy** button to create a draft copy of your project. A window opens:

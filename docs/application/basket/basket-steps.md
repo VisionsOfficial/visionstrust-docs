@@ -34,6 +34,8 @@ Each offer must be assigned to a project:
 
 An offer without a project shows "No project yet".
 
+You can also create a new project from this step. The project is created and published directly, and it is assigned to the offers of your basket right after its creation.
+
 !!! info "Coming from a join request"
 
     When you add offers from a join request notification, they are already assigned to the project of the request. The basket then opens directly on step 3, "Adjust the baseline".

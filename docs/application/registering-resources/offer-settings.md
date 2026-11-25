@@ -2,7 +2,7 @@
 
 After you create an offer, its own page lets you complete it, publish it and follow how it performs. To open it, click "My Offers" in the sidebar navigation menu, then click your offer.
 
-<p style="text-align: center;"><img src="../../images/offer_settings.png" alt="A package" width="80%"></p>
+<p><img src="../../images/offer_settings.png" alt="A package" width="80%"></p>
 
 ## Offer status and actions
 
@@ -72,7 +72,7 @@ The offer content is the list of data and/or service resources that your offer c
 When you create a data offer, a data resource with the same name is created automatically and added to your offer, so that the offer already has one resource. You can complete it in the "My Resources" page, for example with the anonymised extract and the update frequency.
 
 To add other resources:
-<p style="text-align: center;"><img src="../../images/offer_contents.png" alt="A package" width="80%"></p>
+<p><img src="../../images/offer_contents.png" alt="A package" width="80%"></p>
 
 1. Open "Offer content" in the menu on the left.
 2. Click the **Create a new resource** button to create a resource, or the **Browse existing resource** button to add one you already have.
@@ -86,7 +86,7 @@ The pricing of an offer is managed through packages. You can define from one to 
 
 Click the **Add a package** button to add a package. The packages are shown to the orchestrators in the order you set.
 
-<p style="text-align: center;"><img src="../../images/offer_package.png" alt="A package" width="80%"></p>
+<p><img src="../../images/offer_package.png" alt="A package" width="80%"></p>
 
 A package shows a "PRICE FIXED" or "PRICE NEGOTIABLE" tag. Orchestrators see this tag in the catalogue and in their basket, so they know whether they can negotiate the price.
 
