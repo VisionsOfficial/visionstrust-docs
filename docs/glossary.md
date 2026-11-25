@@ -7,7 +7,7 @@ The dataspace vocabulary can be combursome to deal with as there are many terms 
 | Participant | An entity (usually an organisation) that has an identifier in the dataspace. A participant can be a Data/Service/Infrastructure provider or a project (use-case) orchestrator. |
 | Project | A project or use-case orchestrated by a participant inside which multiple participants are members and which defines a scoped ecosystem of data exchanges between its members. |
 | Resource | A data or software (API, service...) resource that is proposed from a provider to the marketplace. It is the asset metadata representation of a resource that is owned by a provider. A resource is not presented in the marketplace if not packaged into a Service Offering. |
-| Offer | A package of one or more resources of a provider containing some additionnal information in order to be proposed to the marketplace. Unlike resources, Service Offerings are meant for display and discovery in the marketplace. |
+| Offer | A package of one or more resources of a provider containing some additional information in order to be proposed to the marketplace. Unlike resources, Service Offerings are meant for display and discovery in the marketplace. |
 | Data Provider | A participant that proposes Service Offerings based of data resources on the marketplace |
 | Service Provider | A participant that proposes Service Offerings based of services (AI service, API...) on the marketplace |
 | Infrastructure Service Offer | A service implementing a Prometheus-X Building Block that can be used in service chains within data space use cases. |
