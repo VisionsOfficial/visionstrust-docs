@@ -22,7 +22,7 @@ The other settings are optional and can be completed at any time:
 
 - Defining Tech requirements: Tech components that your project will use for regulating data exchanges in the project. Some are mandatory and will be set for you by default.
 - Contributions: Contributions that you can add to the project, as in data or services that you would like to the contribute to the project for them to be used by the other participants in the project. See [Contributions](./contributions.md).
-- Resources you need: the categories of data and services your project looks for, which improves the recommendations in "Matching offers".
+- Resources you need: the categories of data and services your project looks for, which puts your project in the right filters of the catalogue, improves the recommendations in "Matching offers", and makes your project recommended to the participants whose offers match what you look for.
 
 !!! info "Projects created before November 26, 2026"
     Governance and Additional clauses did not exist when these projects were created. Their values have been filled in with the dataspace default values, and you can modify them at any time. You received a notification and an email about this change.

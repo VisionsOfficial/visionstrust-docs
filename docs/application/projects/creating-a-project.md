@@ -13,7 +13,7 @@ On the My Projects page, there is a "Create a new project" button at the top rig
 <p><img src="../../images/projects.png" alt="My Projects Page" width="85%"></p>
 
 
-## General Information registration
+## Step 1: General Information Registration
 
 <p><img src="../../images/creating-a-project-step1.png" alt="Creating a project, step 1" width="85%"></p>
 
@@ -23,15 +23,7 @@ If you don't set an image for your project, your logo will be used instead.
 
 Click the **Continue** button to go to the second step, or the **Create as draft** button to save the project and finish it later.
 
-## Searched data & services
-
-Selecting what kind of data and/or services your project is in need for is no longer part of the creation. You can do it at any time on the project page, under "Resources you need". As for the category of the project, this is essential for the same reasons:
-
-- Categorizing your project in the right filters
-- Making sure you get recommended offers that are of the searched data / service categories
-- Making sure your project gets recommended to participants that provide offers of what your project is in search for
-
-## Governance and clauses
+## Step 2: Governance and Clauses
 
 <p><img src="../../images/creating-a-project-step2.png" alt="Creating a project, step 2" width="85%"></p>
 
