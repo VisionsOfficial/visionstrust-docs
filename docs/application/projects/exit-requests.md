@@ -50,8 +50,7 @@ The exit is effective immediately:
 
 - The offer leaves the project and its contract. It no longer appears in the contract.
 - The service chains that used the offer go back to draft, without the offer. They show "Impacted by an exit request": edit them before activating them again.
-- The participant stays in the project, even if it has no offer left. The offers that left can be added back through a renegotiation, not through the basket: see [Restart a negotiation](../negotiation/restarting-a-negotiation.md).
-
+- The participant stays in the project, even if it has no offer left.
 If the exit is rejected, nothing changes: the offer stays in the project.
 
 ## Follow your requests
@@ -62,4 +61,4 @@ The "Exit requests" page (orchestrator) and the "Membership" page (participant) 
 
 ## Bring an offer back
 
-An offer that has exited can come back through a renegotiation: see [Restart a negotiation](../negotiation/restarting-a-negotiation.md). The offer is listed again in "Add other offers of the participant".
+An offer that has exited can come back through a renegotiation, not through the basket: see [Restart a negotiation](../negotiation/restarting-a-negotiation.md). The offer is listed again in "Add other offers of the participant".
