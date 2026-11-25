@@ -6,15 +6,14 @@ To open it, click "My Contracts" in the navigation sidebar.
 
 ## The menu of "My Contracts"
 
-The menu on the left of the page has three parts:
+<p><img src="../../images/contract-overview.png" alt="My Contracts overview" width="85%"></p>
 
-- "MY TEMPLATE": your "Offer template" and your "Project template" (see [Templates](../templates/overview.md)).
+The menu on the left of the page has two parts:
+
 - "CONTRACTS": the "Overview" and "All contracts".
 - "STATUS": your contracts sorted by status, "To sign", "Pending partners" and "Signed". Each entry shows its number of contracts.
 
 ## Overview
-
-<p><img src="../../images/contract-overview.png" alt="My Contracts overview" width="85%"></p>
 
 The overview shows your contracts at a glance, with four counters:
 
