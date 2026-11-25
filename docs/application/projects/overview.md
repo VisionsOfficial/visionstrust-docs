@@ -12,7 +12,7 @@ Projects enable you to setup a space for enabling your use cases. You will be ab
 You can get started with a new project by reading on [how to create a project](./creating-a-project.md).
 
 ## For Providers
-As a provider of data or services, you might be interested in joining projects that could fit the usage of your services and provide you with interesting value.
+As a provider of data or services, you can join the projects that interest you: find them in the catalogue and send a join request. See [Join a project](../negotiation/join-requests.md).
 
 ### Recommendations
 After registering resources and offers as a Provider in the catalogue, project recommendations will start appearing on your [Home Page](../dashboard.md) on which you will be able to easily discover details about these projects and make join requests to them if they are indeed interesting for you.
