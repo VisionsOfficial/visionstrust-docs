@@ -25,3 +25,18 @@ You always set these terms:
 - **Count**: a usage policy that limits how many times the data can be used. If an offer does not have this policy, "Not applicable" is displayed.
 
 Once the baseline is ready, click the **Continue** button to go to the last step: [Confirm & send](./basket-steps.md#step-4-confirm-send).
+
+## Fixed and negotiable terms
+
+!!! warning "What you can negotiate"
+
+    | Term | Negotiable? |
+    | --- | --- |
+    | Pricing (subscription pricing, billing period, setup fee, cost per API call) | Only if the provider switches on "Price is negotiable" |
+    | Currency and pricing description | Never |
+    | Contract duration, renewal mode and notice period | Yes, you set them in this step |
+    | Usage policies (time period and count) | Yes, you set them in this step |
+    | Resources | Never |
+    | Service levels (SLA) | Never |
+    | Commitments and penalties | Never |
+    | Termination | Never |
