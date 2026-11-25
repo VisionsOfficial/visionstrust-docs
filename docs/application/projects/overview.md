@@ -32,6 +32,16 @@ A guide in three parts follows, with the actions to take for each one:
 
 <p><img src="../../images/my-projects-pending.png" alt="The Pending page of My Projects" width="85%"></p>
 
-The "Pending" page lists the invitations you received and the join requests you sent that are not concluded yet. Each card shows the project, its status, its number of partners, and the tag "Invitation" or "Request".
+The "Pending" page lists the invitations you received and the join requests you sent, as long as they are not concluded.
 
-Two groups of tabs filter the list: "All", "Invitations" and "Requests", then "All", "My turn" and "Waiting for the orchestrator". When it is your turn, the card shows "Your turn to answer" and a **Reply** button: click it to review the proposal, see [Review a negotiation](../negotiation/negotiation.md). A request that waits for the orchestrator shows "Waiting for the orchestrator" and "Negotiation in progress".
+Each card has a tag:
+
+- "Invitation": an orchestrator invited your offers to its project.
+- "Request": you asked to join the project.
+
+Each card also tells who has to act:
+
+- "Your turn to answer": the orchestrator is waiting for you. Click the **Reply** button to review the proposal: see [Review a negotiation](../negotiation/negotiation.md).
+- "Waiting for the orchestrator": the next step is on the side of the orchestrator. You have nothing to do.
+
+To find a card faster, use the tabs: "Invitations" and "Requests" filter by tag, "My turn" and "Waiting for the orchestrator" filter by who has to act.
