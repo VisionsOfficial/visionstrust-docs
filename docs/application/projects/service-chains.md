@@ -96,6 +96,14 @@ At the top right of the editor is the save button. This action can be done at an
 
 Once your chain is complete and you save it, you then have the option to [activate it](#activating-a-chain).
 
+## Use the Data Value Chain Tracker (DVCT)
+
+At the top of the "Service chains" page, the switch "Use DVCT (Data Value Chain Tracker)" indicates that a service chain will use the Data Value Chain Tracker. The DVCT is the implementation of a Prometheus-X building block. The connectors use it during the exchanges.
+
+!!! note
+
+    The DVCT needs an additional configuration of the connectors.
+
 ## Activating A Chain
 
 If your service chain fits all the validation rules and is properly saved, you will be able to view it in the list of service chains of your project under the `service chains` tab.
@@ -176,7 +184,7 @@ Please also refer to how to [setup your PDC](../../guide/setting-up-a-connector.
 
 !!! warning "PDC Version"
 
-    Service chain functionality is only available for connectors that are aligned with v1.9.0 or later of the PDC. Please make sure your connector is up to date before attempting to use a chain.
+    Service chain functionality is only available for connectors that are aligned with v1.12.0 or later of the PDC. Please make sure your connector is up to date before attempting to use a chain.
 
 !!! info "Reminder"
 
