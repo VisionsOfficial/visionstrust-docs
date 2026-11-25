@@ -6,7 +6,6 @@ The baseline is the starting point of the negotiation. In this step, you set the
 
 For each offer, the page displays the terms you set. Contract duration and renewal mode are always displayed. The pricing, the time period and the count are displayed only when they apply to the offer: each section below explains when.
 
-
 ## How it works
 
 The terms are displayed in a table. The "Common value" row applies to every offer in the basket. Each offer has its own row below, so that you can change a value for a single offer, for example when one provider needs a different duration.
