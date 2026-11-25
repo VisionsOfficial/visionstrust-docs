@@ -1,4 +1,4 @@
-# Projects
+# My Projects
 
 > Find the definition of a project in the [glossary](../../glossary.md).
 

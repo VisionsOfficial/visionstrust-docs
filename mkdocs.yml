@@ -59,7 +59,7 @@ nav:
       - Projects: application/discovery/projects.md
       - Infrastructure Offers: application/discovery/infrastructure.md
     - Offers:
-      - Overview: application/registering-resources/overview.md
+      - My Offers: application/registering-resources/overview.md
       - Create an offer: application/registering-resources/creating-an-offer.md
       - Offer page: application/registering-resources/offer-settings.md
       - Data Resource: application/registering-resources/data-resources.md
@@ -67,7 +67,7 @@ nav:
       - Infrastructure Offers: application/registering-resources/infrastructure-offers.md
       - Tips and Tricks: application/registering-resources/tips-and-tricks.md
     - Projects:
-      - Overview: application/projects/overview.md
+      - My Projects: application/projects/overview.md
       - Create a project: application/projects/creating-a-project.md
       - Project page: application/projects/project-settings.md
       - Contributions: application/projects/contributions.md

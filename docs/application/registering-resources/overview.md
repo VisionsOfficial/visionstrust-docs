@@ -1,4 +1,4 @@
-# Offers
+# My Offers
 
 Offers are made available by providers who register data or services on the catalogue.
 ## What is an offer?
