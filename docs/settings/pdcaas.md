@@ -24,21 +24,24 @@ The PDCaaS acts as a secure intermediary between your services or APIs and the o
 
 ## Deploy your PDCaaS
 
-1. Open "Settings", then "PDCaaS".
-2. Click the **Deploy PDCaaS** button.
-3. Follow the state of your connector with the dot next to "State of the Connector".
+On the "PDCaaS" page of your settings, you deploy your own connector with one click.
 
-You do not have to configure anything on your side before you deploy your PDCaaS: one click on the button is enough.
-
-## The PDCaaS page
-
-<p><img src="../images/settings-pdcaas.png" alt="The PDCaaS page, connector not deployed" width="47%"> <img src="../images/settings-pdcaas-deployed.png" alt="The PDCaaS page, connector deployed" width="47%"></p>
-
-Open "Settings", then "PDCaaS". On the page "Prometheus-X Dataspace Connector as a Service", you deploy your own connector with one click, and you follow its state. The dot next to "State of the Connector" shows the state of your connector: green means that it has been deployed successfully.
+<p><img src="../images/settings-pdcaas.png" alt="The PDCaaS page with the Deploy PDCaaS button" width="85%"></p>
 
 !!! warning "Deployment cannot be undone"
 
     Once your PDCaaS is deployed, you cannot stop it or delete it from VisionsTrust.
+
+1. Open "Settings", then "PDCaaS".
+2. Click the **Deploy PDCaaS** button.
+
+You do not have to configure anything on your side before you deploy your PDCaaS: one click on the button is enough.
+
+## Check the state of your connector
+
+<p><img src="../images/settings-pdcaas-deployed.png" alt="The PDCaaS page, connector deployed" width="85%"></p>
+
+The dot next to "State of the Connector" shows the state of your connector: green means that it has been deployed successfully.
 
 ## Find the address of your connector
 
