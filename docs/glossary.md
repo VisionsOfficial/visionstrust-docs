@@ -14,3 +14,17 @@ The dataspace vocabulary can be combursome to deal with as there are many terms 
 | Infrastructure Provider | A participant that proposes an infrastructure service on the marketplace |
 | Service Chain | A representation of a complex workflow of data sequences between offers of multiple members of a single project |
 | Contract | The object representing the data sharing agreement either between multiple members in the case of a Data Space Use Case contract or between 2 participants in the case of a bilateral contract |
+| Orchestrator | The participant who creates and leads a project. It invites the offers it needs and negotiates their terms with the providers. |
+| Join request | A request sent by a participant to join a project. The orchestrator then chooses which offers of this participant to invite. |
+| Basket | The place where an orchestrator gathers the offers it wants, assigns them to a project, adjusts their terms and sends the negotiation to the providers. |
+| Package | A formula of an offer, with its own price, resources and usage policies. An offer has from one to three packages, and the orchestrator chooses one in the basket. |
+| Baseline | The terms that the orchestrator proposes for an offer when it starts a negotiation, such as the contract duration, the renewal mode and the usage policies. |
+| Negotiation | The exchange between an orchestrator and the provider of an offer to agree on the terms of use of the offer in a project. It goes on in rounds until one side accepts or declines. |
+| Round | One exchange of proposals in a negotiation. |
+| Renegotiation | A finished negotiation that is opened again to change its terms, to change the package of an offer, or to add offers. |
+| Contribution | An offer that the orchestrator adds to its own project, with the policies and the pricing that apply to this project. |
+| Exit request | The withdrawal of one offer from a project, requested by the participant or proposed by the orchestrator, and approved or rejected by the other side. The participant stays in the project. |
+| Template | Values that you save once, for offers or for projects, and use again when you create them. |
+| PDC | The Prometheus-X Dataspace Connector, the connector that a participant uses to exchange data in the data space. |
+| PDCaaS | The Prometheus-X Dataspace Connector as a Service: a connector hosted by VisionsTrust, that a participant deploys with one click from its settings. |
+| DVCT | The Data Value Chain Tracker, the implementation of a Prometheus-X building block that a service chain can use. The connectors use it during the exchanges, and it needs an additional configuration of the connectors. |
