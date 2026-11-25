@@ -17,7 +17,7 @@ If you are a participant, use the "Membership" page of the project to request th
 
 1. Open the project and click "Membership" in the menu.
 2. Click the **Request exit** button next to the offer you want to withdraw.
-3. In the window, fill in the **Reason** and the **Message**. The orchestrator sees both.
+3. In the window, fill in the **Reason**. The orchestrator sees it.
 4. Check the "Impact on service chains" list. It shows each service chain and what happens to it: "Will go back to draft" if the chain uses the offer, "Not affected" if it does not.
 5. Click the **Request exit** button. The offer shows "Pending review".
 
@@ -29,7 +29,7 @@ If you are the orchestrator, use the "Participants" page of the project to propo
 
 1. Open the project and click "Participants" in the menu.
 2. Find the participant and click the **Propose exit** button next to the offer.
-3. Fill in the **Reason** and the **Message**, check the impact on service chains, then click the **Request exit** button. The offer now shows "Exit requested".
+3. Fill in the **Reason**, check the impact on service chains, then click the **Request exit** button. The offer now shows "Exit requested".
 
 The participant then approves or rejects your proposal from the "Membership" page.
 
@@ -39,10 +39,10 @@ The participant then approves or rejects your proposal from the "Membership" pag
 
 You receive a notification that tells you who requested the exit, which offer and which project. It asks for your response.
 
-- **Orchestrator**: open "Exit requests" in the menu of the project. The "Current" tab lists the requests waiting for your answer ("Pending review"). Each card shows the offer, the reason, the message and the impact on each service chain.
+- **Orchestrator**: open "Exit requests" in the menu of the project. The "Current" tab lists the requests waiting for your answer ("Pending review"). Each card shows the offer, the reason and the impact on each service chain.
 - **Participant**: for a proposal of the orchestrator, open "Membership". The proposal is in "Your exit requests".
 
-Click the **Approve** button to accept the exit, or the **Reject** button to refuse it with a reason. The other side sees your reason as "Reason for rejection", apart from the original message.
+Click the **Approve** button to accept the exit, or the **Reject** button to refuse it with a reason. The other side sees your reason as "Reason for rejection", apart from the original reason.
 
 ## After an approval
 
