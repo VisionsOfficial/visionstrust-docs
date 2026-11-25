@@ -9,6 +9,12 @@ The cards displayed here work exactly the same way as for the main catalogue tab
 
 To join a project, click the **Discover** button of its card, then click the **Join this project** button at the bottom of the side drawer. See [Join a project](../negotiation/join-requests.md).
 
+## For Providers
+As a provider of data or services, you can join the projects that interest you: find them in the catalogue and send a join request. See [Join a project](../negotiation/join-requests.md).
+
+### Recommendations
+After registering resources and offers as a Provider in the catalogue, project recommendations will start appearing on your [Home Page](../dashboard.md) on which you will be able to easily discover details about these projects and make join requests to them if they are indeed interesting for you.
+
 ## Browsing
 
 This view works with an infinite scroll loading mechanism, so if you don't know what you're looking for, start scrolling! You should eventually fall on a project that is of interest for you.

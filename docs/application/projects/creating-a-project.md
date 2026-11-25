@@ -1,5 +1,9 @@
 # Create a project
 
+If you have a project in mind to connect data sources to services for defined purposes, projects are the way to go.
+
+Projects enable you to setup a space for enabling your use cases. You will be able to define which participants should be members of the use case, what the project needs to get some recommendations and setup a project contract to regulate the data exchanges that operate under the context of this project.
+
 <!-- TODO: to redo after the new videos are recorded (the interface has changed)
 https://drive.google.com/file/d/1cFo5cUDDg6LyVkxU-Dposkk8Ib9kRPNB/preview
 -->
