@@ -10,7 +10,7 @@ When an orchestrator invites your offer, you receive a notification: open it to 
 
 The review page shows the project, then the offers of the negotiation, one by one. For each offer, you see the package selected by the orchestrator, and the terms that can be negotiated. Each negotiable term shows what the other side proposes ("THEY PROPOSE") and a field to answer ("COUNTER WITH").
 
-The terms that cannot be negotiated are marked "FIXED - NOT NEGOTIABLE". A package with the "PRICE FIXED" tag cannot be negotiated on its price. Some conditions always remain fixed to ensure data compliance and security, such as the usage restrictions and the breach notification policies.
+The terms that cannot be negotiated are marked "FIXED - NOT NEGOTIABLE". A package with the "PRICE FIXED" tag cannot be negotiated on its price. The currency and the pricing description are never negotiable. Some conditions always remain fixed to ensure data compliance and security, such as the usage restrictions and the breach notification policies.
 
 ## Making a decision
 
