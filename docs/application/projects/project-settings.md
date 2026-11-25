@@ -47,10 +47,6 @@ A published project:
 
 Once your project is published, participants can join it, either because you [invited their offers](../negotiation/invitations.md) or because they [sent a join request](../negotiation/join-requests.md). They are then listed in the "Participants" page of the project, with their role and their contributions. To follow the negotiations of your project, open the ["Negotiations" page](../negotiation/following-negotiations.md). A participant can also withdraw one of its offers: see [Exit requests](./exit-requests.md).
 
-## Project Subscription
-
-VisionsTrust operates under a pricing model in which you manage a paid subscription per project. This section will not go too much in these details as when you attempt to publish a project, the platform will guide you through understanding how to activate a subscription in order to make your project published.
-
 ## Project Contract
 
 Upon creating a project, whether it is in a draft or published state, a contract for the project is generated in an unsigned state. The Contract page displays the terms of the project, its participants and their contributions.
@@ -79,3 +75,7 @@ Archived projects are listed in the "Archived" tab of "My Projects". Each card s
 ## Participants
 
 The "Participants" page lists every participant of the project, with its roles and its contributions. Your own card is marked "You": its "Your contributions" block lists your offers, each with a **Modify** button (see [Contributions](./contributions.md)). The card of another participant lists its offers, with the number of service chains that use each one. Click the **Read more** button to open the page of the organisation in the catalogue, or **Propose exit** to propose the exit of one of its offers (see [Exit requests](./exit-requests.md)). When offers have left the project, the page tells you how many. The **Resend notification to sign** button sends the participant a new notification to sign the contract. It is displayed only while the participant has at least one offer in the project and has not signed yet.
+
+## Project Subscription
+
+VisionsTrust operates under a pricing model in which you manage a paid subscription per project. This section will not go too much in these details as when you attempt to publish a project, the platform will guide you through understanding how to activate a subscription in order to make your project published.
