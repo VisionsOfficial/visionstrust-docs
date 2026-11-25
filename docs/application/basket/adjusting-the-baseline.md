@@ -2,8 +2,7 @@
 
 This is step 3 of the [basket steps](./basket-steps.md).
 
-The baseline is the set of terms you propose to the providers. It is the starting point of the negotiation. You set the terms of the contract yourself. The price depends on the provider: you can propose your own price only if the provider allows it. The other terms are fixed by the provider and cannot be changed: the resources, the service levels (SLA), the commitments and penalties, and the termination.
-
+The baseline is the set of terms you propose to the providers. It is the starting point of the negotiation. You set the terms of the contract yourself. The price depends on the provider: you can propose your own price only if the provider allows it.
 ## Pricing
 
 When the provider switches on the "Price is negotiable" toggle of the selected package (PRICE NEGOTIABLE tag, see [Pricing and policies](../registering-resources/offer-settings.md#pricing-and-policies)), the pricing block is displayed and you can propose your own subscription pricing, billing period, setup fee and cost per API call. The currency and the pricing description are set by the provider and cannot be changed. When the package has a fixed price (PRICE FIXED tag), the pricing block is not displayed.

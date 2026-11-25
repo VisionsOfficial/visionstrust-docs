@@ -6,7 +6,7 @@ Your basket guides you through 4 steps before your invitations are sent to the p
 
 ## Step 1: Review the basket
 
-Check the offers in your basket before going further. Each offer shows its provider, its pricing and its usage policies. Click the **View full terms** button to open a read-only panel with all the terms of the offer. Each term is tagged "Fixed" when it is set by the provider, or "Negotiable" when you can propose a value in step 3. The resources, the service levels (SLA), the commitments and penalties and the termination are always fixed. The usage policies, such as the time period and the count, are negotiable.
+Check the offers in your basket before going further. Each offer shows its provider, its pricing and its usage policies. Click the **View full terms** button to open a read-only panel with all the terms of the offer. Each term is tagged "Fixed" when it is set by the provider, or "Negotiable" when you can propose a value in step 3. See [Adjust the baseline](./adjusting-the-baseline.md) for the terms you can negotiate.
 
 You can also save an offer for later or remove it from the basket with the bin icon.
 
