@@ -22,6 +22,10 @@ When an offer comes with several packages, you can change the one you selected:
 
 ## Step 2: Assign to project
 
+!!! info "Only published projects"
+
+    The list only shows your published projects. A project that is still a draft does not appear: publish it first, see [Understanding project publication](../projects/project-settings.md#understanding-project-publication). You can invite offers before the contract is signed.
+
 Each offer must be assigned to a project:
 
 1. Choose a project for each offer in its drop-down list, or use "Same project for all" to assign every offer to the same project at once.

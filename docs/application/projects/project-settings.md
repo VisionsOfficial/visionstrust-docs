@@ -47,6 +47,8 @@ A published project:
 
 Once your project is published, participants can join it, either because you [invited their offers](../negotiation/invitations.md) or because they [sent a join request](../negotiation/join-requests.md). They are then listed in the "Participants" page of the project, with their role and their contributions. To follow the negotiations of your project, open the ["Negotiations" page](../negotiation/following-negotiations.md). A participant can also withdraw one of its offers: see [Exit requests](./exit-requests.md).
 
+You can invite offers before the contract is signed. If you unpublish a project that already has participants, they cannot sign the contract until you publish it again.
+
 ## Project Contract
 
 Upon creating a project, whether it is in a draft or published state, a contract for the project is generated in an unsigned state. The Contract page displays the terms of the project, its participants and their contributions.

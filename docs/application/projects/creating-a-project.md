@@ -1,6 +1,8 @@
 # Create a project
 
+<!-- TODO: to redo after the new videos are recorded (the interface has changed)
 https://drive.google.com/file/d/1cFo5cUDDg6LyVkxU-Dposkk8Ib9kRPNB/preview
+-->
 
 There are multiple ways to start creating a project, the easiest of which being by going to "My Projects" available in the navigation sidebar, which will take you to the page displaying all your existing projects and the "Create a new project" button to start creating a new one. You can also create a project from the basket, at [step 2](../basket/basket-steps.md#step-2-assign-to-project).
 

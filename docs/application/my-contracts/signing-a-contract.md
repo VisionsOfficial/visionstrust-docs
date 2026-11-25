@@ -10,7 +10,7 @@ Once all the participants have validated the contract, it is signed and active: 
 
 !!! info "Project not published"
 
-    If the project is not published, its contract cannot be signed yet. If you orchestrate the project, the card shows a **Publish the project** button instead of **Sign**: click it to open the project page, then publish the project (see [publishing a project](../projects/project-settings.md#understanding-project-publication)) and go back to "My Contracts". The **Sign** button is now available.
+    If the project is not published, its contract cannot be signed yet. This also happens when the orchestrator unpublishes a project that already has participants: they cannot sign until it is published again. If you orchestrate the project, the card shows a **Publish the project** button instead of **Sign**: click it to open the project page, then publish the project (see [publishing a project](../projects/project-settings.md#understanding-project-publication)) and go back to "My Contracts". The **Sign** button is now available.
 
 
 
