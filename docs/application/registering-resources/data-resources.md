@@ -53,3 +53,21 @@ And that's it, once you're done filling it the mandatory & optional information 
 ## Finding your resources
 
 Your resources are directly available in the "My Offers" page, in their respective tabs for *Data* and *Services*.
+
+## Configure how your resource is consumed
+
+The "Configuration" step is the technical part of your resource. It allows the actual consumption of your resource by the projects you contract with. You can come back to it later. In "Data Representation", fill in:
+
+- **Protocol type**: how your resource is retrieved by other participants. It decides if the offer is shown as supported on the catalogue: see [Connector & Endpoints](../../settings/connector-endpoints.md).
+- **URL** (required): the endpoint at which your resource is accessible. It should probably be a REST API endpoint.
+- **Query Parameters** (required): the parameters that the connector can understand when it processes a data request from another participant. Click the **Add text** button to add one. Only the parameters listed here are searched in the URL of the request.
+
+<p><img src="../../images/data_resource_configuration_2.png" alt="The end of the Configuration step" width="85%"></p>
+
+Then fill in:
+
+- **Select MIME type** (required)
+- **Proxy**: switch on "Check this box to enable resource proxy" if your resource is reached through a proxy.
+- **Output**: the expected technical format of the output, its description, and an anonymized code example of the expected output. Check the last box if the data is aimed to be an API payload, to consume the API of a service provider.
+
+Click the **Save changes** button to save, or **Reset all** to cancel your changes.
