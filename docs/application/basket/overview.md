@@ -9,7 +9,8 @@ When you find offers in the catalogue that could serve one of your projects, the
 The basket enables you to gather offers, assign each of them to a project and define the terms you want to propose before starting a negotiation with the providers.
 
 !!! warning "No payment at this stage"
-    No payment happens in the basket. Payment occurs once the commercial terms have been negotiated and the contract is established with the providers.
+
+    No payment happens in the basket.
 
 1. Open an offer in the catalogue to display its details.
 2. Check the packages of the offer. If the offer has a single package, it is selected automatically. If it comes with several packages, a table compares them side by side: their pricing, whether the price is negotiable, their resources and their usage policies. The package recommended by the provider is marked with a star.
