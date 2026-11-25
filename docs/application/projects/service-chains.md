@@ -122,6 +122,10 @@ In the example above, you can see two different scenarios, in the first one the 
 
 In the second example, the "TEST 2" chain is in a `draft` status, meaning it is not yet activated. However you can also see that the Activate button is greyed out, and this is because the current draft of that chain does not comply with the validation rules and thus cannot be activated. In that case, you should go back to the editor, validate your chain and save it again before attempting to activate it.
 
+### When an offer leaves the project
+
+When an offer used by a chain leaves the project (see [Exit requests](./exit-requests.md)), the chain goes back to draft, without this offer. It shows "Impacted by an exit request", and a banner on the "Service chains" page reminds you to edit the chain before activating it again. The **Activate** button stays disabled until the chain has been edited.
+
 ### What it means to activate a chain
 
 Chains in your project can have one of two statuses. Draft or Active.
