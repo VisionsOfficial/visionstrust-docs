@@ -67,7 +67,7 @@ The "Configuration" step is the technical part of your resource. It allows the a
 Then fill in:
 
 - **Select MIME type** (required)
-- **Proxy**: switch on "Check this box to enable resource proxy" if your resource is reached through a proxy.
+- **Proxy**: switch on "Check this box to enable resource proxy" if your resource is reached through a proxy. Then choose the **Protocol**, and fill in the **Host** and the **Port**, which are required, and the **Credential**.
 - **Output**: the expected technical format of the output, its description, and an anonymized code example of the expected output. Check the last box if the data is aimed to be an API payload, to consume the API of a service provider.
 
 Click the **Save changes** button to save, or **Reset all** to cancel your changes.
