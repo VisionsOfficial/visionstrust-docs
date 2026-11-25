@@ -13,6 +13,8 @@ To open it, click the logo of your organisation, then "Settings", then "Configur
 
 The message "Default offer configuration saved successfully" confirms your choice, and the offer appears in "Your Default Offers": "These offers are automatically applied when creating new projects."
 
+If you have no offer that can be selected, the page says "No eligible offers found" and shows a **Create an offer** button: see [Create an offer](../application/registering-resources/creating-an-offer.md).
+
 ## Remove a default offer
 
 Click the **Remove default offer** button next to the offer. New projects will no longer include it.
