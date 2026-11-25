@@ -47,4 +47,4 @@ Here's what you should see
 
 The actions here to set up your representation are **exactly** the same as those defined in the [data representation](#data-representation).
 
-> You'll notice that on service resources, there is only 1 representation. The checkbox at the bottom enables the API consumption for that service but does not require you to setup any additionnal representation as it can simply use the one defined above.
+> You'll notice that on service resources, there is only 1 representation. The checkbox at the bottom enables the API consumption for that service but does not require you to setup any additional representation as it can simply use the one defined above.

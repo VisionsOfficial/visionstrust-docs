@@ -3,7 +3,7 @@ On the catalogue, clicking on the "Projects" tab will display a dedicated view f
 
 ## Project cards
 
-The cards displayed here work exactly the same way as for the main catalogue tab. Clicking on the discover button will open the side drawer in which there will be some extended information on the project and access to additionnal actions, such as getting a full page detail of that specific project and its provider.
+The cards displayed here work exactly the same way as for the main catalogue tab. Clicking on the discover button will open the side drawer in which there will be some extended information on the project and access to additional actions, such as getting a full page detail of that specific project and its provider.
 
 ## Joining a project
 

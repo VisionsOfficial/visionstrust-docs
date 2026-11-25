@@ -24,7 +24,7 @@ If you are a Project Leader
 
 ## Technical Steps
 
-> *You can also check the [requirements here](../guide/requirements.md) as additionnal information.*
+> *You can also check the [requirements here](../guide/requirements.md) as additional information.*
 
 7. [Install a PDC](../guide/setting-up-a-connector.md)
 8. [Configure a PDC to connect to {{ app_name }} services](../guide/setting-up-a-connector.md#configuration)

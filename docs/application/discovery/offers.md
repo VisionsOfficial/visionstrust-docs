@@ -4,7 +4,7 @@ On the catalogue, clicking on the "Offers" tab will display a dedicated view for
 
 ## Offer cards
 
-The cards displayed here work exactly the same way as for the main catalogue tab. Clicking on the discover button will open the side drawer in which there will be some extended information on the offer and access to additionnal actions, such as getting a full page detail of that specific offer and its provider.
+The cards displayed here work exactly the same way as for the main catalogue tab. Clicking on the discover button will open the side drawer in which there will be some extended information on the offer and access to additional actions, such as getting a full page detail of that specific offer and its provider.
 
 ## Adding an offer to your basket
 

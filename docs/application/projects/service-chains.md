@@ -6,7 +6,7 @@ Service chains are sequences of data transfers between participants, made possib
 
 ## Prerequisites
 
-In order to create a service chain, you *need* to have a signed project contract which includes you as a participant and a minimum of one additionnal signed participant providing at least one offer. Essentially, you need to ensure you fit the following conditions:
+In order to create a service chain, you *need* to have a signed project contract which includes you as a participant and a minimum of one additional signed participant providing at least one offer. Essentially, you need to ensure you fit the following conditions:
 
 - You have joined or are orchestrating a [project](./creating-a-project.md).
 - The project has **AT LEAST** one Data related offer **AND** one Service related offer.
@@ -60,13 +60,13 @@ From this panel, you can easily find the available data / service / infrastructu
 
 !!! question "What are offer instances in the builder?"
 
-    We mention *instance* here because in some use cases, some services are used more than once, the chain builder allows you to drag additionnal instances of the same offer to use at different steps of the chain.
+    We mention *instance* here because in some use cases, some services are used more than once, the chain builder allows you to drag additional instances of the same offer to use at different steps of the chain.
 
 #### Validation Panel (Right)
 
 The validation panel is important as it lays out every rule your service chain needs to fit before becoming valid. It updates dynamically with each action that you make in the Chain Builder and works in correlation with the progress bar you can see in the top right.
 
-Each step contains additionnal details when you click on them helping you understand what is expected by each of these rules.
+Each step contains additional details when you click on them helping you understand what is expected by each of these rules.
 
 !!! info
 
@@ -138,13 +138,13 @@ Building a chain can have a couple special cases such as a service requiring inp
 
 ### Case 1: A service requires multiple data sources
 
-In the following example, there is a chain configuration where an infrastructure service - the anonymization service - requires additionnal data coming from another source before running its process.
+In the following example, there is a chain configuration where an infrastructure service - the anonymization service - requires additional data coming from another source before running its process.
 
 ![](../../images/service-chains-5.png)
 
 When building a chain like this, you'll see that it is as simple as dragging the output of a data offer directly into the input of the offer that requires it, even if it already has another data input inside of it.
 
-One thing to note is that internally, the service chains will always consider a "main thread" and additionnal branches. This is why in the image above, you can see the data on the right has an added `first` tag that the builder automatically added to help you identify that the start of the chain, the "main thread", begins at that specific offer.
+One thing to note is that internally, the service chains will always consider a "main thread" and additional branches. This is why in the image above, you can see the data on the right has an added `first` tag that the builder automatically added to help you identify that the start of the chain, the "main thread", begins at that specific offer.
 
 !!! tip 
 
@@ -176,7 +176,7 @@ Please also refer to how to [setup your PDC](../../guide/setting-up-a-connector.
 
 !!! warning "PDC Version"
 
-    Service chain functionnality is only available for connectors that are aligned with v1.9.0 or later of the PDC. Please make sure your connector is up to date before attempting to use a chain.
+    Service chain functionality is only available for connectors that are aligned with v1.9.0 or later of the PDC. Please make sure your connector is up to date before attempting to use a chain.
 
 !!! info "Reminder"
 
