@@ -41,6 +41,8 @@ The flows you select are the ones that your connector supports. On the page of a
 
 ## Proxy
 
+<p><img src="../images/settings-proxy.png" alt="The proxy settings" width="85%"></p>
+
 If your connector uses a proxy:
 
 1. Switch on "Check this box to enable the Data Space connector proxy".
@@ -49,4 +51,4 @@ If your connector uses a proxy:
 
 Once the proxy is configured, VisionsTrust and all the other connectors use your proxy settings to access and use the features of VisionsTrust. Click the **Delete** button to remove your proxy settings.
 
-<p><img src="../images/settings-proxy.png" alt="The proxy settings" width="70%"></p>
+
