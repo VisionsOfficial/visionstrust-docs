@@ -24,7 +24,7 @@ When an offer comes with several packages, you can change the one you selected:
 
 !!! info "Only published projects"
 
-    The list only shows your published projects. A project that is still a draft does not appear: publish it first, see [Understanding project publication](../projects/project-settings.md#understanding-project-publication). You can invite offers before the contract is signed.
+    The list only shows your published projects. A project that is still a draft does not appear in it.
 
 Each offer must be assigned to a project:
 
