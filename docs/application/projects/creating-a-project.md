@@ -41,7 +41,7 @@ The second step defines why the project processes data, and the contract clauses
 
 ## Using a template
 
-You don't have to fill in every field yourself. Each section has a **Fill default template** button, which opens a window to fill the section from a ready-made set of values. Every value stays editable afterwards.
+You don't have to fill in every field yourself. Each section has a **Adopt dataspace template** button, which opens a window to fill the section from a ready-made set of values. Every value stays editable afterwards.
 
 <p style="text-align: center;"><img src="../../images/creating-a-project-template.png" alt="Adopt a default template" width="60%"></p>
 
