@@ -1,4 +1,4 @@
-# Basket
+# Add an offer to the basket
 
 <p><img src="../../images/basket.png" alt="Basket" width="85%"></p>
 
@@ -10,8 +10,6 @@ The basket enables you to gather offers, assign each of them to a project and de
 
 !!! warning "No payment at this stage"
     No payment happens in the basket. Payment occurs once the commercial terms have been negotiated and the contract is established with the providers.
-
-### Adding an offer to the basket
 
 1. Open an offer in the catalogue to display its details.
 2. Check the packages of the offer. If the offer has a single package, it is selected automatically. If it comes with several packages, a table compares them side by side: their pricing, whether the price is negotiable, their resources and their usage policies. The package recommended by the provider is marked with a star.

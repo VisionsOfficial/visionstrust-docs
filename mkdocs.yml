@@ -74,7 +74,7 @@ nav:
       - Exit requests: application/projects/exit-requests.md
       - My Projects: application/projects/overview.md
     - Basket:
-      - Overview: application/basket/overview.md
+      - Add an offer to the basket: application/basket/overview.md
       - Basket steps: application/basket/basket-steps.md
       - Adjust the baseline: application/basket/adjusting-the-baseline.md  
     - Negotiation:
