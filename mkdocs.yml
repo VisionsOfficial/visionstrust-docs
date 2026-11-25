@@ -105,4 +105,5 @@ nav:
     - Connector & Endpoints: settings/connector-endpoints.md
     - Visibility: settings/visibility.md
     - Configuration: settings/configuration.md
+    - PDCaaS: settings/pdcaas.md
   - Tutorial Videos: tutorial-videos.md
