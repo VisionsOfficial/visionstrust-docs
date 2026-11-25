@@ -55,6 +55,10 @@ Upon creating a project, whether it is in a draft or published state, a contract
 
 To invite participants and ensure data exchanges are authorized, all participants, including you as the orchestrator, should validate this contract with the **Validate** button on this page. The contract can only be signed once the project is published. See [Contracts](../my-contracts/signing-a-contract.md).
 
+## Participants
+
+The "Participants" page lists every participant of the project, with its roles and its contributions. Your own card is marked "You": its "Your contributions" block lists your offers, each with a **Modify** button (see [Contributions](./contributions.md)). The card of another participant lists its offers, with the number of service chains that use each one. Click the **Read more** button to open the page of the organisation in the catalogue, or **Propose exit** to propose the exit of one of its offers (see [Exit requests](./exit-requests.md)). When offers have left the project, the page tells you how many. The **Resend notification to sign** button sends the participant a new notification to sign the contract. It is displayed only while the participant has at least one offer in the project and has not signed yet.
+
 ## Copy a project
 
 Click the **Copy** button to create a draft copy of your project. A window opens:
@@ -73,10 +77,6 @@ Click the **Archive** button of the project, then **Confirm** to archive it. Its
 A project can only be archived if it contains no offer other than the orchestrator's own offers.
 
 Archived projects are listed in the "Archived" tab of "My Projects". Each card shows the name of the project, its creation date, its status "Archived" and a **See project** button.
-
-## Participants
-
-The "Participants" page lists every participant of the project, with its roles and its contributions. Your own card is marked "You": its "Your contributions" block lists your offers, each with a **Modify** button (see [Contributions](./contributions.md)). The card of another participant lists its offers, with the number of service chains that use each one. Click the **Read more** button to open the page of the organisation in the catalogue, or **Propose exit** to propose the exit of one of its offers (see [Exit requests](./exit-requests.md)). When offers have left the project, the page tells you how many. The **Resend notification to sign** button sends the participant a new notification to sign the contract. It is displayed only while the participant has at least one offer in the project and has not signed yet.
 
 ## Project Subscription
 
