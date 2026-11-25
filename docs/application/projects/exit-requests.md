@@ -19,7 +19,7 @@ If you are a participant, use the "Membership" page of the project to request th
 2. Click the **Request exit** button next to the offer you want to withdraw.
 3. In the window, fill in the **Reason** and the **Message**. The orchestrator sees both.
 4. Check the "Impact on service chains" list. It shows each service chain and what happens to it: "Will go back to draft" if the chain uses the offer, "Not affected" if it does not.
-5. Click the **Request exit** button. The message "Your exit request has been submitted" appears, and the offer shows "Pending review".
+5. Click the **Request exit** button. The offer shows "Pending review".
 
 ## Propose the exit of an offer
 
