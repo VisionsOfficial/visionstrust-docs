@@ -37,7 +37,7 @@ At the bottom of the page, the **Offers** and **Projects** buttons give you quic
 
 ## Notifications
 
-The bell at the top right of the application shows your notifications, with the number of unread ones. Click it to open the panel, filter the list with the "All" and "Unread" tabs, and click **Mark all as read** to clear it. Click a notification to open the page it is about. Some notifications ask for your response, for example a proposal to review or an exit request to approve.
+The bell at the top right of the application shows your notifications, with the number of unread ones. Click it to open the panel, filter the list with the "All" and "Unread" tabs, and click **Mark all as read** to clear it. Click a notification to open the page it is about: it is then marked as read. Some notifications ask for your response, for example a proposal to review or an exit request to approve.
 
 ## Where to go from here
 
