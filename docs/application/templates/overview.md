@@ -13,7 +13,7 @@ On both pages, the counter shows how many terms are set and the completion perce
 
 ## Project template
 
-Every new project inherits the values of your project template. It contains the same sections as the second step of the [project creation](../projects/creating-a-project.md#governance-and-clauses): the governance of the project and its 9 additional clauses. When you create a project, click the **Adopt dataspace template** button and choose "My template" to apply these values. See [Using a template](../projects/creating-a-project.md#using-a-template).
+Every new project inherits the values of your project template. It contains the same sections as the second step of the [project creation](../projects/creating-a-project.md#step-2-governance-and-clauses): the governance of the project and its 9 additional clauses. When you create a project, click the **Adopt dataspace template** button and choose "My template" to apply these values. See [Using a template](../projects/creating-a-project.md#using-a-template).
 
 <p><img src="../../images/templates-project.png" alt="Project template" width="85%"></p>
 
