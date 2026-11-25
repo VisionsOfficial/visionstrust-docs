@@ -23,6 +23,7 @@ Click "My Projects" in the sidebar navigation menu. Its submenu has these entrie
 
 - "Home": a summary of your projects and a guide
 - "All", "Initiated" and "Joined": your projects, with the ones you launched and the ones you joined
+- "Pending": the invitations and the join requests that wait for an answer, see [Pending invitations and requests](#pending-invitations-and-requests)
 - "Archived": your archived projects, see [Archive a project](./project-settings.md#archive-a-project)
 - "Project template": your project template, see [Templates](../templates/overview.md)
 
@@ -39,3 +40,11 @@ A guide in three parts follows, with the actions to take for each one:
 - "Launch and structure your data and AI project": create and describe your project, define your contribution and the technical components, then publish it.
 - "Find the most relevant offers for your project": explore the matchings of your project, search the catalogue, and add the offers to your basket.
 - "Negotiate and contract with confidence": invite the providers, then negotiate the terms with them: see [Project Negotiation](../negotiation/project-negotiation.md).
+
+### Pending invitations and requests
+
+<p><img src="../../images/my-projects-pending.png" alt="The Pending page of My Projects" width="85%"></p>
+
+The "Pending" page lists the invitations you received and the join requests you sent that are not concluded yet. Each card shows the project, its status, its number of partners, and the tag "Invitation" or "Request".
+
+Two groups of tabs filter the list: "All", "Invitations" and "Requests", then "All", "My turn" and "Waiting for the orchestrator". When it is your turn, the card shows "Your turn to answer" and a **Reply** button: click it to review the proposal, see [Review a negotiation](../negotiation/negotiation.md). A request that waits for the orchestrator shows "Waiting for the orchestrator" and "Negotiation in progress".
