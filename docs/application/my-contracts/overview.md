@@ -8,8 +8,8 @@ To open it, click "My Contracts" in the navigation sidebar.
 
 The menu on the left of the page has two parts:
 
-- "CONTRACTS": the "Overview" and "All contracts".
-- "STATUS": your contracts sorted by status, "To sign", "Pending partners" and "Signed". Each entry shows its number of contracts.
+- **CONTRACTS**: the "Overview" and "All contracts".
+- **STATUS**: your contracts sorted by status, "To sign", "Pending partners" and "Signed". Each entry shows its number of contracts.
 
 ## Overview
 
