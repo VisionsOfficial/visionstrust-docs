@@ -84,8 +84,8 @@ nav:
       - Invite offers: application/negotiation/invitations.md
       - Join a project: application/negotiation/join-requests.md
       - Review a negotiation: application/negotiation/negotiation.md
-      - Follow your negotiations: application/negotiation/following-negotiations.md
       - Restart a negotiation: application/negotiation/restarting-a-negotiation.md
+      - Follow your negotiations: application/negotiation/following-negotiations.md
     - Contracts:
       - My Contracts: application/my-contracts/overview.md
       - Sign a contract: application/my-contracts/signing-a-contract.md
