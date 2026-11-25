@@ -15,10 +15,10 @@ To learn more, see how to create [data](./data-resources.md) resources or [servi
 
 An offer is composed of:
 
-- **General information**: name, caption, description, category... See [Offer page](./offer-settings.md#offer-information).
-- **Resources**: the data and/or services the offer comprises. See [Offer page](./offer-settings.md#offer-content).
-- **Packages**: the pricing and the usage policies of your offer are grouped in packages. When you create an offer, they are used to create a first package, which includes the resource of the offer. You can add other packages later. See [Offer page](./offer-settings.md#pricing-and-policies).
-- **Service levels, commitments & penalties, and termination**: what you guarantee, and what happens if you do not. See [Offer page](./offer-settings.md#service-levels-sla).
+- **General information**: name, caption, description, category... See [Manage an offer](./offer-settings.md#offer-information).
+- **Resources**: the data and/or services the offer comprises. See [Manage an offer](./offer-settings.md#offer-content).
+- **Packages**: the pricing and the usage policies of your offer are grouped in packages. When you create an offer, they are used to create a first package, which includes the resource of the offer. You can add other packages later. See [Manage an offer](./offer-settings.md#pricing-and-policies).
+- **Service levels, commitments & penalties, and termination**: what you guarantee, and what happens if you do not. See [Manage an offer](./offer-settings.md#service-levels-sla).
 
 !!! note
 

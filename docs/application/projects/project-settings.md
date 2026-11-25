@@ -1,4 +1,4 @@
-# Project page
+# Manage a project
 
 After successfully creating a project, it can be managed and configured in more detail than just the initial required elements. To open it, go to "My projects" and click your project.
 

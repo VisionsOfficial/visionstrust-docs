@@ -60,21 +60,21 @@ nav:
       - Infrastructure Offers: application/discovery/infrastructure.md
     - Offers:
       - Create an offer: application/registering-resources/creating-an-offer.md
+      - Manage an offer: application/registering-resources/offer-settings.md
       - Offer template: application/registering-resources/offer-template.md
-      - Offer page: application/registering-resources/offer-settings.md
+      - My Offers: application/registering-resources/overview.md
       - Data Resource: application/registering-resources/data-resources.md
       - Service Resource: application/registering-resources/service-resources.md
       - Infrastructure Offers: application/registering-resources/infrastructure-offers.md
-      - My Offers: application/registering-resources/overview.md
       - Tips and Tricks: application/registering-resources/tips-and-tricks.md
     - Projects:
       - Create a project: application/projects/creating-a-project.md
+      - Manage a project: application/projects/project-settings.md
       - Project template: application/projects/project-template.md
-      - Project page: application/projects/project-settings.md
+      - My Projects: application/projects/overview.md
       - Contributions: application/projects/contributions.md
       - Service Chains: application/projects/service-chains.md
       - Exit requests: application/projects/exit-requests.md
-      - My Projects: application/projects/overview.md
     - Basket:
       - Add an offer to the basket: application/basket/overview.md
       - Basket steps: application/basket/basket-steps.md

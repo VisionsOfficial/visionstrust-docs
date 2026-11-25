@@ -1,4 +1,4 @@
-# Offer page
+# Manage an offer
 
 After you create an offer, its own page lets you complete it, publish it and follow how it performs. To open it, click "My Offers" in the sidebar navigation menu, then click your offer.
 

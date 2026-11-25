@@ -17,7 +17,7 @@ Choose the type of your offer: a data offer if you expose a dataset, or a servic
 
 <p><img src="../../images/create_offer_step_1.png" alt="Creating an offer, step 1" width="85%"></p>
 
-The mandatory fields are the type, the name, the caption, the description, the category and the country or region. The picture is optional. Each field is described in the [Offer page](./offer-settings.md#offer-information).
+The mandatory fields are the type, the name, the caption, the description, the category and the country or region. The picture is optional. Each field is described in the [Manage an offer](./offer-settings.md#offer-information).
 
 Click the **Continue** button to go to the second step once the mandatory fields are filled in. To finish later, click the **Create as draft** button, in either step: the offer name and its caption are enough to save a draft.
 
@@ -52,4 +52,4 @@ Click the **Continue** button to create the offer. In all cases, the offer is cr
 
 ## Fine-tuning the settings of the offer
 
-Now that your offer is created, you can complete it on its own page: add resources, define your pricing packages, and set the service levels, the commitments & penalties and the termination conditions. All of this is described in the [Offer page](./offer-settings.md). Once the mandatory information is complete, you can publish your offer: see [Publishing the offer](./offer-settings.md#publishing-the-offer).
+Now that your offer is created, you can complete it on its own page: add resources, define your pricing packages, and set the service levels, the commitments & penalties and the termination conditions. All of this is described in the [Manage an offer](./offer-settings.md). Once the mandatory information is complete, you can publish your offer: see [Publishing the offer](./offer-settings.md#publishing-the-offer).
