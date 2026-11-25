@@ -13,7 +13,7 @@ Click the **Create a new offer** button to open the creation page. It guides you
 
 Choose the type of your offer: a data offer if you expose a dataset, or a service offer if you provide a service that processes data. Then enter its general information.
 
-![Creating an offer, step 1](../../images/create_offer_step_1.png)
+<p><img src="../../images/create_offer_step_1.png" alt="Creating an offer, step 1" width="85%"></p>
 
 The mandatory fields are the type, the name, the caption, the description, the category and the country or region. The picture is optional. Each field is described in the [Offer page](./offer-settings.md#offer-information).
 
@@ -23,7 +23,7 @@ Click the **Continue** button to go to the second step once the mandatory fields
 
 The second step defines your commercial terms and the clauses that every participant accepts. It has five sections, all marked "Required to create": pricing, usage policies, service levels (SLA), commitments & penalties, and termination. The pricing and the usage policies you set here are created as a package of your offer.
 
-![Creating an offer, step 2](../../images/create_offer_step_2.png)
+<p><img src="../../images/create_offer_step_2.png" alt="Creating an offer, step 2" width="85%"></p>
 
 In the pricing section, the "Price is negotiable" toggle lets you decide if the price can be negotiated. When it is switched on, orchestrators can propose their own price for your offer during the negotiation. Otherwise, the price is fixed.
 

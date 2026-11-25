@@ -8,12 +8,12 @@ There are multiple ways to start creating a project, the easiest of which being 
 
 On the My Projects page, there is a "Create a new project" button at the top right of the page to start creating your project. This will open the creation page, which guides you through 2 steps to register the essential information for your project. The guide on the left explains each step and shows a preview of your project as it appears in the catalogue.
 
-![My Projects Page](../../images/projects.png)
+<p><img src="../../images/projects.png" alt="My Projects Page" width="85%"></p>
 
 
 ## General Information registration
 
-![Creating a project, step 1](../../images/creating-a-project-step1.png)
+<p><img src="../../images/creating-a-project-step1.png" alt="Creating a project, step 1" width="85%"></p>
 
 In the first step, you enter the basic information for your project, such as its title, caption for the catalogue, description, location and an optional image for display in the catalogue. You also choose the category of your project, which makes it easy to find in the catalogue when filtering by category and enables recommendations of offers and participants based on this category.
 
@@ -31,7 +31,7 @@ Selecting what kind of data and/or services your project is in need for is no lo
 
 ## Governance and clauses
 
-![Creating a project, step 2](../../images/creating-a-project-step2.png)
+<p><img src="../../images/creating-a-project-step2.png" alt="Creating a project, step 2" width="85%"></p>
 
 The second step defines why the project processes data, and the contract clauses that every participant accepts when joining the project. Each field has an "i" icon: hover over it to read an explanation of what to enter. To complete it:
 

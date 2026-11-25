@@ -22,7 +22,7 @@ In our example, we will be showing the flow when you come from an offering creat
 
 The first step is to define the base information for your resource. The following is a recap of what should be defined.
 
-![Data resource creation](../../images/create_data_resource.png)
+<p><img src="../../images/create_data_resource.png" alt="Data resource creation" width="85%"></p>
 
 | Property | Mandatory | Description |
 | --- | --- | --- |
@@ -34,13 +34,13 @@ The first step is to define the base information for your resource. The followin
 
 ### Personal Data Information
 
-![Personal data of a data resource](../../images/data_resource_personal_data.png)
+<p><img src="../../images/data_resource_personal_data.png" alt="Personal data of a data resource" width="85%"></p>
 
 If your data concerns personal data, the Personal Data tab will prompt you to mark this resource as Personal Data and you will optionnally be able to provide a list of descriptions in multiple languages defining your resource to potential end-users that will be giving their consent to share this specific data later down the line.
 
 ### Tech Information
 
-![Configuration of a data resource](../../images/data_resource_configuration.png)
+<p><img src="../../images/data_resource_configuration.png" alt="Configuration of a data resource" width="85%"></p>
 
 The last section of your resource configuration concerns technical configurations for linkage with the [Dataspace Connectors](https://github.com/Prometheus-X-association/dataspace-connector) and for accessing the resources during data exchanges.
 

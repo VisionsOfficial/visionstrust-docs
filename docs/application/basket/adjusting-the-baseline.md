@@ -8,7 +8,7 @@ The baseline is the set of terms you propose to the providers. It is the startin
 
 When the provider allows the price of the selected package to be negotiated (PRICE NEGOTIABLE tag), the pricing block is displayed and you can propose your own subscription pricing, billing period, setup fee, cost per API call and pricing description. The currency is set by the provider and cannot be changed. When the package has a fixed price (PRICE FIXED tag), the pricing block is not displayed.
 
-![Pricing](../../images/basket-baseline-pricing.png)
+<p><img src="../../images/basket-baseline-pricing.png" alt="Pricing" width="85%"></p>
 
 ## How it works
 
@@ -16,7 +16,7 @@ The other terms are displayed in a table. The "Common value" row applies to ever
 
 An icon next to each value shows where it comes from: a link icon means the offer uses the common value, and an orange arrow means the value has been customized. Click on the orange arrow to go back to the common value. Under the common value, the **Apply to all** link applies it to every offer.
 
-![Adjust the baseline](../../images/basket-baseline.png)
+<p><img src="../../images/basket-baseline.png" alt="Adjust the baseline" width="85%"></p>
 
 The terms you can adjust are:
 

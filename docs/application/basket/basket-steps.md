@@ -2,7 +2,7 @@
 
 Your basket guides you through 4 steps before your invitations are sent to the providers: review the basket, assign each offer to a project, adjust the baseline, then confirm and send. A progress bar at the top shows where you are. Use the **Continue** button to move to the next step and the **Back** button to return to the previous one.
 
-![Basket steps](../../images/basket-steps.png)
+<p><img src="../../images/basket-steps.png" alt="Basket steps" width="85%"></p>
 
 ## Step 1: Review the basket
 
@@ -18,7 +18,7 @@ When an offer comes with several packages, you can change the one you selected:
 2. Compare them. Each card shows the price and billing period, the setup fee, the cost per API call, a tag showing whether the price is fixed (PRICE FIXED) or negotiable (PRICE NEGOTIABLE), and the usage policies. A star marks the package recommended by the provider, and "Currently selected" marks the one you are using.
 3. Click the **Switch to this package** button on the package you want. The pricing of the offer then shows the price and billing period of the new package.
 
-![Change package](../../images/basket-change-package.png)
+<p><img src="../../images/basket-change-package.png" alt="Change package" width="85%"></p>
 
 ## Step 2: Assign to project
 
@@ -34,7 +34,7 @@ An offer without a project shows "No project yet".
 
     When you add offers from a join request notification, they are already assigned to the project of the request. The basket then opens directly on step 3, "Adjust the baseline".
 
-![Assign to project](../../images/basket-assign-project.png)
+<p><img src="../../images/basket-assign-project.png" alt="Assign to project" width="85%"></p>
 
 ## Step 3: Adjust the baseline
 

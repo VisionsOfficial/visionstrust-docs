@@ -2,7 +2,7 @@
 
 The "Negotiations" page of a project lists every negotiation opened for this project. To open it, go to your project and click "Negotiations" in the menu on the left.
 
-![Negotiations page of a project](../../images/negotiations.png)
+<p><img src="../../images/negotiations.png" alt="Negotiations page of a project" width="85%"></p>
 
 ## Current and finished negotiations
 

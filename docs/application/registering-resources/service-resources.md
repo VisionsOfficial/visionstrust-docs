@@ -22,7 +22,7 @@ In our example, we will be showing the flow when you come from an offering creat
 
 The first step is to define the base information for your resource. The following is a recap of what should be defined.
 
-![Data resource creation](../../images/create_service_resource.png)
+<p><img src="../../images/create_service_resource.png" alt="Data resource creation" width="85%"></p>
 
 | Property | Mandatory | Description |
 | --- | --- | --- |

@@ -4,7 +4,7 @@
 2. Review the contract: the project terms and, for each participant, its offers with their negotiated terms.
 3. Click the **Validate** button.
 
-![Validate contract](../../images/validate-contract.png)
+<p><img src="../../images/validate-contract.png" alt="Validate contract" width="85%"></p>
 
 Once all the participants have validated the contract, it is signed and active: data and services can be exchanged through the data space under the conditions defined.
 

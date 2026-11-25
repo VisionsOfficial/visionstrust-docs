@@ -2,7 +2,7 @@
 
 > Find the definition of a project in the [glossary](../../glossary.md).
 
-![My Projects Page](../../images/projects.png)
+<p><img src="../../images/projects.png" alt="My Projects Page" width="85%"></p>
 
 ## For Orchestrators
 If you have a project in mind to connect data sources to services for defined purposes, projects are the way to go.

@@ -15,10 +15,10 @@ On both pages, the counter shows how many terms are set and the completion perce
 
 Every new project inherits the values of your project template. It contains the same sections as the second step of the [project creation](../projects/creating-a-project.md#governance-and-clauses): the governance of the project and its 9 additional clauses. When you create a project, click the **Fill default template** button and choose "My template" to apply these values. See [Using a template](../projects/creating-a-project.md#using-a-template).
 
-![Project template](../../images/templates-project.png)
+<p><img src="../../images/templates-project.png" alt="Project template" width="85%"></p>
 
 ## Offer template
 
 Every new offer inherits the values of your offer template. It contains the sections of an offer: pricing, usage policies (count and time period), service levels (SLA), commitments & penalties, and termination.
 
-![Offer template](../../images/offer-template.png)
+<p><img src="../../images/offer-template.png" alt="Offer template" width="85%"></p>

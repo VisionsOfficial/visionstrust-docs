@@ -30,7 +30,7 @@ Assuming you have completed and ensured all previous steps, go to your project p
 
 1. Go to the service chain tab and click on the "+ service chain" button
 
-![](../../images/service-chains-1.png)
+<p><img src="../../images/service-chains-1.png" alt="" width="85%"></p>
 
 2. Give a name to your service chain to be able to identify it later and validate
 
@@ -38,7 +38,7 @@ Assuming you have completed and ensured all previous steps, go to your project p
 
 ### Understanding the visual editor
 
-![](../../images/service-chains-3.png)
+<p><img src="../../images/service-chains-3.png" alt="" width="85%"></p>
 
 The service chain can be a little overwhelming at first, so let's go over everything it has to offer.
 
@@ -108,7 +108,7 @@ From here, you can do a couple of things:
 * Visualise an active chain, to see it in a read-only view
 * Delete a chain that is in draft, with the bin icon
 
-![](../../images/service-chains-4.png)
+<p><img src="../../images/service-chains-4.png" alt="" width="85%"></p>
 
 In the example above, you can see two different scenarios, in the first one the "DEMO" chain is active, meaning that it has passed the validation checks, has been saved and then activated. You can also see that it is composed of 2 data offers, 1 service offer and 1 infrastructure offer.
 

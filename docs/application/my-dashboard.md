@@ -2,7 +2,7 @@
 
 The "My Dashboard" page gathers the key figures of your activity on the data space: your assets, how they are used and how your ecosystem performs. To open it, click "My Dashboard" in the sidebar navigation menu, or click the **See dashboard** button of the [Home page](./dashboard.md).
 
-![My Dashboard](../images/my-dashboard.png)
+<p><img src="../images/my-dashboard.png" alt="My Dashboard" width="85%"></p>
 
 The screenshot shows sample data.
 

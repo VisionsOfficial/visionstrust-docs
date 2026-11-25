@@ -1,6 +1,6 @@
 # Basket
 
-![Basket](../../images/basket.png)
+<p><img src="../../images/basket.png" alt="Basket" width="85%"></p>
 
 ## For Orchestrators
 

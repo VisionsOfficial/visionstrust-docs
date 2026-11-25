@@ -2,7 +2,7 @@
 
 After successfully creating a project, it can be managed and configured in more detail than just the initial required elements. To open it, go to "My projects" and click your project.
 
-![Project Settings](../../images/project_settings.png)
+<p><img src="../../images/project_settings.png" alt="Project Settings" width="85%"></p>
 
 At the top of the project page, you find the status of the project (Draft or Published) and its completion percentage. The buttons next to it let you:
 

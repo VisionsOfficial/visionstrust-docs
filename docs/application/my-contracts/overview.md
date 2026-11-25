@@ -14,7 +14,7 @@ The menu on the left of the page has three parts:
 
 ## Overview
 
-![My Contracts overview](../../images/contract-overview.png)
+<p><img src="../../images/contract-overview.png" alt="My Contracts overview" width="85%"></p>
 
 The overview shows your contracts at a glance, with four counters:
 

@@ -8,11 +8,11 @@ Adding an offer to your own project is called a **contribution**.
 
 On your project page, open the **Contributions** page.
 
-![Project Contributions](../../images/project-contributions.png)
+<p><img src="../../images/project-contributions.png" alt="Project Contributions" width="85%"></p>
 
 Then browse for the offer you want to add to the project
 
-![Project Contributions Offer Browsing](../../images/project-contributions-2.png)
+<p><img src="../../images/project-contributions-2.png" alt="Project Contributions Offer Browsing" width="85%"></p>
 
 And finally configure the offer with the policies & pricing that apply to that project before adding it to the project.
 
