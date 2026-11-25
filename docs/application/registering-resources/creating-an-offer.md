@@ -29,6 +29,10 @@ The information requested from you is defined in the [offers overview](./overvie
 
     Setting this initial information will create your offer as draft and will enable you to go in and fine tune the details of that offer in its dedicated page.
 
+!!! tip
+
+    You don't have to start from a blank form. With **Complete with AI**, the assistant fills the empty fields from a few words, a Word or PDF document, a web page or one of your existing offers. See [Completing with AI](../assistant/completing.md).
+
 ## Fine-tuning the settings of the offer
 
 Now that your offer is created, you can fine-tune the settings of your offer and complete whatever is missing in order to [publish](#publishing-the-offer) it.
@@ -38,6 +42,10 @@ Now that your offer is created, you can fine-tune the settings of your offer and
 !!! info
 
     All the detailed fields that you can edit on this page are defined in the [offer overview](./overview.md) section, feel free to check this out if you're having trouble understanding what a property is for.
+
+!!! tip
+
+    On each tab of the offer settings, **Complete with AI** lists what is still missing before publication and proposes values. See [Completing an existing offer or project](../assistant/completing.md#completing-an-existing-offer-or-project).
 
 ### Adding resources to your offer
 

@@ -52,6 +52,11 @@ nav:
       - Overview: application/overview.md
       - Onboarding: application/onboarding.md
       - Dashboard: application/dashboard.md
+    - AI Assistant:
+      - Overview: application/assistant.md
+      - Completing with AI: application/assistant/completing.md
+      - Finding matches: application/assistant/matching.md
+      - Help and conversations: application/assistant/help-and-conversations.md
     - Discovery: 
       - Browsing: application/discovery/index.md
       - Offers: application/discovery/offers.md

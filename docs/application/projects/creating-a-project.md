@@ -23,6 +23,10 @@ If you don't set an image for your project, your logo will be used instead, and 
 
 ![Create Project Modal](../../images/create_project_modal_2.png)
 
+!!! tip
+
+    **Complete with AI** can fill this step from a few words, a document, a web page or one of your existing projects, and help you set the governance from a template or a rulebook at the next step. See [Completing with AI](../assistant/completing.md).
+
 #### Searched data & services
 The last step in project creation is selecting what kind of data and/or services your project is in need for. As for the category selection, this is essential for the same reasons:
 

@@ -9,6 +9,10 @@ Your dashboard is the center of operations for most actions you can do in the ca
 - Quick access to filtered [catalogue](../application/discovery/index.md) views
 - Easy access to managing your projects & offers
 
+!!! tip
+
+    The [AI Assistant](./assistant.md) summarises what is waiting for you on the dashboard (drafts to complete, contracts to sign, requests to answer) and can comment on your indicators.
+
 ## Pending Requests
 
 The pending requests section will display incoming requests that you received in order to join a specific project. Usually, you'll also receive a mail and be able to view this request in the notifications, but to make things simpler, it will also be displayed in a very visual way as soon as you open your dashboard if you have any.
@@ -28,3 +32,4 @@ The dashboard allows you to quickly access the [catalogue](../application/discov
 - [Create an offer](./registering-resources/creating-an-offer.md)
 - [Create a project](./projects/creating-a-project.md)
 - [Join a project](./negotiation/join-requests.md)
+- [Use the AI Assistant](./assistant.md)
