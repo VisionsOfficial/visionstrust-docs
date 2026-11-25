@@ -106,7 +106,7 @@ From here, you can do a couple of things:
 * Activate your chain if it is validated
 * Disable an active chain
 * Visualise an active chain, to see it in a read-only view
-* Delete your service chain
+* Delete a chain that is in draft, with the bin icon
 
 ![](../../images/service-chains-4.png)
 
