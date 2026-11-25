@@ -81,7 +81,6 @@ Click the **Archive** button of the project, then **Confirm** to archive it. Its
 A project can only be archived if it contains no offer other than the orchestrator's own offers.
 
 Archived projects are listed in the "Archived" tab of "My Projects". Each card shows the name of the project, its creation date, its status "Archived" and a **See project** button.
+<!-- ## Project Subscription
 
-## Project Subscription
-
-VisionsTrust operates under a pricing model in which you manage a paid subscription per project. This section will not go too much in these details as when you attempt to publish a project, the platform will guide you through understanding how to activate a subscription in order to make your project published.
+VisionsTrust operates under a pricing model in which you manage a paid subscription per project. This section will not go too much in these details as when you attempt to publish a project, the platform will guide you through understanding how to activate a subscription in order to make your project published. -->
