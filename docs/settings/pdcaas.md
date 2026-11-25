@@ -22,15 +22,19 @@ The PDCaaS acts as a secure intermediary between your services or APIs and the o
 
     If you used your own connector before the PDCaaS, do not restart it. It may overwrite or affect the configuration of your new connector.
 
-## Before you deploy
+## Deploy your PDCaaS
 
-Your connector must be configured before you deploy your PDCaaS. Check its settings in "Settings", then "Connector & Endpoints".
+1. Open "Settings", then "PDCaaS".
+2. Click the **Deploy PDCaaS** button.
+3. Follow the state of your connector with the dot next to "State of the Connector".
+
+You do not have to configure anything on your side before you deploy your PDCaaS: one click on the button is enough.
 
 ## The PDCaaS page
 
 <p><img src="../images/settings-pdcaas.png" alt="The PDCaaS page, connector not deployed" width="47%"> <img src="../images/settings-pdcaas-deployed.png" alt="The PDCaaS page, connector deployed" width="47%"></p>
 
-Open "Settings", then "PDCaaS". On the page "Prometheus-X Dataspace Connector as a Service", you deploy your own connector with one click, and you follow its state. The dot next to "State of the Connector" shows if your connector is deployed: red means that it is not deployed yet, and green means that it has been deployed successfully.
+Open "Settings", then "PDCaaS". On the page "Prometheus-X Dataspace Connector as a Service", you deploy your own connector with one click, and you follow its state. The dot next to "State of the Connector" shows the state of your connector: green means that it has been deployed successfully.
 
 !!! warning "Deployment cannot be undone"
 
