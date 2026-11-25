@@ -14,7 +14,7 @@ The basket enables you to gather offers, assign each of them to a project and de
 ### Adding an offer to the basket
 
 1. Open an offer in the catalogue to display its details.
-2. Check the packages of the offer. If the offer has a single package, it is selected automatically. If it comes with several packages, a table compares them side by side (price, setup fee, cost per API call, price type, data and services included, usage policies), and the package recommended by the provider is marked with a star.
+2. Check the packages of the offer. If the offer has a single package, it is selected automatically. If it comes with several packages, a table compares them side by side: their pricing, whether the price is negotiable, their resources and their usage policies. The package recommended by the provider is marked with a star.
 3. Click the **Add to basket** button under the package you want. You can also use the **Choose a package** button at the bottom of the panel: the **Save for later** and **Add to basket** buttons stay disabled until a package is chosen.
 4. The message "Offer added to basket" appears and the button becomes "Already in basket".
 
