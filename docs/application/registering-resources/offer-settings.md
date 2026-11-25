@@ -29,7 +29,7 @@ To publish an offer, these sections must be complete. Click a section to see its
 
 A warning triangle in the menu marks a section that is still incomplete.
 
-The "Pricing and policies" section and the three sections of "Terms & Conditions" each have an **Adopt dataspace template** button, which fills it from the Dataspace template or from your offer template (see [Templates](../templates/overview.md#offer-template)).
+The "Pricing and policies" section and the three sections of "Terms & Conditions" each have an **Adopt dataspace template** button, which fills it from the Dataspace template or from your offer template (see [Offer template](./offer-template.md)).
 
 !!! info "Offers created before November 26, 2026"
 

@@ -44,7 +44,7 @@ Each term of a policy has an **Auto-accept** toggle. When you switch it on, you 
 You don't have to fill in every field yourself. Each section has a **Adopt dataspace template** button, which opens a window to fill the section from a ready-made set of values. Every value stays editable afterwards.
 
 - **Dataspace template**: the values the data space recommends, aligned with what other participants expect.
-- **My template**: your own saved preferences, which you set in your offer template (see [Templates](../templates/overview.md#offer-template)).
+- **My template**: your own saved preferences, which you set in your offer template (see [Offer template](./offer-template.md)).
 
 Pricing and usage policies are not available in the Dataspace template.
 

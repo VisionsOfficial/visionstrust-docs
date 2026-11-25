@@ -44,7 +44,7 @@ You don't have to fill in every field yourself. Each section has a **Adopt datas
 <p><img src="../../images/creating-a-project-template.png" alt="Adopt a default template" width="60%"></p>
 
 - **Dataspace template**: the values the data space recommends, aligned with what other participants expect.
-- **My template**: your own saved preferences, which you set in "My Contracts", in the "Project template" tab.
+- **My template**: your own saved preferences, which you set in the [Project template](./project-template.md) page, in the "My Projects" menu.
 
 ## Required fields and drafts
 

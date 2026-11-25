@@ -36,7 +36,7 @@ Click "My Offers" in the sidebar navigation menu. Its submenu has these entries:
 - "All", "Data", "Services" and "Infrastructure": your offers, by type
 - "Archived": your archived offers, see [Copy, archive and restore an offer](./offer-settings.md#copy-archive-and-restore-an-offer)
 - "My Resources": your data and service resources, see [Data Resources](./data-resources.md)
-- "Offer template": your offer template, see [Templates](../templates/overview.md#offer-template)
+- "Offer template": your offer template, see [Offer template](./offer-template.md)
 
 ### Home of "My Offers"
 

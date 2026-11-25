@@ -12,7 +12,7 @@ Click "My Projects" in the sidebar navigation menu. Its submenu has these entrie
 - "All", "Initiated" and "Joined": your projects, with the ones you launched and the ones you joined
 - "Pending": the invitations and the join requests that wait for an answer, see [Pending invitations and requests](#pending-invitations-and-requests)
 - "Archived": your archived projects, see [Archive a project](./project-settings.md#archive-a-project)
-- "Project template": your project template, see [Templates](../templates/overview.md)
+- "Project template": your project template, see [Project template](./project-template.md)
 
 ### Home of "My Projects"
 
