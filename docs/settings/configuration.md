@@ -6,7 +6,7 @@ To open it, click the logo of your organisation, then "Settings", then "Configur
 
 ## Choose a default offer
 
-![The Configuration page](../images/settings-configuration.png)
+<p><img src="../images/settings-configuration.png" alt="The Configuration page" width="85%"></p>
 
 1. Click the **Select an offer** button, then choose an offer in the list. Only the offers whose usage policies have no restriction can be selected.
 2. Click the **Save configuration** button.
