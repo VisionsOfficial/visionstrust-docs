@@ -6,7 +6,7 @@ Service chains are sequences of data transfers between participants, made possib
 
 ## Prerequisites
 
-In order to create a service chain, you *need* to have a signed project contract which includes you as a participant and a minimum of one additionnal signed participant providing at least one offer. Essentially, you need to ensure you fit the following conditions:
+In order to create a service chain, you *need* to have a signed project contract which includes you as a participant and a minimum of one additional signed participant providing at least one offer. Essentially, you need to ensure you fit the following conditions:
 
 - You have joined or are orchestrating a [project](./creating-a-project.md).
 - The project has **AT LEAST** one Data related offer **AND** one Service related offer.
@@ -26,21 +26,19 @@ Let's start with the essentials:
 
 ### Creating your first chain
 
-Assuming you have completed and ensured all previous steps, go to your project settings page and follow these instructions
+Assuming you have completed and ensured all previous steps, go to your project page and follow these instructions
 
-1. Go to the service chain tab and click on the Create service chain button
+1. Go to the service chain tab and click on the "+ service chain" button
 
-![](../../images/service-chains-1.png)
+<p><img src="../../images/service-chains-1.png" alt="" width="85%"></p>
 
 2. Give a name to your service chain to be able to identify it later and validate
-
-![](../../images/service-chains-2.png)
 
 3. This will open up the visual editor, you're ready to hop on to the next step. 
 
 ### Understanding the visual editor
 
-![](../../images/service-chains-3.png)
+<p><img src="../../images/service-chains-3.png" alt="" width="85%"></p>
 
 The service chain can be a little overwhelming at first, so let's go over everything it has to offer.
 
@@ -62,13 +60,13 @@ From this panel, you can easily find the available data / service / infrastructu
 
 !!! question "What are offer instances in the builder?"
 
-    We mention *instance* here because in some use cases, some services are used more than once, the chain builder allows you to drag additionnal instances of the same offer to use at different steps of the chain.
+    We mention *instance* here because in some use cases, some services are used more than once, the chain builder allows you to drag additional instances of the same offer to use at different steps of the chain.
 
 #### Validation Panel (Right)
 
 The validation panel is important as it lays out every rule your service chain needs to fit before becoming valid. It updates dynamically with each action that you make in the Chain Builder and works in correlation with the progress bar you can see in the top right.
 
-Each step contains additionnal details when you click on them helping you understand what is expected by each of these rules.
+Each step contains additional details when you click on them helping you understand what is expected by each of these rules.
 
 !!! info
 
@@ -98,6 +96,14 @@ At the top right of the editor is the save button. This action can be done at an
 
 Once your chain is complete and you save it, you then have the option to [activate it](#activating-a-chain).
 
+## Use the Data Value Chain Tracker (DVCT)
+
+At the top of the "Service chains" page, the switch "Use DVCT (Data Value Chain Tracker)" indicates that a service chain will use the Data Value Chain Tracker. The DVCT is the implementation of a Prometheus-X building block. The connectors use it during the exchanges.
+
+!!! note
+
+    The DVCT needs an additional configuration of the connectors.
+
 ## Activating A Chain
 
 If your service chain fits all the validation rules and is properly saved, you will be able to view it in the list of service chains of your project under the `service chains` tab.
@@ -107,13 +113,18 @@ From here, you can do a couple of things:
 * Edit your chain, which will take you back to the chain builder
 * Activate your chain if it is validated
 * Disable an active chain
-* Delete your service chain
+* Visualise an active chain, to see it in a read-only view
+* Delete a chain that is in draft, with the bin icon
 
-![](../../images/service-chains-4.png)
+<p><img src="../../images/service-chains-4.png" alt="" width="85%"></p>
 
 In the example above, you can see two different scenarios, in the first one the "DEMO" chain is active, meaning that it has passed the validation checks, has been saved and then activated. You can also see that it is composed of 2 data offers, 1 service offer and 1 infrastructure offer.
 
 In the second example, the "TEST 2" chain is in a `draft` status, meaning it is not yet activated. However you can also see that the Activate button is greyed out, and this is because the current draft of that chain does not comply with the validation rules and thus cannot be activated. In that case, you should go back to the editor, validate your chain and save it again before attempting to activate it.
+
+### When an offer leaves the project
+
+When an offer used by a chain leaves the project (see [Exit requests](./exit-requests.md)), the chain goes back to draft, without this offer. It shows "Impacted by an exit request", and a banner on the "Service chains" page reminds you to edit the chain before activating it again. The **Activate** button stays disabled until the chain has been edited.
 
 ### What it means to activate a chain
 
@@ -139,13 +150,13 @@ Building a chain can have a couple special cases such as a service requiring inp
 
 ### Case 1: A service requires multiple data sources
 
-In the following example, there is a chain configuration where an infrastructure service - the anonymization service - requires additionnal data coming from another source before running its process.
+In the following example, there is a chain configuration where an infrastructure service - the anonymization service - requires additional data coming from another source before running its process.
 
 ![](../../images/service-chains-5.png)
 
 When building a chain like this, you'll see that it is as simple as dragging the output of a data offer directly into the input of the offer that requires it, even if it already has another data input inside of it.
 
-One thing to note is that internally, the service chains will always consider a "main thread" and additionnal branches. This is why in the image above, you can see the data on the right has an added `first` tag that the builder automatically added to help you identify that the start of the chain, the "main thread", begins at that specific offer.
+One thing to note is that internally, the service chains will always consider a "main thread" and additional branches. This is why in the image above, you can see the data on the right has an added `first` tag that the builder automatically added to help you identify that the start of the chain, the "main thread", begins at that specific offer.
 
 !!! tip 
 
@@ -177,7 +188,7 @@ Please also refer to how to [setup your PDC](../../guide/setting-up-a-connector.
 
 !!! warning "PDC Version"
 
-    Service chain functionnality is only available for connectors that are aligned with v1.9.0 or later of the PDC. Please make sure your connector is up to date before attempting to use a chain.
+    Service chain functionality is only available for connectors that are aligned with v1.12.0 or later of the PDC. Please make sure your connector is up to date before attempting to use a chain.
 
 !!! info "Reminder"
 

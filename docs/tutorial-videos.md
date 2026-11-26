@@ -5,11 +5,17 @@ This page centralizes the different videos you can find throughout the different
 ### Onboarding
 <iframe src="https://drive.google.com/file/d/1LMmlgYFAexFWd9xWK7JvlQddOmCeSIwj/preview" width="640" height="380" allow="autoplay"></iframe>
 
+<!-- TODO: to redo after the new videos are recorded (the interface has changed)
 ### Creating an offer
 <iframe src="https://drive.google.com/file/d/15AzzOkpF6tv3dsuMH9zNDt8VYyXgDFkn/preview" width="640" height="380" allow="autoplay"></iframe>
+-->
 
+<!-- TODO: to redo after the new videos are recorded (the interface has changed)
 ### Creating a project
 <iframe src="https://drive.google.com/file/d/1cFo5cUDDg6LyVkxU-Dposkk8Ib9kRPNB/preview" width="640" height="380" allow="autoplay"></iframe>
+-->
 
+<!-- TODO: to redo after the new videos are recorded (the interface has changed)
 ### Adding members to a project
 <iframe src="https://drive.google.com/file/d/15YSsOktzX9UZJMUJH3uFV6PJ7QLmAbhh/preview" width="640" height="380" allow="autoplay"></iframe>
+-->

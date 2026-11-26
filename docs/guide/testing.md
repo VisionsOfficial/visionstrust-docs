@@ -198,7 +198,7 @@ To select the desired flow, use the toggle control:
 
 ### Consent-Driven Exchange
 
-Testing consent involves a couple additionnal steps, such as ensuring you have registered a test user through your PDC in the PDI consent service and created an account for that user on the PDI.
+Testing consent involves a couple additional steps, such as ensuring you have registered a test user through your PDC in the PDI consent service and created an account for that user on the PDI.
 
 The interface guides you through the different steps to take, but here is a recap on what each one will ask of you.
 
