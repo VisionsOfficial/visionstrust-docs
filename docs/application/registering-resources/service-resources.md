@@ -22,14 +22,14 @@ In our example, we will be showing the flow when you come from an offering creat
 
 The first step is to define the base information for your resource. The following is a recap of what should be defined.
 
+<p><img src="../../images/create_service_resource.png" alt="Data resource creation" width="85%"></p>
+
 | Property | Mandatory | Description |
 | --- | --- | --- |
 | Resource name | yes | The name of your resource, which will be displayed when bundled in an offer |
 | Resource type | yes | A category for your resource which helps in categorization purposes |
 | Resource description | yes | A description for your resource which helps users of your offer in which this resource is present to understand the contents of your resource |
 |Location | yes | Where the service is located geographically |
-
-![Data resource creation](../../images/create_data_resource.png)
 
 ### Personal Data Information
 

@@ -12,7 +12,7 @@ If you are a Data or Service Provider
 
 2. [Create an offer](../application/registering-resources/creating-an-offer.md)
 3. Create a [data resource](../application/registering-resources/data-resources.md) or a [service resource](../application/registering-resources/service-resources.md)
-4. [Publish your offer](../application/registering-resources/creating-an-offer.md#publishing-the-offer)
+4. [Publish your offer](../application/registering-resources/offer-settings.md#publishing-the-offer)
 
 If you are a Project Leader
 
@@ -24,7 +24,7 @@ If you are a Project Leader
 
 ## Technical Steps
 
-> *You can also check the [requirements here](../guide/requirements.md) as additionnal information.*
+> *You can also check the [requirements here](../guide/requirements.md) as additional information.*
 
 7. [Install a PDC](../guide/setting-up-a-connector.md)
 8. [Configure a PDC to connect to {{ app_name }} services](../guide/setting-up-a-connector.md#configuration)

@@ -51,36 +51,49 @@ nav:
     - Getting Started:
       - Overview: application/overview.md
       - Onboarding: application/onboarding.md
-      - Dashboard: application/dashboard.md
+      - Home page: application/dashboard.md
+      - My Dashboard: application/my-dashboard.md
     - AI Assistant:
       - Overview: application/assistant.md
       - Completing with AI: application/assistant/completing.md
       - Finding matches: application/assistant/matching.md
       - Help and conversations: application/assistant/help-and-conversations.md
-    - Discovery: 
+    - Discovery:
       - Browsing: application/discovery/index.md
       - Offers: application/discovery/offers.md
       - Projects: application/discovery/projects.md
       - Infrastructure Offers: application/discovery/infrastructure.md
     - Offers:
-      - Overview: application/registering-resources/overview.md
-      - Creating an offer: application/registering-resources/creating-an-offer.md
+      - Create an offer: application/registering-resources/creating-an-offer.md
+      - Manage an offer: application/registering-resources/offer-settings.md
+      - Offer template: application/registering-resources/offer-template.md
+      - My Offers: application/registering-resources/overview.md
       - Data Resource: application/registering-resources/data-resources.md
       - Service Resource: application/registering-resources/service-resources.md
       - Infrastructure Offers: application/registering-resources/infrastructure-offers.md
       - Tips and Tricks: application/registering-resources/tips-and-tricks.md
     - Projects:
-      - Overview: application/projects/overview.md
-      - Creating a Project: application/projects/creating-a-project.md
-      - Project Settings: application/projects/project-settings.md
+      - Create a project: application/projects/creating-a-project.md
+      - Manage a project: application/projects/project-settings.md
+      - Project template: application/projects/project-template.md
+      - My Projects: application/projects/overview.md
       - Contributions: application/projects/contributions.md
       - Service Chains: application/projects/service-chains.md
+      - Exit requests: application/projects/exit-requests.md
+    - Basket:
+      - Add an offer to the basket: application/basket/overview.md
+      - Basket steps: application/basket/basket-steps.md
+      - Adjust the baseline: application/basket/adjusting-the-baseline.md
     - Negotiation:
-      # - Peer-to-Peer: application/negotiation/peer-to-peer.md
-      - Project Negotiation: application/negotiation/project-negotiation.md
-      - Invitations: application/negotiation/invitations.md
-      - Join Requests: application/negotiation/join-requests.md
-      - Negotiation Process: application/negotiation/negotiation.md
+      - Overview: application/negotiation/project-negotiation.md
+      - Invite offers: application/negotiation/invitations.md
+      - Join a project: application/negotiation/join-requests.md
+      - Review a negotiation: application/negotiation/negotiation.md
+      - Restart a negotiation: application/negotiation/restarting-a-negotiation.md
+      - Follow your negotiations: application/negotiation/following-negotiations.md
+    - Contracts:
+      - My Contracts: application/my-contracts/overview.md
+      - Sign a contract: application/my-contracts/signing-a-contract.md
   - Developers:
     - Guide: guide/guide.md
     - Requirements: guide/requirements.md
@@ -94,5 +107,8 @@ nav:
     - Settings Access: settings/settings-access.md
     - Admin Management: settings/admin-access.md
     - API Keys: settings/api-keys.md
+    - Connector & Endpoints: settings/connector-endpoints.md
     - Visibility: settings/visibility.md
+    - Configuration: settings/configuration.md
+    - PDCaaS: settings/pdcaas.md
   - Tutorial Videos: tutorial-videos.md

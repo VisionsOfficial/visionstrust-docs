@@ -18,6 +18,10 @@ If you want to easily view more offers, or more projects, the dedicated tabs wil
 
 No matter what tab you select, the discover, side-drawer and full page details expansion works the same way.
 
+### Organisations
+
+The "Organisations" tab lists the organisations of the data space. Click the **Discover** button of an organisation to see its projects and its offers. The **View this organisation's offers** button opens the catalogue with only the offers of this organisation, so that you can add them to your basket (see [Invite offers](../negotiation/invitations.md)).
+
 ### Search
 
 The catalogue offers a search features which will work in the active selected tab. For instance, if you search for something in the "All" tab, it will find features offers, projects and organization that match your search query.

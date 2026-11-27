@@ -1,40 +1,43 @@
-# Negotiation Process
+# Review a negotiation
 
-The negotiation process is the flow enabling providers & project orchestrators to negotiate on the usage of the provider's offerings in the project until they reach to an agreement.
+A negotiation goes back and forth between the orchestrator and the provider of an offer. Each time one side answers, the other side reviews the new proposal. Each exchange is called a round.
 
-After reaching an agreement the provider will be added to the project as well as his offers and their configuration as defined within the negotiation process.
+When an orchestrator invites your offer, you receive a notification: open it to review the proposal (see [Invite offers](./invitations.md)).
 
-> If you don't know how to get here, please read either the [join requests section](./join-requests.md) or the [invitations section](./invitations.md).
+## Reviewing a proposal
 
-## Negotiation actions
+<p><img src="../../images/negotiation-review.png" alt="The review page of a proposal" width="80%"></p>
 
-When receiving a notification that a negotiation is available it can mean a couple of things
+The review page shows the project, then the offers of the negotiation, one by one. For each offer, you see the package selected by the orchestrator, and the terms that can be negotiated. Each negotiable term shows what the other side proposes ("THEY PROPOSE") and a field to answer ("COUNTER WITH").
 
-- **The orchestrator has invited a provider to join a project**: The offerings of the provider have been requested to be used inside of a project, the provider receives the negotiation request and can review it, decide to either accept it or make a counter proposal.
-- **The provider has made a counter offer to an initial invitation**: After reviewing the terms and conditions of the usage of his offers in the project, the provider made a counter offer and re-negotiated, it is now to the orchestrator to review it and either accept or make a new proposition on top of it.
-- **The orchestrator has made a counter offer to the provider's offer**: After reviewing the terms & conditions of the usage of the provider's offers in the project, the orchestrator made an additional counter offer an re-negotiated. It is once again up to the provider to review it and decide what to do.
+The terms that cannot be negotiated are marked "FIXED - NOT NEGOTIABLE". A package with the "PRICE FIXED" tag cannot be negotiated on its price. The currency and the pricing description are never negotiable. Some conditions always remain fixed to ensure data compliance and security, such as the usage restrictions and the breach notification policies.
 
-This can go on a loop until both the provider and orchestrator agree to an arrangement.
+## Making a decision
 
-> Note: It is possible for a negotiation to take place again, after the participant has been added to the project members in order to **renegotiate** on the usage of his offerings, which will require a new contract signature.
+<p><img src="../../images/negotiation-decision.png" alt="The Your decision box" width="40%"></p>
 
-## Reviewing a negotiation
+At the top of the review page, the "Your decision" box shows how many fields need your decision and lists them, for example the contract duration, the renewal mode, the time period and the count. It gives you three choices:
 
-When reviewing a negotiation, there are a couple of actions that can be done.
+- **Accept all**: accept the proposal as it is. For 4 seconds, an **Undo** button lets you cancel your decision. The negotiation is then completed with the status **ACCEPTED**, and you are added to the contract of the project, which then appears in your "To sign" list (see [My Contracts](../my-contracts/overview.md)).
+- **Decline**: refuse the proposal. As for **Accept all**, an **Undo** button is available for 4 seconds. The negotiation is then completed with the status **DECLINED**, and it can be opened again: see [Restart a negotiation](./restarting-a-negotiation.md).
+- **Counter all fields**: change the values you want, then send your counter-offer.
 
-### Accepting the negotiation offer
+You can add a comment in the "Your comment" field. It is optional, and it is sent with your decision.
 
-The simplest action that can be done on either the provider's or the orchestrator's side is to accept the negotiation offer. This means that the negotiation offer suits both participants and the provider will be added to the project alongside his offers and the configurations made on top of them during the negotiation process.
+## Sending a counter-offer
 
-### Changing the negotiation values
+<p><img src="../../images/negotiation-counter-offer.png" alt="The Your decision box after a change" width="40%"></p>
 
-If the goal is to make a counter offer, the current negotiator is able to adjust the values set in the negotiation for which offerings should be used, the policies and their configuration & the pricing options. If a modification is made, then the negotiator **will not** be able to accept the negotiation and **must** send a re-negotiation offer.
+1. Change a negotiable value in a "COUNTER WITH" field. The **Send counter-offer** and **Discard changes** buttons appear, and **Accept all** and **Decline** are disabled until you send or discard your changes.
+2. Add a comment if you want to explain your counter-offer.
+3. Click the **Send counter-offer** button. All your changes are sent in one round, and the message "Counter proposal sent." appears.
 
-## Results of a successful negotiation
+Once your counter-offer is sent, the terms can no longer be edited until the other side answers. You are notified as soon as they respond.
 
-When the provider and the orchestrator end up on an agreement that suits them both and the negotiation is accepted, the following should happen
+## History
 
-- **Addition of the provider in the project**: The provider will be added to the list of participants in the project. His pending invitation or join request (depending on where it started) will be authorized and all of his offers that were negotiated will become available to the project as soon as the provider signs the project contract.
-- **Signing the contract**: To finalize the provider's participation in the project and for his negotiated offerings to be available to others AND for the offerings of the other members to be available to the provider, the provider **must** sign the project contract.
+The **History** tab shows every round of the negotiation: who made each proposal, when, and which fields changed. Nothing is overwritten. Once the negotiation is completed, the "Current proposal" tab becomes "Final proposal".
 
-Signing the project contract puts an end to the negotiation process.
+## Offers with several packages
+
+When an offer has several packages, the package chosen by the orchestrator is marked "SELECTED". To counter with another package of the offer, click its **Counter with this package** button. The package is marked "Your counter", and its negotiable values (such as the price) appear. If the package has a usage policy without a value (for example "Count"), fill it in: **Send counter-offer** stays disabled until then. Click **Undo counter** to go back to the selected package.

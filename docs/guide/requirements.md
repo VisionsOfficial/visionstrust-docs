@@ -11,7 +11,7 @@ Let's go over the different things you need to make sure are done before even co
 | Requirement | Why it's needed |
 | --- | --- |
 | [Onboarding to {{ app_name }}](../application/onboarding.md) | Creating an account on {{ app_name }} is essential to be registered as a participant of the data space. Without this, your organization will not be recognized in the dataspace and no other participant will be enable to interact with you. |
-| [Registering Offers](../application/registering-resources/overview.md) | If you are a data provider, you will need to ensure you have at least one offer available that contains a data resource. If you are a service provider, you will need to ensure you have at least one offer available that contains a service resource. |
+| [My Offers](../application/registering-resources/overview.md) | If you are a data provider, you will need to ensure you have at least one offer available that contains a data resource. If you are a service provider, you will need to ensure you have at least one offer available that contains a service resource. |
 | [Creating or joining a project](../application/negotiation/project-negotiation.md) | Data exchanges cannot take place if you are not present in any contract existing in the dataspace. In order to trigger data exchanges with participants that exist in the same contract, you should join or create a project, go through the negotiation processes and then sign that contract (and make sure the other party has signed as well). |
 
 If you or anyone in your organization has already completed these steps, you can move on to the Technical Requirements.

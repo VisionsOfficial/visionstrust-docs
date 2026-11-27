@@ -54,4 +54,4 @@ Whether you followed the onboarding or decided to go at your own pace, it is lik
 
 - [Browsing the catalogue](./discovery/index.md)
 - [Create Offers](./registering-resources/creating-an-offer.md)
-- [Create a project](./projects/overview.md)
+- [Create a project](./projects/creating-a-project.md)

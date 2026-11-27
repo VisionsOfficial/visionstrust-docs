@@ -1,31 +1,47 @@
-# Dashboard
+# Home
 
-![Dashboard Image](../images/dashboard.png)
+<p><img src="../images/home.png" alt="The Home page" width="85%"></p>
 
-Your dashboard is the center of operations for most actions you can do in the catalogue. It provides you with quick access to many different actions including:
+Your Home page is the center of operations for most actions you can do in the catalogue. It provides you with quick access to many different actions including:
 
-- Configuring your existing projects
-- Discovering offers & projects that match with your existing resources
-- Quick access to filtered [catalogue](../application/discovery/index.md) views
+- Following your activity in numbers
+- Finishing your incomplete projects and offers
+- Discovering projects that match with your existing offers
 - Easy access to managing your projects & offers
 
 !!! tip
 
     The [AI Assistant](./assistant.md) summarises what is waiting for you on the dashboard (drafts to complete, contracts to sign, requests to answer) and can comment on your indicators.
 
+## Search the catalogue
+
+The search bar at the top of the page lets you search the catalogue: type a keyword or describe your need.
+
+## Your activity
+
+At the top of the page, four numbers sum up your activity: the total revenue generated from your offers, your number of offers, the total number of requests on your offers, and the total number of connected source systems. Click the **See dashboard** button to see more details in [My Dashboard](./my-dashboard.md).
+
+## Incomplete projects and offerings
+
+This section lists your projects and offers that are not 100% complete, with their completion percentage, so that you know what is left to finish. This section only appears when you have at least one incomplete project or offer.
+
 ## Pending Requests
 
-The pending requests section will display incoming requests that you received in order to join a specific project. Usually, you'll also receive a mail and be able to view this request in the notifications, but to make things simpler, it will also be displayed in a very visual way as soon as you open your dashboard if you have any.
+The "Pending request" section shows the requests that wait for your answer, as cards with the name of the project and a **Reply** button. Use the arrows to go through the cards. Click the **Reply** button to open the request: see [Review a negotiation](./negotiation/negotiation.md). Usually, you also receive a notification, and this section shows the request as soon as you open your Home page.
 
 ## Matching recommendations
 
-The recommendations section displays projects that can match with existing offers you have registered on the catalogue. The way it matches is by analyzing the category of your offer and finds matching projects that look for offers of your category.
+The recommendations section displays projects that can match with the offers you have registered on the catalogue. It matches by analyzing the category of your offer, and finds projects that look for offers of your category. To refine these recommendations, fully configure your offer.
 
-The way the cards work is the same as in the [catalogue](../application/discovery/index.md), selecting Discover will open a side-drawer where you can view more information and also make your requests to join that specific project if you desire.
+The cards work the same way as in the catalogue: selecting **Discover** opens a side-drawer where you can view more information, and click **Join this project** if you want to join that project.
 
-## Quick Access to the catalogue
+## Manage your offers and projects
 
-The dashboard allows you to quickly access the [catalogue](../application/discovery/index.md) in a pre-defined filtered view. By clicking on one of the categories available, it will open up the [catalogue](../application/discovery/index.md) to match all resources that fit with the selected category.
+At the bottom of the page, the **Offers** and **Projects** buttons give you quick access to "My Offers" and "My Projects".
+
+## Notifications
+
+The bell at the top right of the application shows your notifications, with the number of unread ones. Click it to open the panel, filter the list with the "All" and "Unread" tabs, and click **Mark all as read** to clear it. Click a notification to open the page it is about: it is then marked as read. Some notifications ask for your response, for example a proposal to review or an exit request to approve.
 
 ## Where to go from here
 
