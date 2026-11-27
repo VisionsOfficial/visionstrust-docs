@@ -50,6 +50,10 @@ Pricing and usage policies are not available in the Dataspace template.
 
 Click the **Continue** button to create the offer. In all cases, the offer is created as a draft.
 
+!!! tip
+
+    You don't have to start from a blank form. With **Complete with AI**, the assistant fills the empty fields from a few words, a Word or PDF document, a web page or one of your existing offers. See [Completing with AI](../assistant/completing.md).
+
 ## Fine-tuning the settings of the offer
 
 Now that your offer is created, you can complete it on its own page: add resources, define your pricing packages, and set the service levels, the commitments & penalties and the termination conditions. All of this is described in the [Manage an offer](./offer-settings.md). Once the mandatory information is complete, you can publish your offer: see [Publishing the offer](./offer-settings.md#publishing-the-offer).

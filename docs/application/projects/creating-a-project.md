@@ -27,6 +27,13 @@ If you don't set an image for your project, your logo will be used instead.
 
 Click the **Continue** button to go to the second step, or the **Create as draft** button to save the project and finish it later.
 
+!!! tip
+
+    **Complete with AI** can fill this step from a few words, a document, a web page or one of your existing projects, and help you set the governance from a template or a rulebook at the next step. See [Completing with AI](../assistant/completing.md).
+
+#### Searched data & services
+The last step in project creation is selecting what kind of data and/or services your project is in need for. As for the category selection, this is essential for the same reasons:
+
 ## Step 2: Governance and Clauses
 
 <p><img src="../../images/creating-a-project-step2.png" alt="Creating a project, step 2" width="85%"></p>

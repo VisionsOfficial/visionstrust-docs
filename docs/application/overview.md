@@ -10,4 +10,6 @@
 
 This documentation covers guides for technical **and** non-technical actions that can be taken on the **catalogue** as well as technical configuration steps for developers in order to get a data exchange going.
 
+An [AI Assistant](./assistant.md) is available on every page of the catalogue to help you complete your offers and projects, find partners and understand the platform.
+
 If you haven't done so yet, get started by onboarding yourself to the {{ app_name }} catalogue. The guide can be found [here](./onboarding.md).

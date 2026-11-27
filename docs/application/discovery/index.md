@@ -37,6 +37,10 @@ The catalogue offers some Filtering options to help you fine tune what you are l
 | Type of data | Allows to filter the provided data based on their category used, it is possible to select multiple to fine-tune the search |
 | Type of service | Similar to the type of data filter, allows fine-tuning of services on a specific category |
 
+### Searching with the AI Assistant
+
+Instead of combining filters, you can describe what you need in plain language. The **Matcher** tab of the [AI Assistant](../assistant.md) ranks the catalogue against your need, or against one of your projects or offers, and explains each match. See [Finding matches](../assistant/matching.md).
+
 ### What next ?
 
 From the catalogue, you have a couple options

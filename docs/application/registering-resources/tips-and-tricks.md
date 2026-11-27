@@ -1,3 +1,7 @@
+!!! tip
+
+    The [AI Assistant](../assistant.md) can draft your offer name, caption and description from a document or a web page. Use the advice below to review and improve what it proposes. See [Completing with AI](../assistant/completing.md).
+
 ## **How to describe products and services on {{ app_name }}: tips and tricks**
 
 ### **1\. Define your audience**

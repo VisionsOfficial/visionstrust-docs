@@ -13,6 +13,13 @@ The dataspace vocabulary can be combursome to deal with as there are many terms 
 | Infrastructure Service Offer | A service implementing a Prometheus-X Building Block that can be used in service chains within data space use cases. |
 | Infrastructure Provider | A participant that proposes an infrastructure service on the marketplace |
 | Service Chain | A representation of a complex workflow of data sequences between offers of multiple members of a single project |
+| Orchestrator | The participant that creates and runs a project, invites or accepts its members and negotiates the use of their offers. |
+| Basket | The selection of catalogue offers you intend to request, which you assign to your projects and adjust before sending your requests. |
+| Dataspace Template | A ready-made set of balanced terms and clauses that can be applied when creating an offer or a project, instead of configuring each term manually. |
+| Negotiable term | A term of an offer that the other party may ask to change, within the range the provider accepts. |
+| Usage policy | The usage rules attached to an offer, checked at each exchange. |
+| Match score | A percentage indicating how well an offer and a project fit, based on their categories, freshness and licence, or on the AI Assistant's reading of their descriptions. |
+| AI Assistant | The assistant available on every page of the catalogue to complete content, find matches and answer questions. See [AI Assistant](./application/assistant.md). |
 | Contract | The object representing the data sharing agreement either between multiple members in the case of a Data Space Use Case contract or between 2 participants in the case of a bilateral contract |
 | Orchestrator | The participant who creates and leads a project. It invites the offers it needs and negotiates their terms with the providers. |
 | Join request | A request sent by a participant to join a project. The orchestrator then chooses which offers of this participant to invite. |

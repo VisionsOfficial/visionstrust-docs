@@ -53,7 +53,12 @@ nav:
       - Onboarding: application/onboarding.md
       - Home page: application/dashboard.md
       - My Dashboard: application/my-dashboard.md
-    - Discovery: 
+    - AI Assistant:
+      - Overview: application/assistant.md
+      - Completing with AI: application/assistant/completing.md
+      - Finding matches: application/assistant/matching.md
+      - Help and conversations: application/assistant/help-and-conversations.md
+    - Discovery:
       - Browsing: application/discovery/index.md
       - Offers: application/discovery/offers.md
       - Projects: application/discovery/projects.md
@@ -78,7 +83,7 @@ nav:
     - Basket:
       - Add an offer to the basket: application/basket/overview.md
       - Basket steps: application/basket/basket-steps.md
-      - Adjust the baseline: application/basket/adjusting-the-baseline.md  
+      - Adjust the baseline: application/basket/adjusting-the-baseline.md
     - Negotiation:
       - Overview: application/negotiation/project-negotiation.md
       - Invite offers: application/negotiation/invitations.md

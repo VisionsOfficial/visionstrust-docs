@@ -9,6 +9,10 @@ Your Home page is the center of operations for most actions you can do in the ca
 - Discovering projects that match with your existing offers
 - Easy access to managing your projects & offers
 
+!!! tip
+
+    The [AI Assistant](./assistant.md) summarises what is waiting for you on the dashboard (drafts to complete, contracts to sign, requests to answer) and can comment on your indicators.
+
 ## Search the catalogue
 
 The search bar at the top of the page lets you search the catalogue: type a keyword or describe your need.
@@ -44,3 +48,4 @@ The bell at the top right of the application shows your notifications, with the 
 - [Create an offer](./registering-resources/creating-an-offer.md)
 - [Create a project](./projects/creating-a-project.md)
 - [Join a project](./negotiation/join-requests.md)
+- [Use the AI Assistant](./assistant.md)
